@@ -177,12 +177,15 @@ OCR_RESIDUAL = {
 
 
 def audit_ocr_residual(vocab):
+    """人工复核确认的 OCR 残留：按（词条, 读音）是否仍在表中判定，
+    不用写死的行号（词表增删行后仍然有效）。"""
     hits = []
+    present = {lv: {(r["word"], r["reading"]) for r in rows}
+               for lv, rows in vocab.items()}
     for (lv, line), (word, reading) in sorted(OCR_RESIDUAL.items()):
-        got = vocab[lv][line - 2]
-        if (got["word"], got["reading"]) != (word, reading):
-            hits.append("%s:%d 当前 %s/%s，应为 %s/%s"
-                        % (lv, line, got["word"], got["reading"], word, reading))
+        if (word, reading) not in present.get(lv, set()):
+            hits.append("%s 原第%d行 %s/%s 已不在词表中"
+                        % (lv, line, word, reading))
     add("JP 词汇", "高", "人工复核确认的 OCR 残留（词条/读音串字）", hits)
 
 

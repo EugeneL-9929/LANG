@@ -89,3 +89,29 @@
 - OCR 修正清单「修正后」列失真 65 行已按词表回填（`.verify/fix_jp_ocr_list.py`）
 - 语法例句已与原书文字层全量比对：jp 2332 条（完全一致 1307）、de 716 条（仅 14，
   疑为生成内容，待确认）；报告见 `.verify/report_*_grammar_book.md`
+
+## 第二轮核查（2026-10-11 晚）
+
+机械审计之外，又对「例句与词条是否对应 / 读音是否成词 / 字形是否 OCR 误识」
+做了定向排查，共修正 143 处。详见 `.verify/report_verify_20261011.md`。
+
+- jp/vocabulary 修正 137 处：词条被误识的汉字 26 条（普察→警察、一停→バス停、
+  青備号→青信号、蛋→蛋白質 …）、串字/假名残留 8 条、读音错误或混入「ナ」22 条、
+  例句与词条不符 8 条；删掉 2 条与已有条目重复的残缺条目（ゼロれい、～法）。
+- jp/notes/OCR修正清单 同步 5 行；外来语出处清单删 1 行重复。
+- de/vocabulary：Offensicht 由误收名词改为形容词 offensichtlich；
+  Publikum/Ärger/Weltfrieden/Drogenschmuggel 改为「无复数」，xlsx 重新生成。
+- de/grammar：DE_grammar_all.csv 与分级表行序对齐。
+
+复现脚本（默认预演，`--write` 落盘）：`.verify/fix_vocab_20261011.py`、
+`fix_vocab3_20261011.py`、`fix_notes_20261011.py`。
+修正前快照：`backups/jp_pre_fix_20261011b/`、`backups/jp_pre_fix3_20261011/`。
+
+## 第四轮（用户确认：假名词条统一改汉字正字）
+
+`fix_vocab4_20261011.py`：41 条「word 假名、汉字只写在释义（＝…）里」的条目，
+37 条改为汉字正字并删掉释义里的（＝…）、例句同步换汉字；
+4 条与已有汉字条目完全重复（おり/きょうよう/きん/くも）删冗余行合并。
+另把 `OCR修正清单.csv` 的「行号」按（修正后词条+读音）重锚到当前行号；
+`audit_jp.py` 的 OCR 残留检查改为按词条判定，不再依赖写死行号。
+快照 `backups/jp_pre_fix4_20261011/`。
