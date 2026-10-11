@@ -1,0 +1,954 @@
+﻿level,category,table,variant,slot,form,example_de,example_zh,note,book_ref
+A1,变格,定冠词 der/die/das,阳性,第一格(Nominativ),der,Der Mann ist hier.,这个男人在这儿。,,5.2
+A1,变格,定冠词 der/die/das,阳性,第四格(Akkusativ),den,Ich sehe den Mann.,我看见这个男人。,,5.2
+A1,变格,定冠词 der/die/das,阳性,第三格(Dativ),dem,Mit dem Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,5.2
+A1,变格,定冠词 der/die/das,阳性,第二格(Genitiv),des,Das Auto des Mannes ist neu.,这个男人的车是新的。,,5.2
+A1,变格,定冠词 der/die/das,中性,第一格(Nominativ),das,Das Kind ist hier.,这个孩子在这儿。,,5.2
+A1,变格,定冠词 der/die/das,中性,第四格(Akkusativ),das,Ich sehe das Kind.,我看见这个孩子。,,5.2
+A1,变格,定冠词 der/die/das,中性,第三格(Dativ),dem,Mit dem Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,5.2
+A1,变格,定冠词 der/die/das,中性,第二格(Genitiv),des,Das Auto des Kindes ist neu.,这个孩子的车是新的。,,5.2
+A1,变格,定冠词 der/die/das,阴性,第一格(Nominativ),die,Die Frau ist hier.,这个女人在这儿。,,5.2
+A1,变格,定冠词 der/die/das,阴性,第四格(Akkusativ),die,Ich sehe die Frau.,我看见这个女人。,,5.2
+A1,变格,定冠词 der/die/das,阴性,第三格(Dativ),der,Mit der Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,5.2
+A1,变格,定冠词 der/die/das,阴性,第二格(Genitiv),der,Das Auto der Frau ist neu.,这个女人的车是新的。,,5.2
+A1,变格,定冠词 der/die/das,复数,第一格(Nominativ),die,Die Kinder sind hier.,这些孩子在这儿。,,5.2
+A1,变格,定冠词 der/die/das,复数,第四格(Akkusativ),die,Ich sehe die Kinder.,我看见这些孩子。,,5.2
+A1,变格,定冠词 der/die/das,复数,第三格(Dativ),den,Mit den Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,名词词尾加 -n（den Kindern）,5.2
+A1,变格,定冠词 der/die/das,复数,第二格(Genitiv),der,Das Auto der Kinder ist neu.,这些孩子的车是新的。,,5.2
+A1,变格,不定冠词 ein/eine,阳性,第一格(Nominativ),ein,Ein Mann ist hier.,这个男人在这儿。,不定冠词没有复数形式，复数用 kein- 或零冠词,5.2
+A1,变格,不定冠词 ein/eine,阳性,第四格(Akkusativ),einen,Ich sehe einen Mann.,我看见这个男人。,,5.2
+A1,变格,不定冠词 ein/eine,阳性,第三格(Dativ),einem,Mit einem Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,5.2
+A1,变格,不定冠词 ein/eine,阳性,第二格(Genitiv),eines,Das Auto eines Mannes ist neu.,这个男人的车是新的。,,5.2
+A1,变格,不定冠词 ein/eine,中性,第一格(Nominativ),ein,Ein Kind ist hier.,这个孩子在这儿。,,5.2
+A1,变格,不定冠词 ein/eine,中性,第四格(Akkusativ),ein,Ich sehe ein Kind.,我看见这个孩子。,,5.2
+A1,变格,不定冠词 ein/eine,中性,第三格(Dativ),einem,Mit einem Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,5.2
+A1,变格,不定冠词 ein/eine,中性,第二格(Genitiv),eines,Das Auto eines Kindes ist neu.,这个孩子的车是新的。,,5.2
+A1,变格,不定冠词 ein/eine,阴性,第一格(Nominativ),eine,Eine Frau ist hier.,这个女人在这儿。,,5.2
+A1,变格,不定冠词 ein/eine,阴性,第四格(Akkusativ),eine,Ich sehe eine Frau.,我看见这个女人。,,5.2
+A1,变格,不定冠词 ein/eine,阴性,第三格(Dativ),einer,Mit einer Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,5.2
+A1,变格,不定冠词 ein/eine,阴性,第二格(Genitiv),einer,Das Auto einer Frau ist neu.,这个女人的车是新的。,,5.2
+A1,变格,否定冠词 kein-,阳性,第一格(Nominativ),kein,Kein Mann ist hier.,这儿没有男人。,,5.3.4
+A1,变格,否定冠词 kein-,阳性,第四格(Akkusativ),keinen,Ich sehe keinen Mann.,我没有看见男人。,,5.3.4
+A1,变格,否定冠词 kein-,阳性,第三格(Dativ),keinem,Ich spreche mit keinem Mann.,我不和男人说话。,,5.3.4
+A1,变格,否定冠词 kein-,阳性,第二格(Genitiv),keines,Das ist das Auto keines Mannes.,这不是男人的车。,,5.3.4
+A1,变格,否定冠词 kein-,中性,第一格(Nominativ),kein,Kein Kind ist hier.,这儿没有孩子。,,5.3.4
+A1,变格,否定冠词 kein-,中性,第四格(Akkusativ),kein,Ich sehe kein Kind.,我没有看见孩子。,,5.3.4
+A1,变格,否定冠词 kein-,中性,第三格(Dativ),keinem,Ich spreche mit keinem Kind.,我不和孩子说话。,,5.3.4
+A1,变格,否定冠词 kein-,中性,第二格(Genitiv),keines,Das ist das Auto keines Kindes.,这不是孩子的车。,,5.3.4
+A1,变格,否定冠词 kein-,阴性,第一格(Nominativ),keine,Keine Frau ist hier.,这儿没有女人。,,5.3.4
+A1,变格,否定冠词 kein-,阴性,第四格(Akkusativ),keine,Ich sehe keine Frau.,我没有看见女人。,,5.3.4
+A1,变格,否定冠词 kein-,阴性,第三格(Dativ),keiner,Ich spreche mit keiner Frau.,我不和女人说话。,,5.3.4
+A1,变格,否定冠词 kein-,阴性,第二格(Genitiv),keiner,Das ist das Auto keiner Frau.,这不是女人的车。,,5.3.4
+A1,变格,否定冠词 kein-,复数,第一格(Nominativ),keine,Keine Kinder ist hier.,这儿没有孩子们。,,5.3.4
+A1,变格,否定冠词 kein-,复数,第四格(Akkusativ),keine,Ich sehe keine Kinder.,我没有看见孩子们。,,5.3.4
+A1,变格,否定冠词 kein-,复数,第三格(Dativ),keinen,Ich spreche mit keinen Kindern.,我不和孩子们说话。,,5.3.4
+A1,变格,否定冠词 kein-,复数,第二格(Genitiv),keiner,Das ist das Auto keiner Kinder.,这不是孩子们的车。,,5.3.4
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阳性,第一格(Nominativ),mein,Mein Mann ist hier.,这个男人在这儿。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阳性,第四格(Akkusativ),meinen,Ich sehe meinen Mann.,我看见这个男人。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阳性,第三格(Dativ),meinem,Mit meinem Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阳性,第二格(Genitiv),meines,Das Auto meines Mannes ist neu.,这个男人的车是新的。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,中性,第一格(Nominativ),mein,Mein Kind ist hier.,这个孩子在这儿。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,中性,第四格(Akkusativ),mein,Ich sehe mein Kind.,我看见这个孩子。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,中性,第三格(Dativ),meinem,Mit meinem Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,中性,第二格(Genitiv),meines,Das Auto meines Kindes ist neu.,这个孩子的车是新的。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阴性,第一格(Nominativ),meine,Meine Frau ist hier.,这个女人在这儿。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阴性,第四格(Akkusativ),meine,Ich sehe meine Frau.,我看见这个女人。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阴性,第三格(Dativ),meiner,Mit meiner Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,阴性,第二格(Genitiv),meiner,Das Auto meiner Frau ist neu.,这个女人的车是新的。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,复数,第一格(Nominativ),meine,Meine Kinder sind hier.,这些孩子在这儿。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,复数,第四格(Akkusativ),meine,Ich sehe meine Kinder.,我看见这些孩子。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,复数,第三格(Dativ),meinen,Mit meinen Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,5.3.5
+A1,变格,物主冠词 mein-（mein/dein/sein/ihr/unser/euer/Ihr）,复数,第二格(Genitiv),meiner,Das Auto meiner Kinder ist neu.,这些孩子的车是新的。,,5.3.5
+A2,变格,疑问代词 welch-（作疑问冠词）,阳性,第一格(Nominativ),welcher,Welcher Mann ist hier?,哪个男人在这儿？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阳性,第四格(Akkusativ),welchen,Welchen Mann siehst du?,你看见哪个男人？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阳性,第三格(Dativ),welchem,Welchem Mann hilfst du?,你帮助哪个男人？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阳性,第二格(Genitiv),welches,Das Auto welches Mannes ist neu?,哪个男人的车是新的吗？,第二格属罕用形式,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,中性,第一格(Nominativ),welches,Welches Kind ist hier?,哪个孩子在这儿？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,中性,第四格(Akkusativ),welches,Welches Kind siehst du?,你看见哪个孩子？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,中性,第三格(Dativ),welchem,Welchem Kind hilfst du?,你帮助哪个孩子？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,中性,第二格(Genitiv),welches,Das Auto welches Kindes ist neu?,哪个孩子的车是新的吗？,第二格属罕用形式,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阴性,第一格(Nominativ),welche,Welche Frau ist hier?,哪个女人在这儿？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阴性,第四格(Akkusativ),welche,Welche Frau siehst du?,你看见哪个女人？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阴性,第三格(Dativ),welcher,Welcher Frau hilfst du?,你帮助哪个女人？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,阴性,第二格(Genitiv),welcher,Das Auto welcher Frau ist neu?,哪个女人的车是新的吗？,第二格属罕用形式,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,复数,第一格(Nominativ),welche,Welche Kinder sind hier?,哪些孩子在这儿？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,复数,第四格(Akkusativ),welche,Welche Kinder siehst du?,你看见哪些孩子？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,复数,第三格(Dativ),welchen,Welchen Kindern hilfst du?,你帮助哪些孩子？,,7.4.2.1
+A2,变格,疑问代词 welch-（作疑问冠词）,复数,第二格(Genitiv),welcher,Das Auto welcher Kinder ist neu?,哪些孩子的车是新的吗？,第二格属罕用形式,7.4.2.1
+A2,变格,疑问代词 was für ein-,阳性,第一格(Nominativ),ein,Was für ein Mann ist das?,这是什么样的男人？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,阳性,第四格(Akkusativ),einen,Was für einen Mann suchst du?,你在找什么样的男人？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,阳性,第三格(Dativ),einem,Mit was für einem Mann sprichst du?,你在和什么样的男人说话？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,中性,第一格(Nominativ),ein,Was für ein Kind ist das?,这是什么样的孩子？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,中性,第四格(Akkusativ),ein,Was für ein Kind suchst du?,你在找什么样的孩子？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,中性,第三格(Dativ),einem,Mit was für einem Kind sprichst du?,你在和什么样的孩子说话？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,阴性,第一格(Nominativ),eine,Was für eine Frau ist das?,这是什么样的女人？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,阴性,第四格(Akkusativ),eine,Was für eine Frau suchst du?,你在找什么样的女人？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,阴性,第三格(Dativ),einer,Mit was für einer Frau sprichst du?,你在和什么样的女人说话？,第二格不用,7.4.3.1
+A2,变格,疑问代词 was für ein-,复数,第一格(Nominativ),was für + 复数名词,Was für Bücher liest du?,你读什么样的书？,复数用 welch- 替代 ein-,7.4.3.1
+A2,变格,疑问代词 was für ein-,复数,第四格(Akkusativ),was für + 复数名词,Was für Bücher kaufst du?,你买什么样的书？,复数用 welch- 替代 ein-,7.4.3.1
+A2,变格,疑问代词 was für ein-,复数,第三格(Dativ),was für + 复数名词,Mit was für Kindern spielst du?,你和什么样的孩子玩？,复数用 welch- 替代 ein-（第三格名词加 -n）,7.4.3.1
+A2,变格,指示代词 dieser,阳性,第一格(Nominativ),dieser,Dieser Mann ist hier.,这个男人在这儿。,,7.5.2.1
+A2,变格,指示代词 dieser,阳性,第四格(Akkusativ),diesen,Ich sehe diesen Mann.,我看见这个男人。,,7.5.2.1
+A2,变格,指示代词 dieser,阳性,第三格(Dativ),diesem,Mit diesem Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,7.5.2.1
+A2,变格,指示代词 dieser,阳性,第二格(Genitiv),dieses,Das Auto dieses Mannes ist neu.,这个男人的车是新的。,,7.5.2.1
+A2,变格,指示代词 dieser,中性,第一格(Nominativ),dieses,Dieses Kind ist hier.,这个孩子在这儿。,,7.5.2.1
+A2,变格,指示代词 dieser,中性,第四格(Akkusativ),dieses,Ich sehe dieses Kind.,我看见这个孩子。,,7.5.2.1
+A2,变格,指示代词 dieser,中性,第三格(Dativ),diesem,Mit diesem Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,7.5.2.1
+A2,变格,指示代词 dieser,中性,第二格(Genitiv),dieses,Das Auto dieses Kindes ist neu.,这个孩子的车是新的。,,7.5.2.1
+A2,变格,指示代词 dieser,阴性,第一格(Nominativ),diese,Diese Frau ist hier.,这个女人在这儿。,,7.5.2.1
+A2,变格,指示代词 dieser,阴性,第四格(Akkusativ),diese,Ich sehe diese Frau.,我看见这个女人。,,7.5.2.1
+A2,变格,指示代词 dieser,阴性,第三格(Dativ),dieser,Mit dieser Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,7.5.2.1
+A2,变格,指示代词 dieser,阴性,第二格(Genitiv),dieser,Das Auto dieser Frau ist neu.,这个女人的车是新的。,,7.5.2.1
+A2,变格,指示代词 dieser,复数,第一格(Nominativ),diese,Diese Kinder sind hier.,这些孩子在这儿。,,7.5.2.1
+A2,变格,指示代词 dieser,复数,第四格(Akkusativ),diese,Ich sehe diese Kinder.,我看见这些孩子。,,7.5.2.1
+A2,变格,指示代词 dieser,复数,第三格(Dativ),diesen,Mit diesen Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,7.5.2.1
+A2,变格,指示代词 dieser,复数,第二格(Genitiv),dieser,Das Auto dieser Kinder ist neu.,这些孩子的车是新的。,,7.5.2.1
+B1,变格,指示代词 jener,阳性,第一格(Nominativ),jener,Jener Mann ist hier.,这个男人在这儿。,,7.5.3.1
+B1,变格,指示代词 jener,阳性,第四格(Akkusativ),jenen,Ich sehe jenen Mann.,我看见这个男人。,,7.5.3.1
+B1,变格,指示代词 jener,阳性,第三格(Dativ),jenem,Mit jenem Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,7.5.3.1
+B1,变格,指示代词 jener,阳性,第二格(Genitiv),jenes,Das Auto jenes Mannes ist neu.,这个男人的车是新的。,,7.5.3.1
+B1,变格,指示代词 jener,中性,第一格(Nominativ),jenes,Jenes Kind ist hier.,这个孩子在这儿。,,7.5.3.1
+B1,变格,指示代词 jener,中性,第四格(Akkusativ),jenes,Ich sehe jenes Kind.,我看见这个孩子。,,7.5.3.1
+B1,变格,指示代词 jener,中性,第三格(Dativ),jenem,Mit jenem Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,7.5.3.1
+B1,变格,指示代词 jener,中性,第二格(Genitiv),jenes,Das Auto jenes Kindes ist neu.,这个孩子的车是新的。,,7.5.3.1
+B1,变格,指示代词 jener,阴性,第一格(Nominativ),jene,Jene Frau ist hier.,这个女人在这儿。,,7.5.3.1
+B1,变格,指示代词 jener,阴性,第四格(Akkusativ),jene,Ich sehe jene Frau.,我看见这个女人。,,7.5.3.1
+B1,变格,指示代词 jener,阴性,第三格(Dativ),jener,Mit jener Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,7.5.3.1
+B1,变格,指示代词 jener,阴性,第二格(Genitiv),jener,Das Auto jener Frau ist neu.,这个女人的车是新的。,,7.5.3.1
+B1,变格,指示代词 jener,复数,第一格(Nominativ),jene,Jene Kinder sind hier.,这些孩子在这儿。,,7.5.3.1
+B1,变格,指示代词 jener,复数,第四格(Akkusativ),jene,Ich sehe jene Kinder.,我看见这些孩子。,,7.5.3.1
+B1,变格,指示代词 jener,复数,第三格(Dativ),jenen,Mit jenen Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,7.5.3.1
+B1,变格,指示代词 jener,复数,第二格(Genitiv),jener,Das Auto jener Kinder ist neu.,这些孩子的车是新的。,,7.5.3.1
+B1,变格,指示代词 derselbe,阳性,第一格(Nominativ),derselbe,Derselbe Mann ist hier.,这个男人在这儿。,,7.5.4.1
+B1,变格,指示代词 derselbe,阳性,第四格(Akkusativ),denselben,Ich sehe denselben Mann.,我看见这个男人。,,7.5.4.1
+B1,变格,指示代词 derselbe,阳性,第三格(Dativ),demselben,Mit demselben Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,7.5.4.1
+B1,变格,指示代词 derselbe,阳性,第二格(Genitiv),desselben,Das Auto desselben Mannes ist neu.,这个男人的车是新的。,,7.5.4.1
+B1,变格,指示代词 derselbe,中性,第一格(Nominativ),dasselbe,Dasselbe Kind ist hier.,这个孩子在这儿。,,7.5.4.1
+B1,变格,指示代词 derselbe,中性,第四格(Akkusativ),dasselbe,Ich sehe dasselbe Kind.,我看见这个孩子。,,7.5.4.1
+B1,变格,指示代词 derselbe,中性,第三格(Dativ),demselben,Mit demselben Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,7.5.4.1
+B1,变格,指示代词 derselbe,中性,第二格(Genitiv),desselben,Das Auto desselben Kindes ist neu.,这个孩子的车是新的。,,7.5.4.1
+B1,变格,指示代词 derselbe,阴性,第一格(Nominativ),dieselbe,Dieselbe Frau ist hier.,这个女人在这儿。,,7.5.4.1
+B1,变格,指示代词 derselbe,阴性,第四格(Akkusativ),dieselbe,Ich sehe dieselbe Frau.,我看见这个女人。,,7.5.4.1
+B1,变格,指示代词 derselbe,阴性,第三格(Dativ),derselben,Mit derselben Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,7.5.4.1
+B1,变格,指示代词 derselbe,阴性,第二格(Genitiv),derselben,Das Auto derselben Frau ist neu.,这个女人的车是新的。,,7.5.4.1
+B1,变格,指示代词 derselbe,复数,第一格(Nominativ),dieselben,Dieselben Kinder sind hier.,这些孩子在这儿。,,7.5.4.1
+B1,变格,指示代词 derselbe,复数,第四格(Akkusativ),dieselben,Ich sehe dieselben Kinder.,我看见这些孩子。,,7.5.4.1
+B1,变格,指示代词 derselbe,复数,第三格(Dativ),denselben,Mit denselben Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,7.5.4.1
+B1,变格,指示代词 derselbe,复数,第二格(Genitiv),derselben,Das Auto derselben Kinder ist neu.,这些孩子的车是新的。,,7.5.4.1
+B1,变格,指示代词 derjenige,阳性,第一格(Nominativ),derjenige,Derjenige Mann ist hier.,这个男人在这儿。,"derjenige 通常后接关系从句（derjenige, der ...）",7.5.6.1
+B1,变格,指示代词 derjenige,阳性,第四格(Akkusativ),denjenigen,Ich sehe denjenigen Mann.,我看见这个男人。,,7.5.6.1
+B1,变格,指示代词 derjenige,阳性,第三格(Dativ),demjenigen,Mit demjenigen Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,7.5.6.1
+B1,变格,指示代词 derjenige,阳性,第二格(Genitiv),desjenigen,Das Auto desjenigen Mannes ist neu.,这个男人的车是新的。,,7.5.6.1
+B1,变格,指示代词 derjenige,中性,第一格(Nominativ),dasjenige,Dasjenige Kind ist hier.,这个孩子在这儿。,,7.5.6.1
+B1,变格,指示代词 derjenige,中性,第四格(Akkusativ),dasjenige,Ich sehe dasjenige Kind.,我看见这个孩子。,,7.5.6.1
+B1,变格,指示代词 derjenige,中性,第三格(Dativ),demjenigen,Mit demjenigen Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,7.5.6.1
+B1,变格,指示代词 derjenige,中性,第二格(Genitiv),desjenigen,Das Auto desjenigen Kindes ist neu.,这个孩子的车是新的。,,7.5.6.1
+B1,变格,指示代词 derjenige,阴性,第一格(Nominativ),diejenige,Diejenige Frau ist hier.,这个女人在这儿。,,7.5.6.1
+B1,变格,指示代词 derjenige,阴性,第四格(Akkusativ),diejenige,Ich sehe diejenige Frau.,我看见这个女人。,,7.5.6.1
+B1,变格,指示代词 derjenige,阴性,第三格(Dativ),derjenigen,Mit derjenigen Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,7.5.6.1
+B1,变格,指示代词 derjenige,阴性,第二格(Genitiv),derjenigen,Das Auto derjenigen Frau ist neu.,这个女人的车是新的。,,7.5.6.1
+B1,变格,指示代词 derjenige,复数,第一格(Nominativ),diejenigen,Diejenigen Kinder sind hier.,这些孩子在这儿。,,7.5.6.1
+B1,变格,指示代词 derjenige,复数,第四格(Akkusativ),diejenigen,Ich sehe diejenigen Kinder.,我看见这些孩子。,,7.5.6.1
+B1,变格,指示代词 derjenige,复数,第三格(Dativ),denjenigen,Mit denjenigen Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,7.5.6.1
+B1,变格,指示代词 derjenige,复数,第二格(Genitiv),derjenigen,Das Auto derjenigen Kinder ist neu.,这些孩子的车是新的。,,7.5.6.1
+B1,变格,指示代词 solcher,阳性,第一格(Nominativ),solcher,Solcher Wein ist teuer.,这种葡萄酒很贵。,现代德语中更常说 ein solcher / solch ein,7.5.7.1
+B1,变格,指示代词 solcher,阳性,第四格(Akkusativ),solchen,Ich brauche solchen Wein.,我需要这种葡萄酒。,,7.5.7.1
+B1,变格,指示代词 solcher,阳性,第三格(Dativ),solchem,Mit solchem Wein geht alles leichter.,和这种葡萄酒一起，做什么都轻松些。,,7.5.7.1
+B1,变格,指示代词 solcher,阳性,第二格(Genitiv),solchen,Der Preis solchen Weines ist hoch.,这种葡萄酒的价格很高。,,7.5.7.1
+B1,变格,指示代词 solcher,中性,第一格(Nominativ),solches,Solches Brot ist teuer.,这种面包很贵。,,7.5.7.1
+B1,变格,指示代词 solcher,中性,第四格(Akkusativ),solches,Ich brauche solches Brot.,我需要这种面包。,,7.5.7.1
+B1,变格,指示代词 solcher,中性,第三格(Dativ),solchem,Mit solchem Brot geht alles leichter.,和这种面包一起，做什么都轻松些。,,7.5.7.1
+B1,变格,指示代词 solcher,中性,第二格(Genitiv),solchen,Der Preis solchen Brotes ist hoch.,这种面包的价格很高。,,7.5.7.1
+B1,变格,指示代词 solcher,阴性,第一格(Nominativ),solche,Solche Suppe ist teuer.,这种汤很贵。,,7.5.7.1
+B1,变格,指示代词 solcher,阴性,第四格(Akkusativ),solche,Ich brauche solche Suppe.,我需要这种汤。,,7.5.7.1
+B1,变格,指示代词 solcher,阴性,第三格(Dativ),solcher,Mit solcher Suppe geht alles leichter.,和这种汤一起，做什么都轻松些。,,7.5.7.1
+B1,变格,指示代词 solcher,阴性,第二格(Genitiv),solcher,Der Preis solcher Suppe ist hoch.,这种汤的价格很高。,,7.5.7.1
+B1,变格,指示代词 solcher,复数,第一格(Nominativ),solche,Solche Bücher sind teuer.,这些书很贵。,,7.5.7.1
+B1,变格,指示代词 solcher,复数,第四格(Akkusativ),solche,Ich brauche solche Bücher.,我需要这些书。,,7.5.7.1
+B1,变格,指示代词 solcher,复数,第三格(Dativ),solchen,Mit solchen Büchern geht alles leichter.,和这些书一起，做什么都轻松些。,,7.5.7.1
+B1,变格,指示代词 solcher,复数,第二格(Genitiv),solcher,Der Preis solcher Bücher ist hoch.,这些书的价格很高。,,7.5.7.1
+B2,变格,指示代词 der eine … der andere,阳性,第一格(Nominativ),der eine,Der eine Mann ist hier.,这个男人在这儿。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阳性,第四格(Akkusativ),den einen,Ich sehe den einen Mann.,我看见这个男人。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阳性,第三格(Dativ),dem einen,Mit dem einen Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阳性,第二格(Genitiv),des einen,Das Auto des einen Mannes ist neu.,这个男人的车是新的。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,中性,第一格(Nominativ),das eine,Das eine Kind ist hier.,这个孩子在这儿。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,中性,第四格(Akkusativ),das eine,Ich sehe das eine Kind.,我看见这个孩子。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,中性,第三格(Dativ),dem einen,Mit dem einen Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,中性,第二格(Genitiv),des einen,Das Auto des einen Kindes ist neu.,这个孩子的车是新的。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阴性,第一格(Nominativ),die eine,Die eine Frau ist hier.,这个女人在这儿。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阴性,第四格(Akkusativ),die eine,Ich sehe die eine Frau.,我看见这个女人。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阴性,第三格(Dativ),der einen,Mit der einen Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,阴性,第二格(Genitiv),der einen,Das Auto der einen Frau ist neu.,这个女人的车是新的。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,复数,第一格(Nominativ),die einen,Die einen Kinder sind hier.,这些孩子在这儿。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,复数,第四格(Akkusativ),die einen,Ich sehe die einen Kinder.,我看见这些孩子。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,复数,第三格(Dativ),den einen,Mit den einen Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,7.5.8.1
+B2,变格,指示代词 der eine … der andere,复数,第二格(Genitiv),der einen,Das Auto der einen Kinder ist neu.,这些孩子的车是新的。,,7.5.8.1
+A2,变格,形容词词尾（定冠词后）,阳性,第一格(Nominativ),-e,Der gute Mann ist hier.,这个男人在这儿。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阳性,第四格(Akkusativ),-en,Ich sehe den guten Mann.,我看见这个男人。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阳性,第三格(Dativ),-en,Mit dem guten Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阳性,第二格(Genitiv),-en,Das Auto des guten Mannes ist neu.,这个男人的车是新的。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,中性,第一格(Nominativ),-e,Das gute Kind ist hier.,这个孩子在这儿。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,中性,第四格(Akkusativ),-e,Ich sehe das gute Kind.,我看见这个孩子。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,中性,第三格(Dativ),-en,Mit dem guten Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,中性,第二格(Genitiv),-en,Das Auto des guten Kindes ist neu.,这个孩子的车是新的。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阴性,第一格(Nominativ),-e,Die gute Frau ist hier.,这个女人在这儿。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阴性,第四格(Akkusativ),-e,Ich sehe die gute Frau.,我看见这个女人。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阴性,第三格(Dativ),-en,Mit der guten Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,阴性,第二格(Genitiv),-en,Das Auto der guten Frau ist neu.,这个女人的车是新的。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,复数,第一格(Nominativ),-en,Die guten Kinder sind hier.,这些孩子在这儿。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,复数,第四格(Akkusativ),-en,Ich sehe die guten Kinder.,我看见这些孩子。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,复数,第三格(Dativ),-en,Mit den guten Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,4.2.1
+A2,变格,形容词词尾（定冠词后）,复数,第二格(Genitiv),-en,Das Auto der guten Kinder ist neu.,这些孩子的车是新的。,,4.2.1
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阳性,第一格(Nominativ),-er,Mein guter Mann ist hier.,这个男人在这儿。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阳性,第四格(Akkusativ),-en,Ich sehe meinen guten Mann.,我看见这个男人。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阳性,第三格(Dativ),-en,Mit meinem guten Mann geht alles leichter.,和这个男人一起，做什么都轻松些。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阳性,第二格(Genitiv),-en,Das Auto meines guten Mannes ist neu.,这个男人的车是新的。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,中性,第一格(Nominativ),-es,Mein gutes Kind ist hier.,这个孩子在这儿。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,中性,第四格(Akkusativ),-es,Ich sehe mein gutes Kind.,我看见这个孩子。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,中性,第三格(Dativ),-en,Mit meinem guten Kind geht alles leichter.,和这个孩子一起，做什么都轻松些。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,中性,第二格(Genitiv),-en,Das Auto meines guten Kindes ist neu.,这个孩子的车是新的。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阴性,第一格(Nominativ),-e,Meine gute Frau ist hier.,这个女人在这儿。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阴性,第四格(Akkusativ),-e,Ich sehe meine gute Frau.,我看见这个女人。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阴性,第三格(Dativ),-en,Mit meiner guten Frau geht alles leichter.,和这个女人一起，做什么都轻松些。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,阴性,第二格(Genitiv),-en,Das Auto meiner guten Frau ist neu.,这个女人的车是新的。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,复数,第一格(Nominativ),-en,Meine guten Kinder sind hier.,这些孩子在这儿。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,复数,第四格(Akkusativ),-en,Ich sehe meine guten Kinder.,我看见这些孩子。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,复数,第三格(Dativ),-en,Mit meinen guten Kindern geht alles leichter.,和这些孩子一起，做什么都轻松些。,,4.2.2
+A2,变格,形容词词尾（不定冠词、物主冠词后）,复数,第二格(Genitiv),-en,Das Auto meiner guten Kinder ist neu.,这些孩子的车是新的。,,4.2.2
+B1,变格,形容词词尾（零冠词）,阳性,第一格(Nominativ),-er,Guter Wein ist teuer.,这种葡萄酒很贵。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阳性,第四格(Akkusativ),-en,Ich brauche guten Wein.,我需要这种葡萄酒。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阳性,第三格(Dativ),-em,Mit gutem Wein geht alles leichter.,和这种葡萄酒一起，做什么都轻松些。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阳性,第二格(Genitiv),-en,Der Preis guten Weines ist hoch.,这种葡萄酒的价格很高。,,4.2.3
+B1,变格,形容词词尾（零冠词）,中性,第一格(Nominativ),-es,Gutes Brot ist teuer.,这种面包很贵。,,4.2.3
+B1,变格,形容词词尾（零冠词）,中性,第四格(Akkusativ),-es,Ich brauche gutes Brot.,我需要这种面包。,,4.2.3
+B1,变格,形容词词尾（零冠词）,中性,第三格(Dativ),-em,Mit gutem Brot geht alles leichter.,和这种面包一起，做什么都轻松些。,,4.2.3
+B1,变格,形容词词尾（零冠词）,中性,第二格(Genitiv),-en,Der Preis guten Brotes ist hoch.,这种面包的价格很高。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阴性,第一格(Nominativ),-e,Gute Suppe ist teuer.,这种汤很贵。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阴性,第四格(Akkusativ),-e,Ich brauche gute Suppe.,我需要这种汤。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阴性,第三格(Dativ),-er,Mit guter Suppe geht alles leichter.,和这种汤一起，做什么都轻松些。,,4.2.3
+B1,变格,形容词词尾（零冠词）,阴性,第二格(Genitiv),-er,Der Preis guter Suppe ist hoch.,这种汤的价格很高。,,4.2.3
+B1,变格,形容词词尾（零冠词）,复数,第一格(Nominativ),-e,Gute Bücher sind teuer.,这些书很贵。,,4.2.3
+B1,变格,形容词词尾（零冠词）,复数,第四格(Akkusativ),-e,Ich brauche gute Bücher.,我需要这些书。,,4.2.3
+B1,变格,形容词词尾（零冠词）,复数,第三格(Dativ),-en,Mit guten Büchern geht alles leichter.,和这些书一起，做什么都轻松些。,,4.2.3
+B1,变格,形容词词尾（零冠词）,复数,第二格(Genitiv),-er,Der Preis guter Bücher ist hoch.,这些书的价格很高。,,4.2.3
+A1,变格,人称代词,ich,第一格(Nominativ),ich,Ich bin hier.,我在这儿。,,7.2.1
+A1,变格,人称代词,ich,第四格(Akkusativ),mich,Der Lehrer sieht mich.,老师看见我。,,7.2.1
+A1,变格,人称代词,ich,第三格(Dativ),mir,Der Lehrer hilft mir.,老师帮助我。,,7.2.1
+A1,变格,人称代词,ich,第二格(Genitiv),meiner,Er kommt statt meiner.,他代替我来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,du,第一格(Nominativ),du,Du bist hier.,你在这儿。,,7.2.1
+A1,变格,人称代词,du,第四格(Akkusativ),dich,Der Lehrer sieht dich.,老师看见你。,,7.2.1
+A1,变格,人称代词,du,第三格(Dativ),dir,Der Lehrer hilft dir.,老师帮助你。,,7.2.1
+A1,变格,人称代词,du,第二格(Genitiv),deiner,Er kommt statt deiner.,他代替你来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,er,第一格(Nominativ),er,Er ist hier.,他在这儿。,,7.2.1
+A1,变格,人称代词,er,第四格(Akkusativ),ihn,Der Lehrer sieht ihn.,老师看见他。,,7.2.1
+A1,变格,人称代词,er,第三格(Dativ),ihm,Der Lehrer hilft ihm.,老师帮助他。,,7.2.1
+A1,变格,人称代词,er,第二格(Genitiv),seiner,Er kommt statt seiner.,他代替他来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,sie（她）,第一格(Nominativ),sie,Sie ist hier.,她在这儿。,,7.2.1
+A1,变格,人称代词,sie（她）,第四格(Akkusativ),sie,Der Lehrer sieht sie.,老师看见她。,,7.2.1
+A1,变格,人称代词,sie（她）,第三格(Dativ),ihr,Der Lehrer hilft ihr.,老师帮助她。,,7.2.1
+A1,变格,人称代词,sie（她）,第二格(Genitiv),ihrer,Er kommt statt ihrer.,他代替她来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,es,第一格(Nominativ),es,Es ist hier.,它在这儿。,,7.2.1
+A1,变格,人称代词,es,第四格(Akkusativ),es,Der Lehrer sieht es.,老师看见它。,,7.2.1
+A1,变格,人称代词,es,第三格(Dativ),ihm,Der Lehrer hilft ihm.,老师帮助它。,,7.2.1
+A1,变格,人称代词,es,第二格(Genitiv),seiner,Er kommt statt seiner.,他代替它来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,wir,第一格(Nominativ),wir,Wir sind hier.,我们在这儿。,,7.2.1
+A1,变格,人称代词,wir,第四格(Akkusativ),uns,Der Lehrer sieht uns.,老师看见我们。,,7.2.1
+A1,变格,人称代词,wir,第三格(Dativ),uns,Der Lehrer hilft uns.,老师帮助我们。,,7.2.1
+A1,变格,人称代词,wir,第二格(Genitiv),unser,Er kommt statt unser.,他代替我们来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,ihr（你们）,第一格(Nominativ),ihr,Ihr seid hier.,你们在这儿。,,7.2.1
+A1,变格,人称代词,ihr（你们）,第四格(Akkusativ),euch,Der Lehrer sieht euch.,老师看见你们。,,7.2.1
+A1,变格,人称代词,ihr（你们）,第三格(Dativ),euch,Der Lehrer hilft euch.,老师帮助你们。,,7.2.1
+A1,变格,人称代词,ihr（你们）,第二格(Genitiv),euer,Er kommt statt euer.,他代替你们来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,sie（他们）,第一格(Nominativ),sie,Sie sind hier.,他们在这儿。,,7.2.1
+A1,变格,人称代词,sie（他们）,第四格(Akkusativ),sie,Der Lehrer sieht sie.,老师看见他们。,,7.2.1
+A1,变格,人称代词,sie（他们）,第三格(Dativ),ihnen,Der Lehrer hilft ihnen.,老师帮助他们。,,7.2.1
+A1,变格,人称代词,sie（他们）,第二格(Genitiv),ihrer,Er kommt statt ihrer.,他代替他们来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A1,变格,人称代词,Sie（尊称）,第一格(Nominativ),Sie,Sie sind hier.,您在这儿。,,7.2.1
+A1,变格,人称代词,Sie（尊称）,第四格(Akkusativ),Sie,Der Lehrer sieht Sie.,老师看见您。,,7.2.1
+A1,变格,人称代词,Sie（尊称）,第三格(Dativ),Ihnen,Der Lehrer hilft Ihnen.,老师帮助您。,,7.2.1
+A1,变格,人称代词,Sie（尊称）,第二格(Genitiv),Ihrer,Er kommt statt Ihrer.,他代替您来。,第二格人称代词属罕用形式，多与 statt、wegen 等介词连用；口语常用第三格,7.2.1
+A2,变格,反身代词,ich,第四格(Akkusativ),mich,Ich wasche mich.,我洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,ich,第三格(Dativ),mir,Ich kaufe mir ein Buch.,我给自己买一本书。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,du,第四格(Akkusativ),dich,Du wäschst dich.,你洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,du,第三格(Dativ),dir,Du kaufst dir ein Buch.,你给自己买一本书。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,er/sie/es,第四格(Akkusativ),sich,Er wäscht sich.,他/她/它洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,er/sie/es,第三格(Dativ),sich,Er kauft sich ein Buch.,他/她/它给自己买一本书。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,wir,第四格(Akkusativ),uns,Wir waschen uns.,我们洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,wir,第三格(Dativ),uns,Wir kaufen uns ein Buch.,我们给自己买一本书。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,ihr,第四格(Akkusativ),euch,Ihr wascht euch.,你们洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,ihr,第三格(Dativ),euch,Ihr kauft euch ein Buch.,你们给自己买一本书。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,sie/Sie,第四格(Akkusativ),sich,Sie waschen sich.,他们/您洗澡。,反身代词没有第一格,7.3.1
+A2,变格,反身代词,sie/Sie,第三格(Dativ),sich,Sie kaufen sich ein Buch.,他们/您给自己买一本书。,反身代词没有第一格,7.3.1
+A1,变格,疑问代词 wer/was,wer（问人）,第一格(Nominativ),wer,Wer ist das?,这是谁？,,7.4.1.1
+A1,变格,疑问代词 wer/was,wer（问人）,第四格(Akkusativ),wen,Wen siehst du?,你看见谁？,,7.4.1.1
+A1,变格,疑问代词 wer/was,wer（问人）,第三格(Dativ),wem,Wem hilfst du?,你帮助谁？,,7.4.1.1
+A1,变格,疑问代词 wer/was,wer（问人）,第二格(Genitiv),wessen,Wessen Auto ist das?,这是谁的车？,,7.4.1.1
+A1,变格,疑问代词 wer/was,was（问物）,第一格(Nominativ),was,Was ist das?,这是什么？,,7.4.1.1
+A1,变格,疑问代词 wer/was,was（问物）,第四格(Akkusativ),was,Was machst du?,你在做什么？,,7.4.1.1
+A1,变格,疑问代词 wer/was,was（问物）,第三格(Dativ),—,—,—,was 没有第三格形式，该格用 wem（只指人）,7.4.1.1
+A1,变格,疑问代词 wer/was,was（问物）,第二格(Genitiv),—,—,—,was 没有第二格形式，该格用 wessen（只指人）,7.4.1.1
+B1,变格,关系代词 der/die/das,阳性,第一格(Nominativ),der,"Der Mann, der dort steht, ist mein Lehrer.",站在那里的这个男人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阳性,第四格(Akkusativ),den,"Der Mann, den ich sehe, ist mein Lehrer.",我看见的这个男人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阳性,第三格(Dativ),dem,"Der Mann, dem ich helfe, ist mein Lehrer.",我帮助的这个男人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阳性,第二格(Genitiv),dessen,"Der Mann, dessen Auto neu ist, ist mein Lehrer.",这个男人（其车是新的），是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,中性,第一格(Nominativ),das,"Das Kind, das dort steht, ist mein Nachbar.",站在那里的这个孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,中性,第四格(Akkusativ),das,"Das Kind, das ich sehe, ist mein Nachbar.",我看见的这个孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,中性,第三格(Dativ),dem,"Das Kind, dem ich helfe, ist mein Nachbar.",我帮助的这个孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,中性,第二格(Genitiv),dessen,"Das Kind, dessen Auto neu ist, ist mein Nachbar.",这个孩子（其车是新的），是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阴性,第一格(Nominativ),die,"Die Frau, die dort steht, ist meine Lehrerin.",站在那里的这个女人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阴性,第四格(Akkusativ),die,"Die Frau, die ich sehe, ist meine Lehrerin.",我看见的这个女人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阴性,第三格(Dativ),der,"Die Frau, der ich helfe, ist meine Lehrerin.",我帮助的这个女人，是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,阴性,第二格(Genitiv),deren,"Die Frau, deren Auto neu ist, ist meine Lehrerin.",这个女人（其车是新的），是我的老师。,,7.6.1.1
+B1,变格,关系代词 der/die/das,复数,第一格(Nominativ),die,"Die Kinder, die dort stehen, sind meine Nachbarn.",站在那里的这些孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,复数,第四格(Akkusativ),die,"Die Kinder, die ich sehe, sind meine Nachbarn.",我看见的这些孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,复数,第三格(Dativ),denen,"Die Kinder, denen ich helfe, sind meine Nachbarn.",我帮助的这些孩子，是我的邻居。,,7.6.1.1
+B1,变格,关系代词 der/die/das,复数,第二格(Genitiv),deren,"Die Kinder, deren Eltern Lehrer sind, sind meine Nachbarn.",这些孩子（其父母是教师），是我的邻居。,,7.6.1.1
+B1,变格,关系代词 welcher,阳性,第一格(Nominativ),welcher,"Der Mann, welcher dort steht, ist mein Lehrer.",站在那里的这个男人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阳性,第四格(Akkusativ),welchen,"Der Mann, welchen ich sehe, ist mein Lehrer.",我看见的这个男人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阳性,第三格(Dativ),welchem,"Der Mann, welchem ich helfe, ist mein Lehrer.",我帮助的这个男人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阳性,第二格(Genitiv),dessen,"Der Mann, dessen Auto neu ist, ist mein Lehrer.",这个男人（其车是新的），是我的老师。,welcher 作关系代词时第二格仍用 dessen/deren,7.6.2.1
+B1,变格,关系代词 welcher,中性,第一格(Nominativ),welches,"Das Kind, welches dort steht, ist mein Nachbar.",站在那里的这个孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,中性,第四格(Akkusativ),welches,"Das Kind, welches ich sehe, ist mein Nachbar.",我看见的这个孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,中性,第三格(Dativ),welchem,"Das Kind, welchem ich helfe, ist mein Nachbar.",我帮助的这个孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,中性,第二格(Genitiv),dessen,"Das Kind, dessen Auto neu ist, ist mein Nachbar.",这个孩子（其车是新的），是我的邻居。,welcher 作关系代词时第二格仍用 dessen/deren,7.6.2.1
+B1,变格,关系代词 welcher,阴性,第一格(Nominativ),welche,"Die Frau, welche dort steht, ist meine Lehrerin.",站在那里的这个女人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阴性,第四格(Akkusativ),welche,"Die Frau, welche ich sehe, ist meine Lehrerin.",我看见的这个女人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阴性,第三格(Dativ),welcher,"Die Frau, welcher ich helfe, ist meine Lehrerin.",我帮助的这个女人，是我的老师。,,7.6.2.1
+B1,变格,关系代词 welcher,阴性,第二格(Genitiv),deren,"Die Frau, deren Auto neu ist, ist meine Lehrerin.",这个女人（其车是新的），是我的老师。,welcher 作关系代词时第二格仍用 dessen/deren,7.6.2.1
+B1,变格,关系代词 welcher,复数,第一格(Nominativ),welche,"Die Kinder, welche dort stehen, sind meine Nachbarn.",站在那里的这些孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,复数,第四格(Akkusativ),welche,"Die Kinder, welche ich sehe, sind meine Nachbarn.",我看见的这些孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,复数,第三格(Dativ),welchen,"Die Kinder, welchen ich helfe, sind meine Nachbarn.",我帮助的这些孩子，是我的邻居。,,7.6.2.1
+B1,变格,关系代词 welcher,复数,第二格(Genitiv),deren,"Die Kinder, deren Eltern Lehrer sind, sind meine Nachbarn.",这些孩子（其父母是教师），是我的邻居。,welcher 作关系代词时第二格仍用 dessen/deren,7.6.2.1
+B1,变格,关系代词 wer/was,wer,第一格(Nominativ),wer,"Wer zuletzt lacht, lacht am besten.",谁笑到最后，谁笑得最好。,,7.6.3.1
+B1,变格,关系代词 wer/was,wer,第四格(Akkusativ),wen,"Wen ich frage, der hilft mir.",我问谁，谁就帮我。,,7.6.3.1
+B1,变格,关系代词 wer/was,wer,第三格(Dativ),wem,"Wem ich helfe, der dankt mir.",我帮助谁，谁就感谢我。,,7.6.3.1
+B1,变格,关系代词 wer/was,wer,第二格(Genitiv),wessen,"Wessen Auto das ist, weiß ich nicht.",这是谁的车，我不知道。,,7.6.3.1
+B1,变格,关系代词 wer/was,was,第一格(Nominativ),was,"Was du sagst, ist richtig.",你说的话是对的。,,7.6.3.1
+B1,变格,关系代词 wer/was,was,第四格(Akkusativ),was,"Was ich brauche, ist Ruhe.",我需要的是安静。,,7.6.3.1
+A1,变格,名词的格与变格,强变化名词（阳性/中性）,第一格(Nominativ),der Mann / das Kind,Der Mann liest ein Buch.,这个男人在读一本书。,只第二格加 -s/-es,3.5.1
+A1,变格,名词的格与变格,强变化名词（阳性/中性）,第四格(Akkusativ),den Mann / das Kind,Ich sehe das Kind.,我看见这个孩子。,,3.5.1
+A1,变格,名词的格与变格,强变化名词（阳性/中性）,第三格(Dativ),dem Mann / dem Kind,Ich helfe dem Kind.,我帮助这个孩子。,,3.5.1
+A1,变格,名词的格与变格,强变化名词（阳性/中性）,第二格(Genitiv),des Mannes / des Kindes,Das ist das Buch des Kindes.,这是这个孩子的书。,加 -es 者多为单音节名词,3.5.1
+A1,变格,名词的格与变格,弱变化名词（阳性）,第一格(Nominativ),der Student,Der Student lernt Deutsch.,这个大学生学德语。,"Student, Mensch, Name, Junge 等",3.5.1
+A1,变格,名词的格与变格,弱变化名词（阳性）,第四格(Akkusativ),den Studenten,Ich kenne den Studenten.,我认识这个大学生。,第一格以外一律加 -en,3.5.1
+A1,变格,名词的格与变格,弱变化名词（阳性）,第三格(Dativ),dem Studenten,Ich helfe dem Studenten.,我帮助这个大学生。,,3.5.1
+A1,变格,名词的格与变格,弱变化名词（阳性）,第二格(Genitiv),des Studenten,Das ist das Buch des Studenten.,这是这个大学生的书。,,3.5.1
+A1,变格,名词的格与变格,阴性名词,第一格(Nominativ),die Frau,Die Frau arbeitet hier.,这个女人在这儿工作。,阴性名词各格形式相同,3.5.1
+A1,变格,名词的格与变格,阴性名词,第四格(Akkusativ),die Frau,Ich sehe die Frau.,我看见这个女人。,,3.5.1
+A1,变格,名词的格与变格,阴性名词,第三格(Dativ),der Frau,Ich helfe der Frau.,我帮助这个女人。,,3.5.1
+A1,变格,名词的格与变格,阴性名词,第二格(Genitiv),der Frau,Das ist das Auto der Frau.,这是这个女人的车。,,3.5.1
+A1,变格,名词的格与变格,名词化的形容词,第一格(Nominativ),der Deutsche,Der Deutsche wohnt in Berlin.,这个德国人住在柏林。,按形容词词尾变化，ein Deutscher,3.5.1
+A1,变格,名词的格与变格,名词化的形容词,第四格(Akkusativ),den Deutschen,Ich kenne den Deutschen.,我认识这个德国人。,,3.5.1
+A1,变格,名词的格与变格,名词化的形容词,第三格(Dativ),dem Deutschen,Ich helfe dem Deutschen.,我帮助这个德国人。,,3.5.1
+A1,变格,名词的格与变格,名词化的形容词,第二格(Genitiv),des Deutschen,Das ist das Haus des Deutschen.,这是这个德国人的房子。,,3.5.1
+A1,变格,名词的格与变格,专有名词,第一格(Nominativ),Goethe,Goethe war ein Dichter.,歌德是一位诗人。,专有名词一般不带冠词,3.5.1
+A1,变格,名词的格与变格,专有名词,第二格(Genitiv),Goethes,Goethes Werke sind berühmt.,歌德的作品很有名。,第二格加 -s，不加撇号,3.5.1
+A1,变格,名词的格与变格,专有名词,第二格(Genitiv),die Werke Goethes,Die Werke Goethes sind berühmt.,歌德的作品很有名。,带冠词时人名不变格，冠词承担格标记,3.5.1
+A1,变格,名词复数的构成,类型1：加 -e,单数 → 复数,der Tisch → die Tische,Die Tische sind neu.,这些桌子是新的。,,4.4.2
+A1,变格,名词复数的构成,类型2：变音加 -e,单数 → 复数,der Stuhl → die Stühle,Die Stühle sind alt.,这些椅子是旧的。,,4.4.2
+A1,变格,名词复数的构成,类型3：加 -en/-n,单数 → 复数,die Frau → die Frauen,Die Frauen arbeiten hier.,这些女人在这儿工作。,,4.4.2
+A1,变格,名词复数的构成,类型4：加 -er（多需变音）,单数 → 复数,das Kind → die Kinder,Die Kinder spielen draußen.,孩子们在外面玩。,,4.4.2
+A1,变格,名词复数的构成,类型5：加 -s,单数 → 复数,das Auto → die Autos,Die Autos stehen vor dem Haus.,这些车停在房前。,,4.4.2
+A1,变格,名词复数的构成,类型6：不加词尾,单数 → 复数,der Lehrer → die Lehrer,Die Lehrer sind freundlich.,这些老师很友好。,,4.4.2
+A1,变格,名词复数的构成,类型7：只变音,单数 → 复数,der Vater → die Väter,Die Väter arbeiten viel.,这些父亲工作很多。,,4.4.2
+A1,变格,名词复数的构成,特殊：-nis → -nisse,单数 → 复数,das Ergebnis → die Ergebnisse,Die Ergebnisse sind gut.,这些结果是好的。,,4.4.2
+A1,变格,名词复数的构成,特殊：-in → -innen,单数 → 复数,die Lehrerin → die Lehrerinnen,Die Lehrerinnen sind freundlich.,这些女老师很友好。,,4.4.2
+A1,变格,介词与冠词的合并,an + dem,缩合形式,am,am Bahnhof,在火车站,,5.4
+A1,变格,介词与冠词的合并,an + das,缩合形式,ans,ans Meer,到海边去,,5.4
+A1,变格,介词与冠词的合并,in + dem,缩合形式,im,im Haus,在房子里,,5.4
+A1,变格,介词与冠词的合并,in + das,缩合形式,ins,ins Kino,去电影院,,5.4
+A1,变格,介词与冠词的合并,zu + dem,缩合形式,zum,zum Arzt,去医生那儿,,5.4
+A1,变格,介词与冠词的合并,zu + der,缩合形式,zur,zur Schule,去学校,,5.4
+A1,变格,介词与冠词的合并,bei + dem,缩合形式,beim,beim Essen,吃饭的时候,,5.4
+A1,变格,介词与冠词的合并,von + dem,缩合形式,vom,vom Bahnhof,从火车站,,5.4
+A1,变格,介词与冠词的合并,auf + das,缩合形式,aufs,aufs Land,到乡下去,,5.4
+A1,变格,介词与冠词的合并,für + das,缩合形式,fürs,fürs Erste,暂时，首先,,5.4
+A1,变格,介词与冠词的合并,durch + das,缩合形式,durchs,durchs Fenster,穿过窗户,,5.4
+A1,变格,介词与冠词的合并,um + das,缩合形式,ums,ums Haus,绕着房子,,5.4
+A1,变格,介词与冠词的合并,über + das,缩合形式,übers,übers Wochenende,整个周末,,5.4
+A1,变格,介词与冠词的合并,unter + das,缩合形式,unters,unters Bett,到床下,,5.4
+A1,变格,介词与冠词的合并,vor + das,缩合形式,vors,vors Haus,到房前,,5.4
+A1,变格,介词与冠词的合并,hinter + das,缩合形式,hinters,hinters Haus,到房后,,5.4
+A1,变格,介词与冠词的合并,über + dem,缩合形式,überm,überm Sofa,在沙发上,,5.4
+A1,变格,介词与冠词的合并,unter + dem,缩合形式,unterm,unterm Tisch,在桌子下,,5.4
+A1,变格,介词与冠词的合并,vor + dem,缩合形式,vorm,vorm Haus,在房前,,5.4
+A2,变格,基数词的变格,eins（作数词，同不定冠词变格）,第四格(Akkusativ),einen,Unsere Firma liegt einen Kilometer von hier.,我们公司离这儿一公里。,eins 变格时需重读,6.2.2
+A2,变格,基数词的变格,eins（单独使用，同形容词强变化）,第一格(Nominativ),einer,Einer der Reisenden fuhr mit uns nach Nürnberg.,旅游者中有一位同我们一起去纽伦堡。,中性第一、第四格为 eins/eines,6.2.2
+A2,变格,基数词的变格,eins（与定冠词连用，弱变化）,第一格(Nominativ),der eine,"Der eine ist Herr Baumann, den anderen kenne ich nicht.",一位是鲍曼先生，另一位我不认识。,"如同 der eine, der andere 变化",6.2.2
+A2,变格,基数词的变格,eins（钟点、小数点及固定用法）,不变格,eins,Es ist zehn vor eins.,现在十二点五十分。,固定用法中 eins 不变,6.2.2
+A2,变格,基数词的变格,zwei / drei（第三格加 -en）,第三格(Dativ),zweien,Ich habe mit zweien gesprochen.,我和两个人说过话。,基数词第三格可加 -en,6.2.2
+A2,变格,基数词的变格,zwei / drei（第二格加 -er）,第二格(Genitiv),zweier,Das ist das gemeinsame Eigentum zweier Brüder.,这是两兄弟的共同财产。,基数词第二格加 -er,6.2.2
+A2,变格,序数词的变格,带定冠词/物主冠词（弱变化）,第一格(Nominativ),der erste / mein erster,Das war mein erster Arbeitsplatz.,这曾是我的第一份工作岗位。,序数词词尾按形容词变化,6.3.2
+A2,变格,序数词的变格,带定冠词/物主冠词（弱变化）,第四格(Akkusativ),den zweiten,Ich nehme den zweiten Zug.,我乘第二班火车。,,6.3.2
+A2,变格,序数词的变格,带定冠词/物主冠词（弱变化）,第三格(Dativ),dem zweiten / im zweiten,Doktor Becker ist im zweiten Stock.,贝克大夫在三楼。,,6.3.2
+A2,变格,序数词的变格,带定冠词/物主冠词（弱变化）,第二格(Genitiv),des dreihundertsten,Wir gedachten des dreihundertsten Geburtstages von Bach.,我们纪念巴赫诞辰三百周年。,,6.3.2
+A2,变格,序数词的变格,表示日期,第三格(Dativ),am zwanzigsten Januar,Die Veranstaltung findet am zwanzigsten Januar statt.,集会定于1月20日举行。,日期用 am + 序数词 + 月份,6.3.2
+A1,变位,现在时人称词尾,machen（一般规则动词）,ich,-e,Ich mache jeden Tag Sport.,我每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,machen（一般规则动词）,du,-st,Du machst jeden Tag Sport.,你每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,machen（一般规则动词）,er·sie·es,-t,Er macht jeden Tag Sport.,他/她/它每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,machen（一般规则动词）,wir,-en,Wir machen jeden Tag Sport.,我们每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,machen（一般规则动词）,ihr,-t,Ihr macht jeden Tag Sport.,你们每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,machen（一般规则动词）,sie·Sie,-en,Sie machen jeden Tag Sport.,他们/您每天做运动。,,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,ich,-e,Ich arbeite in einem Büro.,我在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,du,-est,Du arbeitest in einem Büro.,你在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,er·sie·es,-et,Er arbeitet in einem Büro.,他/她/它在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,wir,-en,Wir arbeiten in einem Büro.,我们在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,ihr,-et,Ihr arbeitet in einem Büro.,你们在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时人称词尾,arbeiten（词干以 -t/-d/-chn/-ffn/-gn/-tm/-dm 结尾）,sie·Sie,-en,Sie arbeiten in einem Büro.,他们/您在办公室工作。,这类动词在 -st/-t 前须加非重读元音 -e-,2.4.1.1
+A1,变位,现在时变位,sein,ich,bin,Ich bin müde.,我累了。,,2.4.1.1
+A1,变位,现在时变位,sein,du,bist,Du bist müde.,你累了。,,2.4.1.1
+A1,变位,现在时变位,sein,er·sie·es,ist,Er ist müde.,他/她/它累了。,,2.4.1.1
+A1,变位,现在时变位,sein,wir,sind,Wir sind müde.,我们累了。,,2.4.1.1
+A1,变位,现在时变位,sein,ihr,seid,Ihr seid müde.,你们累了。,,2.4.1.1
+A1,变位,现在时变位,sein,sie·Sie,sind,Sie sind müde.,他们/您累了。,,2.4.1.1
+A1,变位,现在时变位,haben,ich,habe,Ich habe einen Bruder.,我有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,haben,du,hast,Du hast einen Bruder.,你有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,haben,er·sie·es,hat,Er hat einen Bruder.,他/她/它有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,haben,wir,haben,Wir haben einen Bruder.,我们有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,haben,ihr,habt,Ihr habt einen Bruder.,你们有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,haben,sie·Sie,haben,Sie haben einen Bruder.,他们/您有一个兄弟。,,2.4.1.1
+A1,变位,现在时变位,werden,ich,werde,Ich werde Arzt.,我成为医生。,,2.4.1.1
+A1,变位,现在时变位,werden,du,wirst,Du wirst Arzt.,你成为医生。,,2.4.1.1
+A1,变位,现在时变位,werden,er·sie·es,wird,Er wird Arzt.,他/她/它成为医生。,,2.4.1.1
+A1,变位,现在时变位,werden,wir,werden,Wir werden Arzt.,我们成为医生。,,2.4.1.1
+A1,变位,现在时变位,werden,ihr,werdet,Ihr werdet Arzt.,你们成为医生。,,2.4.1.1
+A1,变位,现在时变位,werden,sie·Sie,werden,Sie werden Arzt.,他们/您成为医生。,,2.4.1.1
+A1,变位,现在时变位,wissen,ich,weiß,Ich weiß die Antwort.,我知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,wissen,du,weißt,Du weißt die Antwort.,你知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,wissen,er·sie·es,weiß,Er weiß die Antwort.,他/她/它知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,wissen,wir,wissen,Wir wissen die Antwort.,我们知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,wissen,ihr,wisst,Ihr wisst die Antwort.,你们知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,wissen,sie·Sie,wissen,Sie wissen die Antwort.,他们/您知道答案。,wissen 单数词干换音 i → ei，人称词尾也特殊,2.4.1.1
+A1,变位,现在时变位,tun,ich,tue,Ich tue viel für andere.,我为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位,tun,du,tust,Du tust viel für andere.,你为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位,tun,er·sie·es,tut,Er tut viel für andere.,他/她/它为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位,tun,wir,tun,Wir tun viel für andere.,我们为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位,tun,ihr,tut,Ihr tut viel für andere.,你们为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位,tun,sie·Sie,tun,Sie tun viel für andere.,他们/您为别人做很多事。,,2.4.1.1
+A1,变位,现在时变位（情态动词）,dürfen,ich,darf,Ich darf hier rauchen.,我可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,dürfen,du,darfst,Du darfst hier rauchen.,你可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,dürfen,er·sie·es,darf,Er darf hier rauchen.,他/她/它可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,dürfen,wir,dürfen,Wir dürfen hier rauchen.,我们可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,dürfen,ihr,dürft,Ihr dürft hier rauchen.,你们可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,dürfen,sie·Sie,dürfen,Sie dürfen hier rauchen.,他们/您可以在这儿抽烟。,情态动词单数第一、第三人称不加词尾,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,ich,kann,Ich kann gut Deutsch sprechen.,我能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,du,kannst,Du kannst gut Deutsch sprechen.,你能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,er·sie·es,kann,Er kann gut Deutsch sprechen.,他/她/它能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,wir,können,Wir können gut Deutsch sprechen.,我们能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,ihr,könnt,Ihr könnt gut Deutsch sprechen.,你们能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,können,sie·Sie,können,Sie können gut Deutsch sprechen.,他们/您能说好德语。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,ich,mag,Ich mag diesen Film.,我喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,du,magst,Du magst diesen Film.,你喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,er·sie·es,mag,Er mag diesen Film.,他/她/它喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,wir,mögen,Wir mögen diesen Film.,我们喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,ihr,mögt,Ihr mögt diesen Film.,你们喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,mögen,sie·Sie,mögen,Sie mögen diesen Film.,他们/您喜欢这部电影。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,ich,möchte,Ich möchte einen Kaffee.,我想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,du,möchtest,Du möchtest einen Kaffee.,你想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,er·sie·es,möchte,Er möchte einen Kaffee.,他/她/它想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,wir,möchten,Wir möchten einen Kaffee.,我们想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,ihr,möchtet,Ihr möchtet einen Kaffee.,你们想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,möchten,sie·Sie,möchten,Sie möchten einen Kaffee.,他们/您想要一杯咖啡。,möchten 是 mögen 的第二虚拟式，表示愿望或礼貌请求，只有现在时,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,ich,muss,Ich muss jetzt gehen.,我现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,du,musst,Du musst jetzt gehen.,你现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,er·sie·es,muss,Er muss jetzt gehen.,他/她/它现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,wir,müssen,Wir müssen jetzt gehen.,我们现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,ihr,müsst,Ihr müsst jetzt gehen.,你们现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,müssen,sie·Sie,müssen,Sie müssen jetzt gehen.,他们/您现在必须走。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,ich,soll,Ich soll mehr schlafen.,我应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,du,sollst,Du sollst mehr schlafen.,你应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,er·sie·es,soll,Er soll mehr schlafen.,他/她/它应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,wir,sollen,Wir sollen mehr schlafen.,我们应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,ihr,sollt,Ihr sollt mehr schlafen.,你们应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,sollen,sie·Sie,sollen,Sie sollen mehr schlafen.,他们/您应该多睡觉。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,ich,will,Ich will nach Hause gehen.,我想回家。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,du,willst,Du willst nach Hause gehen.,你想回家。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,er·sie·es,will,Er will nach Hause gehen.,他/她/它想回家。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,wir,wollen,Wir wollen nach Hause gehen.,我们想回家。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,ihr,wollt,Ihr wollt nach Hause gehen.,你们想回家。,,2.2.2.5.1
+A1,变位,现在时变位（情态动词）,wollen,sie·Sie,wollen,Sie wollen nach Hause gehen.,他们/您想回家。,,2.2.2.5.1
+A1,变位,现在时词干元音变音/换音,a → ä（fahren）,du,fährst,Du fährst nach Berlin fahren.,你去柏林。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,a → ä（fahren）,er·sie·es,fährt,Er/sie/es fährt nach Berlin fahren.,他/她/它去柏林。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,au → äu（laufen）,du,läufst,Du läufst sehr schnell laufen.,你跑得很快。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,au → äu（laufen）,er·sie·es,läuft,Er/sie/es läuft sehr schnell laufen.,他/她/它跑得很快。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,o → ö（stoßen）,du,stößt,Du stößt den Ball stoßen.,你踢球。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,o → ö（stoßen）,er·sie·es,stößt,Er/sie/es stößt den Ball stoßen.,他/她/它踢球。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,e → i（helfen）,du,hilfst,Du hilfst dem Freund helfen.,你帮助朋友。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,e → i（helfen）,er·sie·es,hilft,Er/sie/es hilft dem Freund helfen.,他/她/它帮助朋友。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,e → ie（sehen）,du,siehst,Du siehst einen Film sehen.,你看电影。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,e → ie（sehen）,er·sie·es,sieht,Er/sie/es sieht einen Film sehen.,他/她/它看电影。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,ö → i（erlöschen）,du,erlischst,Du erlischst plötzlich erlöschen.,你突然熄灭。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A1,变位,现在时词干元音变音/换音,ö → i（erlöschen）,er·sie·es,erlischt,Er/sie/es erlischt plötzlich erlöschen.,他/她/它突然熄灭。,只有单数第二、第三人称发生变音或换音,2.4.1.1
+A2,变位,过去时变位,fragen（弱变化）,ich,-te,Ich fragte den Lehrer.,我问了老师。,,2.4.2.1
+A2,变位,过去时变位,fragen（弱变化）,du,-test,Du fragtest den Lehrer.,你问了老师。,,2.4.2.1
+A2,变位,过去时变位,fragen（弱变化）,er·sie·es,-te,Er fragte den Lehrer.,他/她/它问了老师。,,2.4.2.1
+A2,变位,过去时变位,fragen（弱变化）,wir,-ten,Wir fragten den Lehrer.,我们问了老师。,,2.4.2.1
+A2,变位,过去时变位,fragen（弱变化）,ihr,-tet,Ihr fragtet den Lehrer.,你们问了老师。,,2.4.2.1
+A2,变位,过去时变位,fragen（弱变化）,sie·Sie,-ten,Sie fragten den Lehrer.,他们/您问了老师。,,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,ich,-ete,Ich antwortete auf die Frage.,我回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,du,-etest,Du antwortetest auf die Frage.,你回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,er·sie·es,-ete,Er antwortete auf die Frage.,他/她/它回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,wir,-eten,Wir antworteten auf die Frage.,我们回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,ihr,-etet,Ihr antwortetet auf die Frage.,你们回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位,antworten（词干以 -t 结尾）,sie·Sie,-eten,Sie antworteten auf die Frage.,他们/您回答了问题。,词干以 -t/-d 结尾时词尾前加 -e-,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,ich,—,Ich kam gestern nach Hause.,我昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,du,-st,Du kamst gestern nach Hause.,你昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,er·sie·es,—,Er kam gestern nach Hause.,他/她/它昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,wir,-en,Wir kamen gestern nach Hause.,我们昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,ihr,-t,Ihr kamt gestern nach Hause.,你们昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,kommen,sie·Sie,-en,Sie kamen gestern nach Hause.,他们/您昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,ich,—,Ich fuhr gestern nach Berlin.,我昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,du,-st,Du fuhrst gestern nach Berlin.,你昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,er·sie·es,—,Er fuhr gestern nach Berlin.,他/她/它昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,wir,-en,Wir fuhren gestern nach Berlin.,我们昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,ihr,-t,Ihr fuhrt gestern nach Berlin.,你们昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,fahren,sie·Sie,-en,Sie fuhren gestern nach Berlin.,他们/您昨天去了柏林。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,ich,—,Ich ging gestern nach Hause.,我昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,du,-st,Du gingst gestern nach Hause.,你昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,er·sie·es,—,Er ging gestern nach Hause.,他/她/它昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,wir,-en,Wir gingen gestern nach Hause.,我们昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,ihr,-t,Ihr gingt gestern nach Hause.,你们昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（强变化）,gehen,sie·Sie,-en,Sie gingen gestern nach Hause.,他们/您昨天回了家。,强变化动词换词干元音，第一、第三人称不加词尾,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,ich,brachte,Ich brachte das Buch.,我带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,du,brachtest,Du brachtest das Buch.,你带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,er·sie·es,brachte,Er brachte das Buch.,他/她/它带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,wir,brachten,Wir brachten das Buch.,我们带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,ihr,brachtet,Ihr brachtet das Buch.,你们带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（混合变化）,bringen,sie·Sie,brachten,Sie brachten das Buch.,他们/您带了这本书。,混合变化：词干换音 + 弱变化词尾，如 denken、kennen、nennen、rennen、wissen,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,ich,war,Ich war gestern hier.,我昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,du,warst,Du warst gestern hier.,你昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,er·sie·es,war,Er war gestern hier.,他/她/它昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,wir,waren,Wir waren gestern hier.,我们昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,ihr,wart,Ihr wart gestern hier.,你们昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,sein,sie·Sie,waren,Sie waren gestern hier.,他们/您昨天在这儿。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,ich,hatte,Ich hatte gestern einen Termin.,我昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,du,hattest,Du hattest gestern einen Termin.,你昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,er·sie·es,hatte,Er hatte gestern einen Termin.,他/她/它昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,wir,hatten,Wir hatten gestern einen Termin.,我们昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,ihr,hattet,Ihr hattet gestern einen Termin.,你们昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,haben,sie·Sie,hatten,Sie hatten gestern einen Termin.,他们/您昨天有一个预约。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,ich,wurde,Ich wurde später Arzt.,我后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,du,wurdest,Du wurdest später Arzt.,你后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,er·sie·es,wurde,Er wurde später Arzt.,他/她/它后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,wir,wurden,Wir wurden später Arzt.,我们后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,ihr,wurdet,Ihr wurdet später Arzt.,你们后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（不规则动词）,werden,sie·Sie,wurden,Sie wurden später Arzt.,他们/您后来成了医生。,,2.4.2.1
+A2,变位,过去时变位（情态动词）,dürfen,ich,durfte,Ich durfte gestern hier rauchen.,我昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,dürfen,du,durftest,Du durftest gestern hier rauchen.,你昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,dürfen,er·sie·es,durfte,Er durfte gestern hier rauchen.,他/她/它昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,dürfen,wir,durften,Wir durften gestern hier rauchen.,我们昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,dürfen,ihr,durftet,Ihr durftet gestern hier rauchen.,你们昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,dürfen,sie·Sie,durften,Sie durften gestern hier rauchen.,他们/您昨天可以在这儿抽烟。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,ich,konnte,Ich konnte gestern gut Deutsch sprechen.,我昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,du,konntest,Du konntest gestern gut Deutsch sprechen.,你昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,er·sie·es,konnte,Er konnte gestern gut Deutsch sprechen.,他/她/它昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,wir,konnten,Wir konnten gestern gut Deutsch sprechen.,我们昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,ihr,konntet,Ihr konntet gestern gut Deutsch sprechen.,你们昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,können,sie·Sie,konnten,Sie konnten gestern gut Deutsch sprechen.,他们/您昨天能说好德语。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,ich,mochte,Ich mochte gestern diesen Film.,我昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,du,mochtest,Du mochtest gestern diesen Film.,你昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,er·sie·es,mochte,Er mochte gestern diesen Film.,他/她/它昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,wir,mochten,Wir mochten gestern diesen Film.,我们昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,ihr,mochtet,Ihr mochtet gestern diesen Film.,你们昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,mögen,sie·Sie,mochten,Sie mochten gestern diesen Film.,他们/您昨天喜欢这部电影。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,ich,musste,Ich musste gestern früh aufstehen.,我昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,du,musstest,Du musstest gestern früh aufstehen.,你昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,er·sie·es,musste,Er musste gestern früh aufstehen.,他/她/它昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,wir,mussten,Wir mussten gestern früh aufstehen.,我们昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,ihr,musstet,Ihr musstet gestern früh aufstehen.,你们昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,müssen,sie·Sie,mussten,Sie mussten gestern früh aufstehen.,他们/您昨天必须早起。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,ich,sollte,Ich sollte gestern mehr schlafen.,我昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,du,solltest,Du solltest gestern mehr schlafen.,你昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,er·sie·es,sollte,Er sollte gestern mehr schlafen.,他/她/它昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,wir,sollten,Wir sollten gestern mehr schlafen.,我们昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,ihr,solltet,Ihr solltet gestern mehr schlafen.,你们昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,sollen,sie·Sie,sollten,Sie sollten gestern mehr schlafen.,他们/您昨天应该多睡觉。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,ich,wollte,Ich wollte gestern nach Hause gehen.,我昨天想回家。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,du,wolltest,Du wolltest gestern nach Hause gehen.,你昨天想回家。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,er·sie·es,wollte,Er wollte gestern nach Hause gehen.,他/她/它昨天想回家。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,wir,wollten,Wir wollten gestern nach Hause gehen.,我们昨天想回家。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,ihr,wolltet,Ihr wolltet gestern nach Hause gehen.,你们昨天想回家。,,2.2.2.5.1
+A2,变位,过去时变位（情态动词）,wollen,sie·Sie,wollten,Sie wollten gestern nach Hause gehen.,他们/您昨天想回家。,,2.2.2.5.1
+A1,变位,现在完成时助动词变位,haben,ich,habe,Ich habe einen Bruder.,我有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,haben,du,hast,Du hast einen Bruder.,你有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,haben,er·sie·es,hat,Er hat einen Bruder.,他/她/它有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,haben,wir,haben,Wir haben einen Bruder.,我们有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,haben,ihr,habt,Ihr habt einen Bruder.,你们有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,haben,sie·Sie,haben,Sie haben einen Bruder.,他们/您有一个兄弟。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,ich,bin,Ich bin zu Hause.,我在家。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,du,bist,Du bist zu Hause.,你在家。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,er·sie·es,ist,Er ist zu Hause.,他/她/它在家。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,wir,sind,Wir sind zu Hause.,我们在家。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,ihr,seid,Ihr seid zu Hause.,你们在家。,,2.4.3
+A1,变位,现在完成时助动词变位,sein,sie·Sie,sind,Sie sind zu Hause.,他们/您在家。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,ich,habe gemacht,Ich habe jeden Tag Sport gemacht.,我每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,du,hast gemacht,Du hast jeden Tag Sport gemacht.,你每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,er·sie·es,hat gemacht,Er hat jeden Tag Sport gemacht.,他/她/它每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,wir,haben gemacht,Wir haben jeden Tag Sport gemacht.,我们每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,ihr,habt gemacht,Ihr habt jeden Tag Sport gemacht.,你们每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,machen（haben + 第二分词）,sie·Sie,haben gemacht,Sie haben jeden Tag Sport gemacht.,他们/您每天做了运动。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,ich,bin gekommen,Ich bin gestern zu dir gekommen.,我昨天到你这儿来了。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,du,bist gekommen,Du bist gestern zu dir gekommen.,你昨天到你这儿来了。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,er·sie·es,ist gekommen,Er ist gestern zu dir gekommen.,他/她/它昨天到你这儿来了。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,wir,sind gekommen,Wir sind gestern zu dir gekommen.,我们昨天到你这儿来了。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,ihr,seid gekommen,Ihr seid gestern zu dir gekommen.,你们昨天到你这儿来了。,,2.4.3
+A1,变位,现在完成时变位,kommen（sein + 第二分词）,sie·Sie,sind gekommen,Sie sind gestern zu dir gekommen.,他们/您昨天到你这儿来了。,,2.4.3
+B1,变位,现在完成时（情态动词）,情态动词作助动词,构成,haben + 动词不定式 + 情态动词,Ich habe den Artikel lesen müssen.,我曾必须读这篇文章。,möchten 没有现在完成时,2.4.3
+B1,变位,现在完成时（情态动词）,情态动词作独立动词,构成,haben + 情态动词第二分词,Ich habe es nicht gekonnt.,（那时）我不会。,第二分词 gedurft / gekonnt / gemusst / gesollt / gewollt,2.4.3
+B1,变位,过去完成时,构成,构成,hatte/war + 第二分词,Er hatte den Brief schon geschrieben.,他那时已经写完信了。,,2.4.4
+B1,变位,过去完成时,用法,用法,表示过去之前已完成的动作,"Nachdem er gegessen hatte, ging er schlafen.",他吃过饭之后就去睡觉了。,,2.4.4
+A1,变位,第一分词构成,一般规则,构成,不定式 + d,lachen → lachend; ankommen → ankommend,笑 → 笑着的；到达 → 到达的,作定语时按形容词变格,2.3.2.1.1
+A1,变位,第一分词构成,例外,构成,tun → tuend; sein → seiend,Der seiende Gott,存在着的上帝,sein 与 tun 例外,2.3.2.1.1
+A1,变位,第二分词构成,弱变化动词,构成,ge- + 词干 + -t,machen → gemacht,做 → 做过,,2.3.2.1.2
+A1,变位,第二分词构成,词干以 -t/-d/-ffn/-chn/-dm/-tm/-ckn/-gn 结尾,构成,ge- + 词干 + -et,arbeiten → gearbeitet,工作 → 工作过,,2.3.2.1.2
+A1,变位,第二分词构成,以 -ieren 结尾（重音不在词干元音上）,构成,词干 + -t，不加 ge-,studieren → studiert,学习 → 学习过,,2.3.2.1.2
+A1,变位,第二分词构成,"带不可分前缀 be-, emp-, ent-, er-, ge-, ver-, zer-",构成,不加 ge-,besuchen → besucht; erklären → erklärt,拜访 → 拜访过；解释 → 解释过,,2.3.2.1.2
+A1,变位,第二分词构成,可分动词,构成,ge- 插在分离前缀与词干之间,zumachen → zugemacht,关上 → 关过,,2.3.2.1.2
+A1,变位,第二分词构成,强变化动词,构成,ge- + 词干（多换音）+ -en,fahren → gefahren; bleiben → geblieben,行驶 → 行驶过；停留 → 停留过,,2.3.2.1.2
+A1,变位,第二分词构成,强变化动词带不可分前缀,构成,不加 ge-,beginnen → begonnen; verstehen → verstanden,开始 → 开始过；理解 → 理解过,,2.3.2.1.2
+A1,变位,第二分词构成,强变化动词带可分前缀,构成,ge- 插在中间,einsteigen → eingestiegen,上车 → 上过车,,2.3.2.1.2
+A1,变位,第二分词构成,特殊变化动词（混合变化）,构成,-t 结尾并换音,bringen → gebracht; denken → gedacht,带来 → 带来过；想 → 想过,kennen → gekannt; wissen → gewusst,2.3.2.1.2
+A1,变位,第二分词构成,情态动词,构成,ge- + 词干 + -t（变元音改回不变音）,dürfen → gedurft; können → gekonnt,可以 → （过去）可以；能 → （过去）能,作独立动词时的第二分词，实际很少用,2.3.2.1.2
+B1,变位,被动态的构成,过程被动态·现在时,构成,werden（现在时）+ 第二分词,Das Haus wird gebaut.,这座房子正在建造。,实施者用 von（人或机构）/ durch（手段）,2.5.2
+B1,变位,被动态的构成,过程被动态·过去时,构成,wurde + 第二分词,Das Haus wurde gebaut.,这座房子（当时）在建造。,,2.5.2
+B1,变位,被动态的构成,过程被动态·现在完成时,构成,ist + 第二分词 + worden,Das Haus ist gebaut worden.,这座房子已经建好了。,完成时用 worden 不用 geworden,2.5.2
+B1,变位,被动态的构成,过程被动态·过去完成时,构成,war + 第二分词 + worden,Das Haus war gebaut worden.,这座房子那时已经建好了。,,2.5.2
+B1,变位,被动态的构成,过程被动态·第一将来时,构成,wird + 第二分词 + werden,Das Haus wird gebaut werden.,这座房子将要建造。,,2.5.2
+B1,变位,被动态的构成,带情态动词的被动态,构成,情态动词 + 第二分词 + werden,Das Haus muss gebaut werden.,这座房子必须建造。,,2.5.2
+B1,变位,被动态的构成,无人称被动态,构成,es wird + 第二分词（主语省略）,Hier wird nicht geraucht.,这里不许抽烟。,,2.5.2
+B1,变位,被动态的构成,状态被动态,构成,sein + 第二分词,Das Haus ist gebaut.,这座房子是建好的。,状态被动态强调结果状态，不用 worden,2.5.2
+A1,变位,命令式,machen（规则动词）,du,mach(e)!,Mach die Hausaufgaben!,做作业！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,machen（规则动词）,ihr,macht!,Macht die Hausaufgaben!,你们做作业！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,machen（规则动词）,Sie,machen Sie!,Machen Sie die Hausaufgaben!,请您做作业！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,machen（规则动词）,wir,machen wir!,Machen wir die Hausaufgaben!,我们做作业吧！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,sein,du,sei!,Sei ruhig!,安静！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,sein,ihr,seid!,Seid ruhig!,你们安静！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,sein,Sie,seien Sie!,Seien Sie ruhig!,请您安静！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,sein,wir,seien wir!,Seien wir ehrlich!,我们诚实些吧！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,haben,du,hab(e)!,Hab keine Angst!,别害怕！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,haben,ihr,habt!,Habt keine Angst!,你们别害怕！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,haben,Sie,haben Sie!,Haben Sie keine Angst!,请您别害怕！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,haben,wir,haben wir!,Haben wir Geduld!,我们要有耐心！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,werden,du,werd(e)!,Werde nicht krank!,别生病！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,werden,ihr,werdet!,Werdet nicht krank!,你们别生病！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,werden,Sie,werden Sie!,Werden Sie nicht krank!,请您别生病！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,werden,wir,werden wir!,Werden wir nicht nervös!,我们别紧张！,命令式只有现在时；du 的 -e 词尾在口语中常省略,2.6.3.1
+A1,变位,命令式,nehmen,du,nimm!,Nimm den Regenschirm mit!,带上雨伞！,词干元音 e → i/ie 的强变化动词命令式直接用换音后的词干,2.6.3.1
+A1,变位,命令式,geben,du,gib!,Gib ihm das Buch!,把这本书给他！,词干元音 e → i/ie 的强变化动词命令式直接用换音后的词干,2.6.3.1
+A1,变位,命令式,lesen,du,lies!,Lies den Text laut!,大声读课文！,词干元音 e → i/ie 的强变化动词命令式直接用换音后的词干,2.6.3.1
+A1,变位,命令式,essen,du,iss!,Iss dein Brot auf!,把你的面包吃完！,词干元音 e → i/ie 的强变化动词命令式直接用换音后的词干,2.6.3.1
+A1,变位,命令式,fahren,du,fahr(e)!,Fahr ihn zum Bahnhof!,开车送他去火车站！,词干元音 a 的强变化动词命令式不变音,2.6.3.1
+A1,变位,命令式,laufen,du,lauf(e)!,Lauf schneller!,跑快点！,词干元音 a 的强变化动词命令式不变音,2.6.3.1
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,ich,frage,"Er sagte, ich frage den Lehrer.",他说我问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,du,fragest,"Er sagte, du fragest den Lehrer.",他说你问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,er·sie·es,frage,"Er sagte, er frage den Lehrer.",他说他/她/它问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,wir,fragen,"Er sagte, wir fragen den Lehrer.",他说我们问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,ihr,fraget,"Er sagte, ihr fraget den Lehrer.",他说你们问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,fragen（弱变化）,sie·Sie,fragen,"Er sagte, sie fragen den Lehrer.",他说他们/您问老师。,单数第一人称及复数第一、三人称与直陈式相同，须用第二虚拟式替代,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,ich,komme,"Er sagte, ich komme morgen.",他说我明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,du,kommest,"Er sagte, du kommest morgen.",他说你明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,er·sie·es,komme,"Er sagte, er komme morgen.",他说他/她/它明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,wir,kommen,"Er sagte, wir kommen morgen.",他说我们明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,ihr,kommet,"Er sagte, ihr kommet morgen.",他说你们明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,kommen（强变化，不发生变音/换音）,sie·Sie,kommen,"Er sagte, sie kommen morgen.",他说他们/您明天来。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,ich,sei,"Er sagte, ich sei krank.",他说我病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,du,seiest,"Er sagte, du seiest krank.",他说你病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,er·sie·es,sei,"Er sagte, er sei krank.",他说他/她/它病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,wir,seien,"Er sagte, wir seien krank.",他说我们病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,ihr,seiet,"Er sagte, ihr seiet krank.",他说你们病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,sein,sie·Sie,seien,"Er sagte, sie seien krank.",他说他们/您病了。,sein 是唯一不按 -e 词尾规则的动词,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,ich,habe,"Er sagte, ich habe keine Zeit.",他说我没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,du,habest,"Er sagte, du habest keine Zeit.",他说你没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,er·sie·es,habe,"Er sagte, er habe keine Zeit.",他说他/她/它没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,wir,haben,"Er sagte, wir haben keine Zeit.",他说我们没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,ihr,habet,"Er sagte, ihr habet keine Zeit.",他说你们没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,haben,sie·Sie,haben,"Er sagte, sie haben keine Zeit.",他说他们/您没有时间。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,ich,werde,"Er sagte, ich werde Arzt.",他说我要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,du,werdest,"Er sagte, du werdest Arzt.",他说你要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,er·sie·es,werde,"Er sagte, er werde Arzt.",他说他/她/它要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,wir,werden,"Er sagte, wir werden Arzt.",他说我们要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,ihr,werdet,"Er sagte, ihr werdet Arzt.",他说你们要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（现在时）,werden,sie·Sie,werden,"Er sagte, sie werden Arzt.",他说他们/您要当医生。,,2.6.2.1.1a
+B2,变位,第一虚拟式（完成时）,构成,构成,haben/sein 的第一虚拟式 + 第二分词,"Er sagte, er habe den Brief geschrieben.",他说过他写了那封信。,,2.6.2.1.1b
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,ich,sagte,Ich sagte es dir.,我（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,du,sagtest,Du sagtest es dir.,你（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,er·sie·es,sagte,Er sagte es dir.,他/她/它（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,wir,sagten,Wir sagten es dir.,我们（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,ihr,sagtet,Ihr sagtet es dir.,你们（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sagen（弱变化，词形与过去时相同）,sie·Sie,sagten,Sie sagten es dir.,他们/您（本来）会告诉你。,弱变化动词的第二虚拟式与过去时同形，多用 würde + 不定式替代,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,ich,ginge,Ich ginge gerne nach Hause.,我（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,du,gingest,Du gingest gerne nach Hause.,你（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,er·sie·es,ginge,Er ginge gerne nach Hause.,他/她/它（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,wir,gingen,Wir gingen gerne nach Hause.,我们（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,ihr,ginget,Ihr ginget gerne nach Hause.,你们（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,gehen（强变化，变音）,sie·Sie,gingen,Sie gingen gerne nach Hause.,他们/您（本来）想回家。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,ich,nähme,Ich nähme gerne das Buch.,我（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,du,nähmest,Du nähmest gerne das Buch.,你（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,er·sie·es,nähme,Er nähme gerne das Buch.,他/她/它（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,wir,nähmen,Wir nähmen gerne das Buch.,我们（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,ihr,nähmet,Ihr nähmet gerne das Buch.,你们（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,nehmen（强变化，变音）,sie·Sie,nähmen,Sie nähmen gerne das Buch.,他们/您（本来）想要这本书。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,ich,böte,Ich böte ihm mehr Geld.,我（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,du,bötest,Du bötest ihm mehr Geld.,你（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,er·sie·es,böte,Er böte ihm mehr Geld.,他/她/它（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,wir,böten,Wir böten ihm mehr Geld.,我们（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,ihr,bötet,Ihr bötet ihm mehr Geld.,你们（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,bieten（强变化，变音）,sie·Sie,böten,Sie böten ihm mehr Geld.,他们/您（本来）会给他更多钱。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,ich,führe,Ich führe gerne nach Berlin.,我（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,du,führest,Du führest gerne nach Berlin.,你（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,er·sie·es,führe,Er führe gerne nach Berlin.,他/她/它（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,wir,führen,Wir führen gerne nach Berlin.,我们（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,ihr,führet,Ihr führet gerne nach Berlin.,你们（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,fahren（强变化，变音）,sie·Sie,führen,Sie führen gerne nach Berlin.,他们/您（本来）想去柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,ich,wäre,Ich wäre gerne in Berlin.,我真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,du,wärst,Du wärst gerne in Berlin.,你真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,er·sie·es,wäre,Er wäre gerne in Berlin.,他/她/它真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,wir,wären,Wir wären gerne in Berlin.,我们真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,ihr,wärt,Ihr wärt gerne in Berlin.,你们真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,sein,sie·Sie,wären,Sie wären gerne in Berlin.,他们/您真希望在柏林。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,ich,hätte,Ich hätte gerne mehr Zeit.,我真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,du,hättest,Du hättest gerne mehr Zeit.,你真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,er·sie·es,hätte,Er hätte gerne mehr Zeit.,他/她/它真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,wir,hätten,Wir hätten gerne mehr Zeit.,我们真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,ihr,hättet,Ihr hättet gerne mehr Zeit.,你们真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,haben,sie·Sie,hätten,Sie hätten gerne mehr Zeit.,他们/您真希望有更多时间。,,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,ich,würde,Ich würde gerne Arzt werden.,我真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,du,würdest,Du würdest gerne Arzt werden.,你真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,er·sie·es,würde,Er würde gerne Arzt werden.,他/她/它真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,wir,würden,Wir würden gerne Arzt werden.,我们真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,ihr,würdet,Ihr würdet gerne Arzt werden.,你们真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B1,变位,第二虚拟式（现在时）,werden,sie·Sie,würden,Sie würden gerne Arzt werden.,他们/您真希望成为医生。,würde + 不定式是第二虚拟式最常用的替代形式,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,ich,dürfte,Ich dürfte hier rauchen.,我大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,du,dürftest,Du dürftest hier rauchen.,你大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,er·sie·es,dürfte,Er dürfte hier rauchen.,他/她/它大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,wir,dürften,Wir dürften hier rauchen.,我们大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,ihr,dürftet,Ihr dürftet hier rauchen.,你们大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,dürfen（情态动词）,sie·Sie,dürften,Sie dürften hier rauchen.,他们/您大概可以在这儿抽烟。,情态动词第二虚拟式由过去时词干变音构成,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,ich,könnte,Ich könnte dir helfen.,我本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,du,könntest,Du könntest dir helfen.,你本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,er·sie·es,könnte,Er könnte dir helfen.,他/她/它本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,wir,könnten,Wir könnten dir helfen.,我们本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,ihr,könntet,Ihr könntet dir helfen.,你们本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,können（情态动词）,sie·Sie,könnten,Sie könnten dir helfen.,他们/您本来能帮你。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,ich,möchte,Ich möchte einen Kaffee.,我想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,du,möchtest,Du möchtest einen Kaffee.,你想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,er·sie·es,möchte,Er möchte einen Kaffee.,他/她/它想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,wir,möchten,Wir möchten einen Kaffee.,我们想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,ihr,möchtet,Ihr möchtet einen Kaffee.,你们想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,mögen（情态动词）,sie·Sie,möchten,Sie möchten einen Kaffee.,他们/您想要一杯咖啡。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,ich,müsste,Ich müsste jetzt gehen.,我本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,du,müsstest,Du müsstest jetzt gehen.,你本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,er·sie·es,müsste,Er müsste jetzt gehen.,他/她/它本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,wir,müssten,Wir müssten jetzt gehen.,我们本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,ihr,müsstet,Ihr müsstet jetzt gehen.,你们本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,müssen（情态动词）,sie·Sie,müssten,Sie müssten jetzt gehen.,他们/您本该现在就走。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,ich,sollte,Ich sollte mehr schlafen.,我应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,du,solltest,Du solltest mehr schlafen.,你应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,er·sie·es,sollte,Er sollte mehr schlafen.,他/她/它应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,wir,sollten,Wir sollten mehr schlafen.,我们应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,ihr,solltet,Ihr solltet mehr schlafen.,你们应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,sollen（情态动词）,sie·Sie,sollten,Sie sollten mehr schlafen.,他们/您应该多睡觉。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,ich,wollte,Ich wollte nach Hause gehen.,我想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,du,wolltest,Du wolltest nach Hause gehen.,你想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,er·sie·es,wollte,Er wollte nach Hause gehen.,他/她/它想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,wir,wollten,Wir wollten nach Hause gehen.,我们想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,ihr,wolltet,Ihr wolltet nach Hause gehen.,你们想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时）,wollen（情态动词）,sie·Sie,wollten,Sie wollten nach Hause gehen.,他们/您想回家。,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时·双形式）,helfen,双形式,hülfe / hälfe,"Wenn er mir hülfe, wäre ich froh.",要是他帮我，我会很高兴。,旧形式 hülfe 与常用形式 hälfe 并存,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时·双形式）,beginnen,双形式,begänne / begönne,Wenn es nur bald begänne!,要是马上开始就好了！,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时·双形式）,werfen,双形式,würfe / wärfe,"Wenn er den Ball würfe, ...",要是他扔那个球……,,2.6.2.1.2a
+B2,变位,第二虚拟式（现在时·双形式）,stehen,双形式,stünde / stände,"Wenn er hier stünde, ...",要是他站在这儿……,stünde 更常用,2.6.2.1.2a
+B1,变位,第二虚拟式（完成时）,构成,构成,hätte/wäre 的第二虚拟式 + 第二分词,"Wenn ich Zeit gehabt hätte, wäre ich gekommen.",要是我有时间，我就来了。,,2.6.2.1.2b
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,backen,不定式 / 现在时(三单) / 过去时 / 第二分词,backen / bäckt/backt / buk/backte / gebacken,Ich habe gebacken.,我烤了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,befehlen,不定式 / 现在时(三单) / 过去时 / 第二分词,befehlen / befiehlt / befahl / befohlen,Ich habe befohlen.,我命令了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,beginnen,不定式 / 过去时 / 第二分词,beginnen / begann / begonnen,Ich habe begonnen.,我开始了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,beißen,不定式 / 过去时 / 第二分词,beißen / biss / gebissen,Ich habe gebissen.,我咬了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bergen,不定式 / 现在时(三单) / 过去时 / 第二分词,bergen / birgt / barg / geborgen,Ich habe geborgen.,我藏，抢救了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bewegen,不定式 / 过去时 / 第二分词,bewegen / bewog / bewogen,Das hat ihn bewogen.,这促使他改变了主意。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bewerben,不定式 / 现在时(三单) / 过去时 / 第二分词,bewerben / bewirbt / bewarb / beworben,Ich habe mich um die Stelle beworben.,我申请了这个职位。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,biegen,不定式 / 过去时 / 第二分词,biegen / bog / hat/ist gebogen,Ich habe gebogen.,我弯了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bieten,不定式 / 过去时 / 第二分词,bieten / bot / geboten,Ich habe geboten.,我提供了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,binden,不定式 / 过去时 / 第二分词,binden / band / gebunden,Ich habe gebunden.,我捆，系了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bitten,不定式 / 过去时 / 第二分词,bitten / bat / gebeten,Ich habe gebeten.,我请求了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,blasen,不定式 / 现在时(三单) / 过去时 / 第二分词,blasen / bläst / blies / geblasen,Ich habe geblasen.,我吹了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bleiben,不定式 / 过去时 / 第二分词,bleiben / blieb / ist geblieben,Ich bin geblieben.,我停留了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bleichen,不定式 / 过去时 / 第二分词,bleichen / blich / hat/ist geblichen,Die Wäsche hat gebleicht.,衣物漂白了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,braten,不定式 / 现在时(三单) / 过去时 / 第二分词,braten / brät / briet / gebraten,Ich habe gebraten.,我煎，烤了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,brechen,不定式 / 现在时(三单) / 过去时 / 第二分词,brechen / bricht / brach / hat/ist gebrochen,Ich habe gebrochen.,我折断了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,brennen,不定式 / 过去时 / 第二分词,brennen / brannte / gebrannt,Ich habe gebrannt.,我燃烧了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,bringen,不定式 / 过去时 / 第二分词,bringen / brachte / gebracht,Ich habe gebracht.,我带来了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,denken,不定式 / 过去时 / 第二分词,denken / dachte / gedacht,Ich habe gedacht.,我想了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,dürfen,不定式 / 现在时(三单) / 过去时 / 第二分词,dürfen / darf / durfte / gedurft,Ich habe nicht gedurft.,（当时）我不被允许。,情态动词完成时多用替代不定式：Ich habe … müssen；第二分词单独使用较少,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,empfehlen,不定式 / 现在时(三单) / 过去时 / 第二分词,empfehlen / empfiehlt / empfahl / empfohlen,Ich habe empfohlen.,我推荐了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,erlöschen,不定式 / 现在时(三单) / 过去时 / 第二分词,erlöschen / erlischt / erlosch / ist erloschen,Das Licht ist erloschen.,灯灭了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,erschrecken,不定式 / 现在时(三单) / 过去时 / 第二分词,erschrecken / erschrickt / erschrak / ist erschrocken,Ich bin erschrocken.,我受惊了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,essen,不定式 / 现在时(三单) / 过去时 / 第二分词,essen / isst / aß / gegessen,Ich habe gegessen.,我吃了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fahren,不定式 / 现在时(三单) / 过去时 / 第二分词,fahren / fährt / fuhr / ist/hat gefahren,Ich habe gefahren.,我行驶了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fallen,不定式 / 现在时(三单) / 过去时 / 第二分词,fallen / fällt / fiel / ist gefallen,Ich bin gefallen.,我落下了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fangen,不定式 / 现在时(三单) / 过去时 / 第二分词,fangen / fängt / fing / gefangen,Ich habe gefangen.,我捕捉了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fechten,不定式 / 现在时(三单) / 过去时 / 第二分词,fechten / ficht / focht / gefochten,Ich habe gefochten.,我击剑了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,finden,不定式 / 过去时 / 第二分词,finden / fand / gefunden,Ich habe gefunden.,我找到了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fliegen,不定式 / 过去时 / 第二分词,fliegen / flog / ist/hat geflogen,Ich habe geflogen.,我飞了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fliehen,不定式 / 过去时 / 第二分词,fliehen / floh / ist geflohen,Ich bin geflohen.,我逃跑了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fließen,不定式 / 过去时 / 第二分词,fließen / floss / ist geflossen,Ich bin geflossen.,我流了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,fressen,不定式 / 现在时(三单) / 过去时 / 第二分词,fressen / frisst / fraß / gefressen,Ich habe gefressen.,我（动物）吃了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,frieren,不定式 / 过去时 / 第二分词,frieren / fror / gefroren,Ich habe gefroren.,我冻了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gebären,不定式 / 现在时(三单) / 过去时 / 第二分词,gebären / gebiert / gebar / geboren,Ich habe geboren.,我生育了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,geben,不定式 / 现在时(三单) / 过去时 / 第二分词,geben / gibt / gab / gegeben,Ich habe gegeben.,我给了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gehen,不定式 / 过去时 / 第二分词,gehen / ging / ist gegangen,Ich bin gegangen.,我走了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gelingen,不定式 / 过去时 / 第二分词,gelingen / gelang / ist gelungen,Es ist ihm gelungen.,他成功了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gelten,不定式 / 现在时(三单) / 过去时 / 第二分词,gelten / gilt / galt / gegolten,Ich habe gegolten.,我有效了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,genesen,不定式 / 过去时 / 第二分词,genesen / genas / ist genesen,Ich bin genesen.,我痊愈了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,genießen,不定式 / 过去时 / 第二分词,genießen / genoss / genossen,Ich habe genossen.,我享受了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,geraten,不定式 / 现在时(三单) / 过去时 / 第二分词,geraten / gerät / geriet / ist geraten,Ich bin geraten.,我陷入了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,geschehen,不定式 / 现在时(三单) / 过去时 / 第二分词,geschehen / geschieht / geschah / ist geschehen,Es ist gestern geschehen.,这事昨天发生了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gewinnen,不定式 / 过去时 / 第二分词,gewinnen / gewann / gewonnen,Ich habe gewonnen.,我赢得了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gießen,不定式 / 过去时 / 第二分词,gießen / goss / gegossen,Ich habe gegossen.,我浇，倒了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gleichen,不定式 / 过去时 / 第二分词,gleichen / glich / geglichen,Ich habe geglichen.,我相似了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,gleiten,不定式 / 过去时 / 第二分词,gleiten / glitt / ist geglitten,Ich bin geglitten.,我滑了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,graben,不定式 / 现在时(三单) / 过去时 / 第二分词,graben / gräbt / grub / gegraben,Ich habe gegraben.,我挖了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,greifen,不定式 / 过去时 / 第二分词,greifen / griff / gegriffen,Ich habe gegriffen.,我抓了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,haben,不定式 / 现在时(三单) / 过去时 / 第二分词,haben / hat / hatte / gehabt,Ich habe ein Auto gehabt.,我有过一辆车。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,halten,不定式 / 现在时(三单) / 过去时 / 第二分词,halten / hält / hielt / gehalten,Ich habe gehalten.,我停，拿了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,hängen(vi),不定式 / 过去时 / 第二分词,hängen(vi) / hing / gehangen,Ich habe gehangen.,我悬挂了。,书中标注 (vi)，为不及物用法,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,hauen,不定式 / 过去时 / 第二分词,hauen / hieb / gehauen,Ich habe gehauen.,我砍了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,heben,不定式 / 过去时 / 第二分词,heben / hob / gehoben,Ich habe gehoben.,我举起了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,heißen,不定式 / 过去时 / 第二分词,heißen / hieß / geheißen,Ich habe geheißen.,我叫了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,helfen,不定式 / 现在时(三单) / 过去时 / 第二分词,helfen / hilft / half / geholfen,Ich habe geholfen.,我帮助了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,kennen,不定式 / 过去时 / 第二分词,kennen / kannte / gekannt,Ich habe gekannt.,我认识了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,klingen,不定式 / 过去时 / 第二分词,klingen / klang / geklungen,Ich habe geklungen.,我发出响声了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,kneifen,不定式 / 过去时 / 第二分词,kneifen / kniff / gekniffen,Ich habe gekniffen.,我捏了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,kommen,不定式 / 过去时 / 第二分词,kommen / kam / ist gekommen,Ich bin gekommen.,我来了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,können,不定式 / 现在时(三单) / 过去时 / 第二分词,können / kann / konnte / gekonnt,Ich habe das gekonnt.,（当时）我会做这个。,情态动词完成时多用替代不定式：Ich habe … müssen；第二分词单独使用较少,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,kriechen,不定式 / 过去时 / 第二分词,kriechen / kroch / ist gekrochen,Ich bin gekrochen.,我爬了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,laden,不定式 / 现在时(三单) / 过去时 / 第二分词,laden / lädt / lud / geladen,Ich habe geladen.,我装，邀请了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,lassen,不定式 / 现在时(三单) / 过去时 / 第二分词,lassen / lässt / ließ / gelassen,Ich habe gelassen.,我让了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,laufen,不定式 / 现在时(三单) / 过去时 / 第二分词,laufen / läuft / lief / ist gelaufen,Ich bin gelaufen.,我跑了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,leiden,不定式 / 过去时 / 第二分词,leiden / litt / gelitten,Ich habe gelitten.,我忍受了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,leihen,不定式 / 过去时 / 第二分词,leihen / lieh / geliehen,Ich habe geliehen.,我借了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,lesen,不定式 / 现在时(三单) / 过去时 / 第二分词,lesen / liest / las / gelesen,Ich habe gelesen.,我读了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,liegen,不定式 / 过去时 / 第二分词,liegen / lag / gelegen,Ich habe gelegen.,我躺，位于了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,lügen,不定式 / 过去时 / 第二分词,lügen / log / gelogen,Ich habe gelogen.,我撒谎了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,mahlen,不定式 / 过去时 / 第二分词,mahlen / mahlte / gemahlen,Ich habe gemahlen.,我磨了。,该动词兼有弱变化形式（sendete/gesendet 等）,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,meiden,不定式 / 过去时 / 第二分词,meiden / mied / gemieden,Ich habe gemieden.,我避开了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,messen,不定式 / 现在时(三单) / 过去时 / 第二分词,messen / misst / maß / gemessen,Ich habe gemessen.,我测量了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,misslingen,不定式 / 现在时(三单) / 过去时 / 第二分词,misslingen / misslingt / misslang / ist misslungen,Es ist ihm misslungen.,他失败了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,mögen,不定式 / 现在时(三单) / 过去时 / 第二分词,mögen / mag / mochte / gemocht,Ich habe ihn gemocht.,我喜欢过他。,情态动词完成时多用替代不定式：Ich habe … müssen；第二分词单独使用较少,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,müssen,不定式 / 现在时(三单) / 过去时 / 第二分词,müssen / muss / musste / gemusst,Ich habe das gemusst.,（当时）我必须那样。,情态动词完成时多用替代不定式：Ich habe … müssen；第二分词单独使用较少,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,nehmen,不定式 / 现在时(三单) / 过去时 / 第二分词,nehmen / nimmt / nahm / genommen,Ich habe genommen.,我拿了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,nennen,不定式 / 过去时 / 第二分词,nennen / nannte / genannt,Ich habe genannt.,我命名了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,pfeifen,不定式 / 过去时 / 第二分词,pfeifen / pfiff / gepfiffen,Ich habe gepfiffen.,我吹哨了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,quellen(vi),不定式 / 现在时(三单) / 过去时 / 第二分词,quellen(vi) / quillt / quoll / gequollen,Ich habe gequollen.,我膨胀，涌出了。,书中标注 (vi)，为不及物用法,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,raten,不定式 / 现在时(三单) / 过去时 / 第二分词,raten / rät / riet / geraten,Ich habe geraten.,我建议了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,reiben,不定式 / 过去时 / 第二分词,reiben / rieb / gerieben,Ich habe gerieben.,我摩擦了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,reißen,不定式 / 过去时 / 第二分词,reißen / riss / gerissen,Ich habe gerissen.,我撕了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,reiten,不定式 / 过去时 / 第二分词,reiten / ritt / ist/hat geritten,Ich habe geritten.,我骑马了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,rennen,不定式 / 过去时 / 第二分词,rennen / rannte / ist gerannt,Ich bin gerannt.,我奔跑了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,riechen,不定式 / 过去时 / 第二分词,riechen / roch / gerochen,Ich habe gerochen.,我闻了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,ringen,不定式 / 过去时 / 第二分词,ringen / rang / gerungen,Ich habe gerungen.,我扭打了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,rinnen,不定式 / 过去时 / 第二分词,rinnen / rann / ist geronnen,Ich bin geronnen.,我流淌了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,rufen,不定式 / 过去时 / 第二分词,rufen / rief / gerufen,Ich habe gerufen.,我喊了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,salzen,不定式 / 过去时 / 第二分词,salzen / salzte / gesalzen,Ich habe gesalzen.,我加盐了。,该动词兼有弱变化形式（sendete/gesendet 等）,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,saufen,不定式 / 现在时(三单) / 过去时 / 第二分词,saufen / säuft / soff / gesoffen,Ich habe gesoffen.,我痛饮了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,saugen,不定式 / 过去时 / 第二分词,saugen / sog / gesogen,Ich habe gesogen.,我吸了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schaffen,不定式 / 过去时 / 第二分词,schaffen / schuf / geschaffen,Ich habe geschaffen.,我创造了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,scheiden,不定式 / 过去时 / 第二分词,scheiden / schied / hat/ist geschieden,Ich habe geschieden.,我分离了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,scheinen,不定式 / 过去时 / 第二分词,scheinen / schien / geschienen,Ich habe geschienen.,我似乎，照耀了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schelten,不定式 / 现在时(三单) / 过去时 / 第二分词,schelten / schilt / schalt / gescholten,Ich habe gescholten.,我责骂了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schieben,不定式 / 过去时 / 第二分词,schieben / schob / geschoben,Ich habe geschoben.,我推了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schießen,不定式 / 过去时 / 第二分词,schießen / schoss / geschossen,Ich habe geschossen.,我射击了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schlafen,不定式 / 现在时(三单) / 过去时 / 第二分词,schlafen / schläft / schlief / geschlafen,Ich habe geschlafen.,我睡了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schlagen,不定式 / 现在时(三单) / 过去时 / 第二分词,schlagen / schlägt / schlug / geschlagen,Ich habe geschlagen.,我打了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schleichen,不定式 / 过去时 / 第二分词,schleichen / schlich / ist geschlichen,Ich bin geschlichen.,我潜行了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schleifen,不定式 / 过去时 / 第二分词,schleifen / schliff / geschliffen,Ich habe geschliffen.,我磨了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schließen,不定式 / 过去时 / 第二分词,schließen / schloss / geschlossen,Ich habe geschlossen.,我关闭了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schmelzen,不定式 / 现在时(三单) / 过去时 / 第二分词,schmelzen / schmilzt / schmolz / hat/ist geschmolzen,Ich habe geschmolzen.,我融化了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schneiden,不定式 / 过去时 / 第二分词,schneiden / schnitt / geschnitten,Ich habe geschnitten.,我切了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schrecken,不定式 / 现在时(三单) / 过去时 / 第二分词,schrecken / schrickt / schrak / ist geschrocken,Ich bin geschrocken.,我受惊了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schreiben,不定式 / 过去时 / 第二分词,schreiben / schrieb / geschrieben,Ich habe geschrieben.,我写了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schreien,不定式 / 过去时 / 第二分词,schreien / schrie / geschrie(e)n,Ich habe geschrie(e)n.,我喊叫了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schreiten,不定式 / 过去时 / 第二分词,schreiten / schritt / ist geschritten,Ich bin geschritten.,我迈步了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schweigen,不定式 / 过去时 / 第二分词,schweigen / schwieg / geschwiegen,Ich habe geschwiegen.,我沉默了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schwellen,不定式 / 现在时(三单) / 过去时 / 第二分词,schwellen / schwillt / schwoll / ist geschwollen,Ich bin geschwollen.,我膨胀了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schwimmen,不定式 / 过去时 / 第二分词,schwimmen / schwamm / ist/hat geschwommen,Ich habe geschwommen.,我游泳了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schwinden,不定式 / 过去时 / 第二分词,schwinden / schwand / ist geschwunden,Ich bin geschwunden.,我消失了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schwingen,不定式 / 过去时 / 第二分词,schwingen / schwang / geschwungen,Ich habe geschwungen.,我摆动了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,schwören,不定式 / 过去时 / 第二分词,schwören / schwor / geschworen,Ich habe geschworen.,我发誓了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sehen,不定式 / 现在时(三单) / 过去时 / 第二分词,sehen / sieht / sah / gesehen,Ich habe gesehen.,我看了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sein,不定式 / 现在时(三单) / 过去时 / 第二分词,sein / ist / war / ist gewesen,Ich bin müde gewesen.,我当时累了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,senden,不定式 / 过去时 / 第二分词,senden / sendete/sandte / gesendet/gesandt,Ich habe ein Paket gesendet.,我寄了一个包裹。,该动词兼有弱变化形式（sendete/gesendet 等）,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,singen,不定式 / 过去时 / 第二分词,singen / sang / gesungen,Ich habe gesungen.,我唱了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sinken,不定式 / 过去时 / 第二分词,sinken / sank / ist gesunken,Ich bin gesunken.,我下沉了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sitzen,不定式 / 过去时 / 第二分词,sitzen / saß / gesessen,Ich habe gesessen.,我坐了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,speien,不定式 / 过去时 / 第二分词,speien / spie / gespie(e)n,Ich habe gespie(e)n.,我吐了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,spinnen,不定式 / 过去时 / 第二分词,spinnen / spann / gesponnen,Ich habe gesponnen.,我纺了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sprechen,不定式 / 现在时(三单) / 过去时 / 第二分词,sprechen / spricht / sprach / gesprochen,Ich habe gesprochen.,我说了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sprießen,不定式 / 过去时 / 第二分词,sprießen / spross / ist gesprossen,Ich bin gesprossen.,我发芽了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,springen,不定式 / 过去时 / 第二分词,springen / sprang / ist gesprungen,Ich bin gesprungen.,我跳了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stechen,不定式 / 现在时(三单) / 过去时 / 第二分词,stechen / sticht / stach / gestochen,Ich habe gestochen.,我刺了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stecken(vi),不定式 / 过去时 / 第二分词,stecken(vi) / stak / gesteckt,Ich habe gesteckt.,我卡住了。,书中标注 (vi)，为不及物用法,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stehen,不定式 / 过去时 / 第二分词,stehen / stand / gestanden,Ich habe gestanden.,我站了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stehlen,不定式 / 现在时(三单) / 过去时 / 第二分词,stehlen / stiehlt / stahl / gestohlen,Ich habe gestohlen.,我偷了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,steigen,不定式 / 过去时 / 第二分词,steigen / stieg / ist gestiegen,Ich bin gestiegen.,我上升了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,sterben,不定式 / 现在时(三单) / 过去时 / 第二分词,sterben / stirbt / starb / ist gestorben,Ich bin gestorben.,我死了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stinken,不定式 / 过去时 / 第二分词,stinken / stank / gestunken,Ich habe gestunken.,我发臭了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,stoßen,不定式 / 现在时(三单) / 过去时 / 第二分词,stoßen / stößt / stieß / hat/ist gestoßen,Ich habe gestoßen.,我推，撞了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,streichen,不定式 / 过去时 / 第二分词,streichen / strich / gestrichen,Ich habe gestrichen.,我涂抹了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,streiten,不定式 / 过去时 / 第二分词,streiten / stritt / gestritten,Ich habe gestritten.,我争吵了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,tragen,不定式 / 现在时(三单) / 过去时 / 第二分词,tragen / trägt / trug / getragen,Ich habe getragen.,我携带，穿了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,treffen,不定式 / 现在时(三单) / 过去时 / 第二分词,treffen / trifft / traf / getroffen,Ich habe getroffen.,我遇见了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,treiben,不定式 / 过去时 / 第二分词,treiben / trieb / hat/ist getrieben,Ich habe getrieben.,我驱赶了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,treten,不定式 / 现在时(三单) / 过去时 / 第二分词,treten / tritt / trat / hat/ist getreten,Ich habe getreten.,我踏了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,trinken,不定式 / 过去时 / 第二分词,trinken / trank / getrunken,Ich habe getrunken.,我喝了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,trügen,不定式 / 过去时 / 第二分词,trügen / trog / getrogen,Ich habe getrogen.,我欺骗了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,tun,不定式 / 现在时(三单) / 过去时 / 第二分词,tun / tut / tat / getan,Ich habe nichts getan.,我什么也没做。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,verderben,不定式 / 现在时(三单) / 过去时 / 第二分词,verderben / verdirbt / verdarb / hat/ist verdorben,Ich habe verdorben.,我变坏了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,verdrießen,不定式 / 过去时 / 第二分词,verdrießen / verdross / verdrossen,Das hat mich verdrossen.,这让我很恼火。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,vergessen,不定式 / 现在时(三单) / 过去时 / 第二分词,vergessen / vergisst / vergaß / vergessen,Ich habe vergessen.,我忘记了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,verlieren,不定式 / 过去时 / 第二分词,verlieren / verlor / verloren,Ich habe verloren.,我丢失了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,verschleißen,不定式 / 过去时 / 第二分词,verschleißen / verschliß / hat/ist verschlissen,Die Bremse ist verschlissen.,刹车磨损了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,wachsen,不定式 / 现在时(三单) / 过去时 / 第二分词,wachsen / wächst / wuchs / ist gewachsen,Ich bin gewachsen.,我生长了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,waschen,不定式 / 现在时(三单) / 过去时 / 第二分词,waschen / wäscht / wusch / gewaschen,Ich habe gewaschen.,我洗了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,weben,不定式 / 过去时 / 第二分词,weben / wob / gewoben,Ich habe gewoben.,我织了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,weisen,不定式 / 过去时 / 第二分词,weisen / wies / gewiesen,Ich habe gewiesen.,我指了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,wenden,不定式 / 过去时 / 第二分词,wenden / wandte / gewandt,Ich habe mich an ihn gewandt.,我向他求助过。,该动词兼有弱变化形式（sendete/gesendet 等）,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,werden,不定式 / 现在时(三单) / 过去时 / 第二分词,werden / wird / wurde / ist geworden,Er ist Arzt geworden.,他成了医生。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,werfen,不定式 / 现在时(三单) / 过去时 / 第二分词,werfen / wirft / warf / geworfen,Ich habe geworfen.,我扔了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,wiegen,不定式 / 过去时 / 第二分词,wiegen / wog / gewogen,Ich habe gewogen.,我称，重了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,winden,不定式 / 过去时 / 第二分词,winden / wand / gewunden,Ich habe gewunden.,我缠绕了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,wissen,不定式 / 现在时(三单) / 过去时 / 第二分词,wissen / weiß / wusste / gewusst,Ich habe es gewusst.,我早就知道。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,wollen,不定式 / 现在时(三单) / 过去时 / 第二分词,wollen / will / wollte / gewollt,Ich habe das gewollt.,（当时）我想那样。,情态动词完成时多用替代不定式：Ich habe … müssen；第二分词单独使用较少,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,zeihen,不定式 / 过去时 / 第二分词,zeihen / zieh / geziehen,Er hat ihn der Lüge geziehen.,他指责他撒谎。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,ziehen,不定式 / 过去时 / 第二分词,ziehen / zog / hat/ist gezogen,Ich habe gezogen.,我拉，移动了。,,附录Ⅰ
+C1,变位,强变化及不规则变化动词表（附录Ⅰ）,zwingen,不定式 / 过去时 / 第二分词,zwingen / zwang / gezwungen,Ich habe gezwungen.,我强迫了。,,附录Ⅰ
+A1,变格,名词复数的构成,无复数,单数 → 无复数,—（无复数）,die Milch,牛奶,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（-er / am -sten）,规则,原级,词干原形,schön,漂亮的,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（-er / am -sten）,规则,比较级,词干 + -er,schöner（schön + er）,更漂亮的,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（-er / am -sten）,规则,最高级（作状语）,am + 词干 + -sten,am schönsten,最漂亮的,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（-er / am -sten）,规则,最高级（作定语）,der/die/das + 词干 + -ste-,der schönste Tag,最美的一天,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（-er / am -sten）,规则,多音节/以 -e 结尾、词干以 -d/-t/-s/ß/z 结尾,am + 词干 + -esten,am interessantesten；am neuesten,最有趣的；最新的,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,不规则,gut,gut → besser → am besten,Mir geht es besser.,我感觉好些了。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,不规则,viel,viel → mehr → am meisten,Er arbeitet am meisten.,他干得最多。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,不规则,gern,gern → lieber → am liebsten,Ich trinke lieber Tee.,我更爱喝茶。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,变音,alt,alt → älter → am ältesten,Sie ist älter als ich.,她比我大。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,变音,groß,groß → größer → am größten,Das ist der größte Fehler.,这是最大的错误。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,变音,hoch,hoch → höher → am höchsten,Der Turm ist am höchsten.,这座塔最高。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,变音,nah,nah → näher → am nächsten,Die nächste Haltestelle ist hier.,下一站就在这里。,补充规则（非附录原表）,补充
+A2,词法,形容词比较等级（不规则与变音）,变音,jung / kurz / lang / stark / dumm / hart / warm / kalt,加变音 + -er；最高级 am + 变音 + -sten,jung → jünger → am jüngsten,他最小。,补充规则（非附录原表）,补充
+A2,词法,可分动词（前缀与动词分离）,可分前缀,常见可分前缀,"ab-, an-, auf-, aus-, bei-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-, zusammen-, fest-, frei-, hin-, her-, los-, wahr-, teil-",Ich stehe früh auf.（aufstehen）,我起得早。,补充规则（非附录原表）,补充
+A2,词法,可分动词（前缀与动词分离）,不可分前缀,常见不可分前缀,"be-, emp-, ent-, er-, ge-, miss-, ver-, zer-",Ich verstehe dich.（verstehen）,我懂你的意思。,补充规则（非附录原表）,补充
+B1,词法,可分动词（前缀与动词分离）,两可前缀,重音决定可分性,"über-, unter-, um-, durch-, wider-, hinter-",Er übersetzt den Text.（重音在 -setz- → 不可分）,他翻译这篇文章。,补充规则（非附录原表）,补充
+B1,词法,可分动词（前缀与动词分离）,两可前缀,例：übersetzen,可分＝摆渡；不可分＝翻译,Der Fährmann setzt über.,摆渡人把船划到对岸。,补充规则（非附录原表）,补充
+B1,词法,可分动词（前缀与动词分离）,判断法,读重音,前缀重读→可分；词干重读→不可分,ÁNfangen（可分）／verstÉHen（不可分）,,补充规则（非附录原表）,补充
+A1,词法,不变词（无变格变位）,副词,形式恒定,"schnell, bald, hier",Er läuft schnell.,他跑得快。,补充规则（非附录原表）,补充
+A1,词法,不变词（无变格变位）,介词,支配格固定,an / auf / in / mit / zu …,mit dem Bus,坐公交车,补充规则（非附录原表）,补充
+A1,词法,不变词（无变格变位）,连词,形式恒定,"und, aber, weil","Ich bleibe, weil es regnet.",因为下雨，我留下。,补充规则（非附录原表）,补充
+A2,词法,不定代词（man/jemand/etwas 等）,man,只有第三人称单数,man / einen / einem,"Man sagt, dass …",人们说……,补充规则（非附录原表）,补充
+A2,词法,不定代词（man/jemand/etwas 等）,jemand / niemand,可加词尾 -en / -em,jemand / jemanden / jemandem,Ich sehe jemanden.,我看见某人。,补充规则（非附录原表）,补充
+A2,词法,不定代词（man/jemand/etwas 等）,etwas / nichts,形式恒定,etwas / nichts,Ich habe nichts.,我什么都没有。,补充规则（非附录原表）,补充
+B1,词法,不定代词（man/jemand/etwas 等）,beide / mehrere / manch- / bisschen,按冠词/形容词词尾变格,beide / beiden,Beide kommen mit.,两个人都来。,补充规则（非附录原表）,补充
+A2,变格,名词复数的构成,特殊/外来词复数,单数 → 特殊复数,-en/-ien/-a/-s 等（须整词记忆）,das Museum → die Museen；das Praktikum → die Praktika；die Firma → die Firmen；der Bus → die Busse,博物馆；实习；公司；公交车,补充规则（非附录原表）,补充
+A2,词法,完成时助动词的选择（haben / sein）,haben,大多数动词,及物动词、反身动词、情态动词、多数不及物动词用 haben,Ich habe gearbeitet.,我工作过了。,补充规则（非附录原表）,补充
+A2,词法,完成时助动词的选择（haben / sein）,sein,位移/状态变化的不及物动词,"gehen, kommen, fahren, fliegen, aufstehen, einschlafen, sterben, wachsen, sinken, steigen, fallen … 用 sein",Ich bin nach Hause gegangen.,我回家了。,补充规则（非附录原表）,补充
+A2,词法,完成时助动词的选择（haben / sein）,sein,固定用 sein 的少数动词,"sein, bleiben, werden, passieren, geschehen",Was ist passiert?,发生什么事了？,补充规则（非附录原表）,补充
+B1,词法,完成时助动词的选择（haben / sein）,haben/sein,视用法而定,fahren / ziehen / fliegen 等：带宾语用 haben，表位移用 sein,Ich bin nach Berlin gefahren.／Ich habe das Auto gefahren.,我去了柏林。／我开过这辆车。,补充规则（非附录原表）,补充
