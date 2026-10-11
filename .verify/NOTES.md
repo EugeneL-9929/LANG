@@ -115,3 +115,20 @@
 另把 `OCR修正清单.csv` 的「行号」按（修正后词条+读音）重锚到当前行号；
 `audit_jp.py` 的 OCR 残留检查改为按词条判定，不再依赖写死行号。
 快照 `backups/jp_pre_fix4_20261011/`。
+
+## 第三轮核查（2026-10-11 晚·第三轮）
+
+`fix_20261011c.py`：机械审计高等级全过，内容层面修 78 处。详见
+`.verify/report_verify_20261011c.md`。
+
+- jp/grammar 60 处：中文译文开头多余的「。」12、日文例句里混入的书页中文批注
+  「另外…」7、对话例句缺失的「」/「。」8、其余句末缺「。」约 33。
+- jp/vocabulary 3 处：ペこぺこ→ぺこぺこ、手こずる 中文例句改写。
+- de/vocabulary 13 处：「无复数」→「—（无复数）」11、仅复数名词变格全表 4、
+  Kosten 词性 n.f.→n.pl.、ausgehen 中文释义去嵌套括号。
+- de/grammar 2 处：b1-040 半角「)」→全角「）」。
+- `nouns.py` 支持用显示形反查 NOUN_OVERRIDE；`noun_corrections.PLURAL_ONLY`
+  补入 Eltern/Ferien/Leute/Daten。快照 `backups/de_jp_pre_fix_20261011c/`。
+
+仍待用户决定：de 词汇缺 haben/essen/lesen 等基础动词与情态动词（来源书未收）；
+de/grammar 例句疑为生成内容（章节结构取自原书）。

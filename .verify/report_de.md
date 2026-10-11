@@ -9,11 +9,11 @@
 | DE 词汇 | 级别列/序号异常 | 中 | 通过 |
 | DE 词汇 | 词性取值集合 | 低 | 1 处 |
 | DE 词汇 | 必填字段为空 | 高 | 通过 |
-| DE 词汇 | 中文释义含拉丁字母 | 中 | 1 处 |
+| DE 词汇 | 中文释义含拉丁字母 | 中 | 通过 |
 | DE 词汇 | 中文释义含占位符（＝/～） | 低 | 通过 |
 | DE 词汇 | 名词冠词与词性不符 | 高 | 通过 |
 | DE 词汇 | 变格全表与主格/属格/复数列不一致 | 高 | 通过 |
-| DE 词汇 | 名词词形与规则引擎不一致 | 高 | 5 处 |
+| DE 词汇 | 名词词形与规则引擎不一致 | 高 | 通过 |
 | DE 词汇 | 动词变位与规则引擎不一致 | 高 | 通过 |
 | DE 词汇 | 多词短语式动词条目（引擎无法推导，需人工确认） | 中 | 59 处 |
 | DE 词汇 | 形容词比较级/最高级异常 | 中 | 1 处 |
@@ -30,16 +30,6 @@
 
 ## [低] 词性取值集合（1 处）
 - adj、adv、conj、n.f.、n.m.、n.n.、n.pl.、prep、pron、v、vi、vt
-
-## [中] 中文释义含拉丁字母（1 处）
-- B1|ausgehen 外出；源自；用完（1. von + D；2. （无宾语））
-
-## [高] 名词词形与规则引擎不一致（5 处）
-- A2|Beamte 变格全表: 表=单数 N der Beamte｜G des Beamten｜D dem Beamten｜A den Beamten　复数 N die Beamten｜G der Beamten｜D den Beamten｜A die Beamten / 引擎=单数 N der Beamte｜G des Beamten｜D dem Beamte｜A den Beamte　复数 N die Beamten｜G der Beamten｜D den Beamten｜A die Beamten
-- A2|Deutsche 变格全表: 表=单数 N der Deutsche｜G des Deutschen｜D dem Deutschen｜A den Deutschen　复数 N die Deutschen｜G der Deutschen｜D den Deutschen｜A die Deutschen / 引擎=单数 N der Deutsche｜G des Deutschen｜D dem Deutsche｜A den Deutsche　复数 N die Deutschen｜G der Deutschen｜D den Deutschen｜A die Deutschen
-- B1|Glaube 变格全表: 表=单数 N der Glaube｜G des Glaubens｜D dem Glauben｜A den Glauben　—（无复数） / 引擎=单数 N der Glaube｜G des Glaubens｜D dem Glaube｜A den Glaube　—（无复数）
-- B1|Jugendliche 变格全表: 表=单数 N der Jugendliche｜G des Jugendlichen｜D dem Jugendlichen｜A den Jugendlichen　复数 N die Jugendlichen｜G der Jugendlichen｜D den Jugendlichen｜A die Jugendlichen / 引擎=单数 N der Jugendliche｜G des Jugendlichen｜D dem Jugendliche｜A den Jugendliche　复数 N die Jugendlichen｜G der Jugendlichen｜D den Jugendlichen｜A die Jugendlichen
-- B1|Kosten 变格全表: 表=仅复数 复数 N die Kosten｜G der Kosten｜D den Kosten｜A die Kosten / 引擎=单数 N die Kosten｜G der Kosten｜D der Kosten｜A die Kosten　复数 N die Kosten｜G der Kosten｜D den Kosten｜A die Kosten
 
 ## [中] 多词短语式动词条目（引擎无法推导，需人工确认）（59 处）
 - B2|sich (A) beurlauben lassen 现在时变位: 表=ich lasse mich beurlauben｜du lässt dich  / 引擎=ich beurlauben lasse mich｜du beurlauben 

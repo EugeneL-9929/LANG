@@ -148,6 +148,10 @@ GENDER = {
 
 # 只用复数、没有单数的名词（Pluraletantum）
 PLURAL_ONLY = [
+    "Daten",
+    "Eltern",
+    "Ferien",
+    "Leute",
     "Grünen", "Fachleute", "Geschäftsleute", "Landesleute",
     "Halsschmerzen", "Kopfschmerzen", "Magenschmerzen", "Zahnschmerzen",
     "Nebenkosten", "Renovierungskosten", "Sommerferien",

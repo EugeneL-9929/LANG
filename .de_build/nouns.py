@@ -191,6 +191,13 @@ def fix_row(r):
     lemma = strip_art(r["nominativ"]) or r["lemma"]
     if lemma in LEMMA_FIX:
         lemma = LEMMA_FIX[lemma]
+    # 词表里保存的是「显示形」（如 Beamte/Glaube/Kosten），这里允许用显示形
+    # 反查 NOUN_OVERRIDE 的原始键，使规则引擎在两种写法下结果一致。
+    if lemma not in NOUN_OVERRIDE:
+        for _k, _v in NOUN_OVERRIDE.items():
+            if _v[1] == lemma:
+                lemma = _k
+                break
     if lemma in C.PLURAL_ONLY:
         out = dict(r)
         out["lemma"] = lemma
