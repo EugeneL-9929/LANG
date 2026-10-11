@@ -1,0 +1,1114 @@
+# de 语法例句 vs 原书文字层 比对
+
+书本 712 页 / 55322 行；比对例句 716 条。
+
+| 级别 | 完全一致 | 例句数 |
+| --- | --- | --- |
+| A1 | 4 | 58 |
+| A2 | 4 | 56 |
+| B1 | 4 | 119 |
+| B2 | 1 | 69 |
+| C1 | 1 | 45 |
+| C2 | 0 | 25 |
+
+完全一致 14，近似(≥0.90) 2，弱(0.70–0.90) 194，未命中(<0.70) 506。
+
+## 近似（0.90–0.999）
+- C1 0.923 第628页 c1-012 ex1
+  - 表：Ich habe diesen Film schon gesehen.
+  - 书：IchhabemirdiesenFilmschonangesehen.
+- B2 0.926 第80页 b2-055 ex1
+  - 表：Ich habe vergessen, ihn anzurufen.
+  - 书：Ichhabevergessenanzurufen.ATtEi.
+
+## 弱命中（0.70–0.899）
+- A1 0.700 第461页 a1-010 ex2
+  - 表：Hast du schon zu Mittag gegessen?
+  - 书：Hastduüberhauptschonetwasgegessen
+- A1 0.700 第266页 a1-036 ex1
+  - 表：Ich bin im Jahr 1995 geboren.
+  - 书：DerdeutscheDichterFriedrichvonSchillerwurdeimJahr1759geboren.
+- A1 0.700 第374页 a1-047 ex2
+  - 表：Wir gehen durch den Wald spazieren.
+  - 书：SiegehendurchdenWaldhindurch.他们穿过这片森林
+- B1 0.700 第117页 b1-081 ex2
+  - 表：Ich habe kaum geschlafen.
+  - 书：DiesealteFrauistnichteingeschlafen.
+- B1 0.700 第195页 b1-108 ex2
+  - 表：Können Sie mir sagen, wann der Zug fährt?
+  - 书：KönnenSiemirsagenwodieHauptstadtderSchweizliegt
+- B1 0.702 第153页 b1-086 ex2
+  - 表：Das Haus dort gehört meinem Onkel.
+  - 书：DiesesHausgehörtmeinemVater.
+- B2 0.702 第153页 b2-031 ex2
+  - 表：Das Haus dort gehört meinem Onkel.
+  - 书：DiesesHausgehörtmeinemVater.
+- A1 0.703 第315页 a1-026 ex2
+  - 表：Mein Vater ist Arzt.
+  - 书：DerVateristArztundseinSohnwirdesauch.
+- A1 0.703 第34页 a1-031 ex1
+  - 表：Ich habe einen Bruder.
+  - 书：IchhabeeinenMantelgekauft.ZJH.
+- A1 0.703 第166页 a1-032 ex2
+  - 表：Sie hat keine Geschwister.
+  - 书：dieGeschwister
+- B1 0.703 第431页 b1-065 ex2
+  - 表：Ich warte auf den Bus.
+  - 书：1Ichwarteaufdichbisduzurückkommst.
+- A1 0.704 第338页 a1-020 ex1
+  - 表：Das Kind spielt im Garten.
+  - 书：DieKinderspielendahintenimGarten
+- A1 0.706 第494页 a1-014 ex1
+  - 表：Der Zug fährt um acht Uhr ab.
+  - 书：DerZugfahrtum.Uhrab.这趟火车时分发车
+- B1 0.706 第497页 b1-032 ex2
+  - 表：Sie kommen aus Korea.
+  - 书：Siekommenarbeiten.1117.
+- B1 0.706 第434页 b1-083 ex2
+  - 表：Er will heute nicht kommen.
+  - 书：bIchbinderMeinungdasserheutenichtkommenwird.
+- C1 0.706 第383页 c1-028 ex2
+  - 表：Wir warten auf die Entscheidung.
+  - 书：ErstinderletztenMinutetrafsiedierichtigeEntscheidung.
+- C2 0.706 第61页 c2-010 ex2
+  - 表：Er könnte zu Hause sein.
+  - 书：ErkönnteseinStudiumabgeschlossenhaben
+- A1 0.708 第633页 a1-016 ex2
+  - 表：Kennst du meinen Bruder?
+  - 书：MöchtestdumeinenBrudernäherkennen
+- B1 0.708 第34页 b1-015 ex2
+  - 表：Ich habe ein interessantes Buch gekauft.
+  - 书：IchhabeeinenMantelgekauft.ZJH.
+- B1 0.708 第553页 b1-085 ex2
+  - 表：Ich halte diese Lösung für richtig.
+  - 书：Ichhalteesfurrichtigdasserdiestut/dieszutun/wieersichverhalt.
+- C1 0.708 第298页 c1-032 ex1
+  - 表：Was er sagt, stimmt nicht.
+  - 书：Daswasdusagststimmtnicht.你所说的事与事实不符
+- B1 0.711 第660页 b1-031 ex1
+  - 表：Ihr seid sehr freundlich.
+  - 书：VielenDankSiewarensehrfreundlichzu
+- B2 0.711 第527页 b2-065 ex2
+  - 表：Die Frage, ob er kommt, ist noch offen.
+  - 书：DieFrageoberheutekommtistnochnichtbeantwortet.
+- A1 0.714 第405页 a1-045 ex1
+  - 表：Er ist so groß wie sein Vater.
+  - 书：EristsogroBwieich.他和我一般高
+- A2 0.714 第152页 a2-002 ex2
+  - 表：Wir besuchen morgen unsere Großeltern.
+  - 书：WirbesuchenunsereFreunde.1=11AIt.
+- B1 0.714 第43页 b1-019 ex1
+  - 表：Wir treffen uns am See.
+  - 书：例1aWirtreffenunsaufderStraBe.我们在马路上相遇
+- B2 0.714 第502页 b2-012 ex1
+  - 表：Man beschuldigte ihn des Betrugs.
+  - 书：WirbeschuldigenalleihndesBetrugs.1S1IN15.
+- B2 0.714 第75页 b2-051 ex2
+  - 表：Es freut mich, dich zu sehen.
+  - 书：bEsfreutmichsehrSiekennenzulernen
+- C1 0.714 第469页 c1-041 ex2
+  - 表：…, weil er einen Brief geschrieben hat.
+  - 书：ErhatkeineBriefegeschrieben
+- C2 0.714 第324页 c2-022 ex2
+  - 表：Dem Kind wurde ein Buch geschenkt.
+  - 书：IchhabejedemNeffenjedemKindjederNichteeinBuchgeschenkt.
+- B2 0.717 第707页 b2-002 ex2
+  - 表：Er wird den Zug verpasst haben.
+  - 书：erhatdenZugverpassterhatdenZugverpasstVermisstenanzeige
+- B2 0.717 第628页 b2-012 ex2
+  - 表：Er wurde des Mordes angeklagt.
+  - 书：ManhatihndesMordesangeklagt.
+- B2 0.717 第630页 b2-019 ex2
+  - 表：Ich bin dir für die Hilfe dankbar.
+  - 书：IchdankedirfürdeineHilfe.
+- C1 0.717 第707页 c1-002 ex1
+  - 表：Er muss den Zug verpasst haben.
+  - 书：erhatdenZugverpassterhatdenZugverpasstVermisstenanzeige
+- A1 0.718 第495页 a1-046 ex1
+  - 表：Heute habe ich viel zu tun.
+  - 书：Heutehabeichnicht
+- A2 0.718 第633页 a2-007 ex2
+  - 表：Du darfst nicht kommen.
+  - 书：DudarfstnichtvergessenunsereFreundezu
+- A2 0.718 第147页 a2-024 ex1
+  - 表：Ich fahre zum Bahnhof.
+  - 书：FahreihnzumBahnhofFF
+- B1 0.719 第527页 b1-106 ex1
+  - 表：Ob er mitkommt, ist noch nicht klar.
+  - 书：DieFrageoberheutekommtistnochnichtbeantwortet.
+- A1 0.720 第264页 a1-009 ex2
+  - 表：Sie ist gestern abgefahren.
+  - 书：DieVieristgeradeabgefahren
+- B1 0.720 第147页 b1-024 ex1
+  - 表：Er antwortet ruhig auf die Frage.
+  - 书：AntworteaufdieFrage017
+- C1 0.720 第362页 c1-027 ex1
+  - 表：Die Haustür ist abgeschlossen.
+  - 书：die290000Bausparvertrigeabgeschlossen.
+- B2 0.721 第527页 b2-067 ex1
+  - 表：Ich habe den Wunsch, nach Deutschland zu fahren.
+  - 书：SeinWunschnachDeutschlandzufahrenwirdbalderfüllt.
+- B1 0.722 第76页 b1-004 ex1
+  - 表：Ich habe vergessen, die Tür abzuschließen.
+  - 书：aVergissnichtdieTürabzuschließenFEMI
+- B1 0.722 第546页 b1-013 ex1
+  - 表：Er sagte, er sei krank.
+  - 书：ErsagteerseierschöpftundwollemöglichstschnellnachHausegehen.
+- B1 0.722 第502页 b1-030 ex1
+  - 表：Ich gedenke deiner oft.
+  - 书：IchgedenkegernederschönenZeitinDeutschland.
+- B2 0.722 第269页 b2-031 ex1
+  - 表：Hier ist es sehr ruhig.
+  - 书：ImHausistesnachtssehrruhig.
+- B1 0.723 第470页 b1-080 ex1
+  - 表：Ich habe überhaupt keine Zeit.
+  - 书：IchhabekeineZeit.我没有空
+- B1 0.723 第162页 b1-104 ex1
+  - 表：Er ging, ohne sich zu verabschieden.
+  - 书：sichverabschieden
+- C1 0.723 第162页 c1-007 ex2
+  - 表：Er ging, ohne sich zu verabschieden.
+  - 书：sichverabschieden
+- B1 0.724 第417页 b1-070 ex1
+  - 表：Nach dem Essen gehen wir spazieren.
+  - 书：8b.DadasWetterschönistgehenwirspazieren.
+- A2 0.727 第35页 a2-003 ex1
+  - 表：Das Kind schläft schon.
+  - 书：DasKindistschoneingeschlafen.这个孩子已经睡着了
+- B1 0.727 第232页 b1-027 ex1
+  - 表：Sie ist die beste Studentin in der Klasse.
+  - 书：SieistdiejtingsteSchulerininunsererKlasse.
+- B1 0.727 第632页 b1-084 ex2
+  - 表：Er denkt oft an seine Heimat.
+  - 书：ErgedenktoftseinesverstorbenenVaters.
+- A2 0.731 第518页 a2-050 ex1
+  - 表：Das Buch auf dem Tisch gehört mir.
+  - 书：DasBuchliegtaufdemTisch.
+- B1 0.731 第518页 b1-088 ex2
+  - 表：Das Buch auf dem Tisch gehört mir.
+  - 书：DasBuchliegtaufdemTisch.
+- B1 0.732 第147页 b1-069 ex1
+  - 表：Ich fahre bis zum Bahnhof.
+  - 书：FahreihnzumBahnhofFF
+- B1 0.733 第303页 b1-034 ex1
+  - 表：Ich habe den Kuchen selbst gebacken.
+  - 书：DerKuchenistselbstgebacken.i.
+- B1 0.735 第315页 b1-039 ex2
+  - 表：Er ist müde, und ich bin es auch.
+  - 书：MeineMutteristArbeiterinundichbinesauch.
+- B1 0.736 第556页 b1-109 ex1
+  - 表：Ich freue mich darauf, dass wir uns bald sehen.
+  - 书：Ichfreuemichdaraufdassdukommst/dichwiederzusehen.
+- A1 0.737 第406页 a1-012 ex2
+  - 表：Gestern war ich sehr müde.
+  - 书：GesternwarichZHe
+- A1 0.737 第461页 a1-043 ex2
+  - 表：Meine Wohnung ist größer als seine.
+  - 书：DeineWohnungistgroß.Dasstimmtschonabersieistauchsehrteuer.
+- B2 0.737 第550页 b2-056 ex1
+  - 表：Ich danke dir, dass du mir geholfen hast.
+  - 书：Erhatesdirschlechtgelohntdassduihmgeholfenhast.
+- C1 0.737 第229页 c1-035 ex1
+  - 表：Je mehr er übt, desto besser wird er.
+  - 书：JelängerderWeinliegtdestobesserwirder.
+- A2 0.739 第523页 a2-009 ex1
+  - 表：Das schlafende Kind ist süß.
+  - 书：XDergestandeneSchüler.XDasgeschlafeneKind.
+- A1 0.741 第257页 a1-051 ex1
+  - 表：Ich wohne in einer kleinen Stadt.
+  - 书：InwasfureinerStadtlebenSiejetztIchlebejetztincinerkleinenStadt.
+- A2 0.741 第295页 a2-055 ex2
+  - 表：Was für ein Glück!
+  - 书：WasfüreinFilmistdasIchweißauchnichtwasfüreinerdasist.
+- C1 0.741 第299页 c1-009 ex2
+  - 表：Wir gedenken der Opfer des Krieges.
+  - 书：WirgedenkendererdieihrLebenfürdieBefreiungvomFaschismus
+- A1 0.742 第540页 a1-058 ex2
+  - 表：Er will heute früher nach Hause gehen.
+  - 书：DieLehrerinerlaubtdemSchilerfruhernachHausezugehen.
+- B1 0.742 第314页 b1-042 ex1
+  - 表：Hast du ein Auto? – Ja, ich habe eins.
+  - 书：HastdumeinenFuillerJaichhabedeinen.
+- A2 0.744 第256页 a2-040 ex2
+  - 表：Ich kaufe den roten Mantel.
+  - 书：WelchenMantelmöchtenSiekaufenIchmöchtediesenrotenMantel
+- A1 0.745 第518页 a1-019 ex1
+  - 表：Die Zeitung liegt auf dem Tisch.
+  - 书：DasBuchliegtaufdemTisch.
+- B1 0.745 第46页 b1-010 ex2
+  - 表：Hier wird nicht geraucht.
+  - 书：=Hierdarfnichtgerauchtwerden.
+- A2 0.746 第252页 a2-035 ex2
+  - 表：Hast du Kinder? – Nein, ich habe keine.
+  - 书：•HabenSieKinderNeinichhabekeineKinder.
+- A1 0.750 第284页 a1-003 ex1
+  - 表：Ich habe den Brief geschrieben.
+  - 书：IchhabeIhnengeschrieben.HEit.
+- A1 0.750 第54页 a1-016 ex1
+  - 表：Ich kaufe einen Mantel.
+  - 书：MagesauchkaltseinerzichtkeinenMantelan.
+- A1 0.750 第631页 a1-019 ex2
+  - 表：Meine Schwester ist Lehrerin.
+  - 书：MeineSchwesterhatihreKinderschlecht
+- A2 0.750 第542页 a2-004 ex1
+  - 表：Ich muss mich beeilen.
+  - 书：IchmusseilenweilichmichzumUnterrichtnichtverspätenwill.
+- A2 0.750 第261页 a2-033 ex2
+  - 表：Kennst du die Frau? – Die kenne ich nicht.
+  - 书：DereineistHerrBaumanndenanderenkenneichnicht.
+- B2 0.750 第187页 b2-003 ex2
+  - 表：Das Buch gehört mir.
+  - 书：DiesesAutogehörtmir.
+- B2 0.750 第151页 b2-011 ex1
+  - 表：Der Lehrer lehrt die Schüler Deutsch.
+  - 书：DerLehrerlobtdenSchüler.
+- B2 0.750 第309页 b2-044 ex2
+  - 表：Ist das nicht wunderschön?
+  - 书：IstdasnichtunsereNachbarinderenSohninmeinerKlasseist
+- B1 0.754 第126页 b1-051 ex1
+  - 表：Ich war schon zweimal in Deutschland.
+  - 书：WarenSieschonmalinDeutschland
+- B2 0.754 第553页 b2-069 ex1
+  - 表：Ich halte es für richtig, dass wir warten.
+  - 书：Ichhalteesfürrichtigdasserdiestut/dieszutun/wieersichverhält.
+- A2 0.756 第556页 a2-029 ex1
+  - 表：Ich freue mich auf den Urlaub.
+  - 书：Ichfreuemichdaraufdassdukommst/dichwiederzusehen.
+- A1 0.757 第51页 a1-004 ex2
+  - 表：Du musst jetzt gehen.
+  - 书：bDumusstjetzttelefonierengehen.现在你得去打电话现在时
+- A2 0.757 第238页 a2-054 ex2
+  - 表：Das ist nicht mein Buch.
+  - 书：DasistnichtderMihewert.此事不值得费力去干
+- C2 0.757 第344页 c2-003 ex1
+  - 表：Ich trinke Kaffee, er Tee.
+  - 书：IchtrinkegernTee.我喜欢喝茶
+- B1 0.759 第81页 b1-003 ex2
+  - 表：Du brauchst heute nicht zu kommen.
+  - 书：NächsteWochebrauchstdunichtzukommen.THAT>.
+- B1 0.759 第38页 b1-085 ex1
+  - 表：Wir nennen ihn einen guten Freund.
+  - 书：WirnennenihneinengutherzigenAlten.111711.
+- A2 0.760 第284页 a2-039 ex2
+  - 表：Ich habe niemanden gesehen.
+  - 书：Ichhabedichgesterngesehen.
+- A1 0.762 第636页 a1-057 ex1
+  - 表：Mach bitte das Fenster zu!
+  - 书：BittemachdasFensterzu
+- C1 0.762 第40页 c1-009 ex1
+  - 表：Das bedarf keiner weiteren Erklärung.
+  - 书：DasbedarfeinerErklärung.11777.
+- A1 0.764 第62页 a1-003 ex2
+  - 表：Wir sind nach Berlin gefahren.
+  - 书：EsmagseindassernachBerlingefahrenist
+- A1 0.765 第254页 a1-021 ex2
+  - 表：Er hat viel Geduld.
+  - 书：ErhatteGeduld.mtù.
+- A2 0.765 第43页 a2-020 ex2
+  - 表：Wir helfen dem Jungen.
+  - 书：Wirhelfenunsgegenseitig
+- B1 0.766 第202页 b1-056 ex2
+  - 表：Er ging die Treppe hinauf.
+  - 书：SchwerenHerzensgingerdieTreppehinunter.
+- C1 0.766 第580页 c1-042 ex1
+  - 表：Morgen fahre ich nach Berlin.
+  - 书：MorgenfahreichindieBergeodergeheichinsDeutscheMuseumje
+- C1 0.767 第661页 c1-031 ex1
+  - 表：Ich bin gespannt auf deine Antwort.
+  - 书：Ichbinsehrgespanntaufdeineneue
+- C1 0.769 第51页 c1-032 ex2
+  - 表：Ich weiß, dass er kommt.
+  - 书：cIchweißdassermitunshatessengehenwollen.
+- C2 0.769 第455页 c2-015 ex1
+  - 表：Er hat Angst vor der Prüfung.
+  - 书：IchhabeAngstvorderPrifung.WarumdennAngst
+- A1 0.772 第284页 a1-058 ex1
+  - 表：Ich habe gestern einen Film gesehen.
+  - 书：Ichhabedichgesterngesehen.
+- A2 0.773 第455页 a2-050 ex2
+  - 表：Ich habe Angst vor Hunden.
+  - 书：IchhabeAngstvorderPrüfung.WarumdennAngst
+- B1 0.773 第536页 b1-051 ex2
+  - 表：Er hat mich dreimal angerufen.
+  - 书：Ichhabeihrnichtgeschriebensondernsiehatmichangerufen.
+- A1 0.774 第220页 a1-033 ex1
+  - 表：Das ist mein Vater.
+  - 书：DasistmeinealleinigeSchuld.这是我一个人的过错
+- A1 0.774 第307页 a1-035 ex1
+  - 表：Ich habe zwei Brüder und eine Schwester.
+  - 书：IchhabezweiBrüderdereineistverheiratetderanderenochnicht.
+- A2 0.774 第480页 a2-042 ex2
+  - 表：Das ist ein interessantes Buch.
+  - 书：ErliesteinnichtuninteressantesBuch.
+- B1 0.774 第589页 b1-118 ex2
+  - 表：Die Frage ist, ob er rechtzeitig kommt.
+  - 书：DieFrageistoberheutenochkommt.
+- A1 0.776 第522页 a1-017 ex2
+  - 表：Das Buch gehört meinem Bruder.
+  - 书：RechtsdasweiBeAutogehortmeinemBruder.
+- A1 0.776 第196页 a1-026 ex1
+  - 表：Der Student liest ein Buch.
+  - 书：DerStudentliesteinenRoman.
+- A2 0.776 第43页 a2-056 ex1
+  - 表：Er hat gestern einen neuen Film gesehen.
+  - 书：ErhatsicheinengutenFilmangesehen.
+- B1 0.776 第519页 b1-068 ex2
+  - 表：Wegen dem Regen blieben wir zu Hause.（口语）
+  - 书：aWegendesWettersbleibenwirzuHause.
+- B2 0.776 第471页 b2-005 ex2
+  - 表：Das lässt sich nicht ändern.
+  - 书：Daslässtsichnichtvermeiden.i1FHH.
+- A1 0.778 第317页 a1-006 ex2
+  - 表：Sie darf hier nicht rauchen.
+  - 书：=Mandarfhiernichtrauchen.iEIt.
+- B1 0.778 第136页 b1-005 ex2
+  - 表：Sie antwortete lächelnd.
+  - 书：Sieantwortete.
+- B1 0.778 第187页 b1-054 ex2
+  - 表：Heute bleibt er zu Hause.
+  - 书：DerSchülerbleibtzuHause.
+- B2 0.779 第596页 b2-066 ex1
+  - 表：Die Frage, wann der Zug fährt, kann ich nicht beantworten.
+  - 书：DieFragewohererkommtkannichauchnichtbeantworten.
+- A1 0.780 第266页 a1-036 ex2
+  - 表：Er kam 2018 nach Deutschland.
+  - 书：nachDeutschland.
+- B1 0.783 第271页 b1-061 ex2
+  - 表：Wie lange dauert der Kurs?
+  - 书：tWielangedauertderUnterricht
+- A1 0.784 第329页 a1-010 ex1
+  - 表：Ich habe das Buch schon gelesen.
+  - 书：VielevondiesenBüchernhabeichschongelesen.
+- A2 0.784 第344页 a2-030 ex2
+  - 表：Wir haben uns lange nicht gesehen.
+  - 书：Wirhabenunsschonlangenichtgesehen.FIELERINTS.
+- A2 0.784 第127页 a2-051 ex2
+  - 表：Ich weiß, dass er morgen kommt.
+  - 书：Erschriebdassermorgenkomme.
+- B1 0.784 第329页 b1-083 ex1
+  - 表：Ich habe das Buch schon gelesen.
+  - 书：VielevondiesenBüchernhabeichschongelesen.
+- B2 0.785 第466页 b2-039 ex1
+  - 表：Er hat die Prüfung mit Leichtigkeit bestanden.
+  - 书：ErhatdiePrüfungangeblichnichtbestanden.
+- A1 0.786 第268页 a1-037 ex1
+  - 表：Es ist halb neun.
+  - 书：Esisthalbfünf.
+- A1 0.786 第518页 a1-041 ex1
+  - 表：Wo ist mein Buch? – Es liegt auf dem Tisch.
+  - 书：DasBuchliegtaufdemTisch.
+- A2 0.786 第476页 a2-034 ex1
+  - 表：Dieses Buch ist sehr interessant.
+  - 书：DasBuchistnichtinteressant.
+- B1 0.786 第293页 b1-023 ex2
+  - 表：Welches Buch gefällt dir am besten?
+  - 书：WasvondenSachengefälltdirambesten
+- C1 0.786 第557页 c1-026 ex2
+  - 表：Hoffentlich klappt es diesmal.
+  - 书：HoffentlichklapptesdamitdassichdieStellebekomme.
+- B1 0.787 第552页 b1-038 ex2
+  - 表：Ich finde es gut, dass du gekommen bist.
+  - 书：Ichfindeesgutdassduessomachst/wieduesmachst.
+- B1 0.787 第465页 b1-079 ex2
+  - 表：Leider konnte ich nicht kommen.
+  - 书：Bedauerlicherweisekonnteichnichtkommen.FiF.
+- B2 0.787 第552页 b2-054 ex1
+  - 表：Ich finde es gut, dass du gekommen bist.
+  - 书：Ichfindeesgutdassduessomachst/wieduesmachst.
+- C1 0.787 第556页 c1-037 ex1
+  - 表：Ich freue mich darauf, dass wir uns wiedersehen.
+  - 书：Ichfreuemichdaraufdassdukommst/dichwiederzusehen.
+- B1 0.788 第309页 b1-057 ex2
+  - 表：Er singt sehr schön.
+  - 书：Salzburgwohinerfährtistsehrschön.
+- A1 0.789 第651页 a1-031 ex2
+  - 表：Das ist eine gute Idee.
+  - 书：IchhaltedasfürkeineguteIdee.
+- B1 0.791 第344页 b1-022 ex1
+  - 表：Ich trinke gern kalten Tee.
+  - 书：IchtrinkegernTee.我喜欢喝茶
+- A1 0.792 第78页 a1-005 ex2
+  - 表：Ich kann heute nicht kommen.
+  - 书：Siekannheutenichtkommen.коттс
+- B1 0.792 第426页 b1-108 ex1
+  - 表：Ich weiß nicht, ob er Zeit hat.
+  - 书：IchweißnichtoberheutenachBerlinfliegt.
+- C1 0.792 第445页 c1-001 ex2
+  - 表：Wenn er nur früher gekommen wäre!
+  - 书：Wennerdochnurgekommenwäre|
+- B2 0.793 第513页 b2-019 ex1
+  - 表：Er ist seinem Vater sehr ähnlich.
+  - 书：DerSohnistseinemVaterähnlich.1717181&.
+- C1 0.793 第261页 c1-011 ex1
+  - 表：Kennst du den Mann? – Den kenne ich nicht.
+  - 书：DereineistHerrBaumanndenanderenkenneichnicht.
+- B1 0.794 第416页 b1-071 ex1
+  - 表：Wegen des Sturms fiel der Unterricht aus.
+  - 书：le.WegenderErkränkungdesLehrersfielderUnterrichtaus.
+- B1 0.795 第445页 b1-111 ex1
+  - 表：Wenn es morgen regnet, bleiben wir zu Hause.
+  - 书：aWennesregnetebliebenwirimmerzuHause.
+- A1 0.800 第338页 a1-039 ex2
+  - 表：Sie wohnt im dritten Stock.
+  - 书：MeinZimmerbefindetsichobenimdrittenStock.
+- A2 0.800 第89页 a2-016 ex1
+  - 表：Bitte einsteigen!
+  - 书：einsteigen
+- B2 0.800 第553页 b2-054 ex2
+  - 表：Ich halte es für wichtig, das zu prüfen.
+  - 书：Ichhalteesfürrichtigdasserdiestut/dieszutun/wieersichverhält.
+- C1 0.800 第471页 c1-020 ex2
+  - 表：Sie ist leider nicht gekommen.
+  - 书：Sieistheutenichtgekommen.Fit.
+- C2 0.800 第603页 c2-020 ex2
+  - 表：Er ist mit 90 gestorben.
+  - 书：istgestorben
+- A2 0.806 第445页 a2-052 ex1
+  - 表：Weil es regnet, bleiben wir zu Hause.
+  - 书：aWennesregnetebliebenwirimmerzuHause.
+- B1 0.806 第543页 b1-105 ex1
+  - 表：Es ist wichtig, dass du pünktlich kommst.
+  - 书：Esistwichtigdassmanpünktlichdaist
+- A2 0.807 第221页 a2-004 ex2
+  - 表：Er interessiert sich für Musik.
+  - 书：ErinteressiertsichfüralteAutos
+- A1 0.808 第460页 a1-004 ex1
+  - 表：Ich kann gut Deutsch sprechen.
+  - 书：KönnteichnursogutDeutschsprechen
+- B1 0.808 第45页 b1-043 ex1
+  - 表：Einige Studenten fehlen heute.
+  - 书：=DreiStudentenfehlenheute
+- A2 0.809 第110页 a2-013 ex2
+  - 表：Er wird jetzt wohl im Büro sein.
+  - 书：ErwirdnochimBürosein.
+- B2 0.812 第543页 b2-051 ex1
+  - 表：Es ist wichtig, dass alle pünktlich kommen.
+  - 书：Esistwichtigdassmanpünktlichdaist
+- A1 0.816 第338页 a1-023 ex1
+  - 表：Die Kinder spielen draußen.
+  - 书：DieKinderspielendahintenimGarten
+- A2 0.816 第419页 a2-029 ex2
+  - 表：Du hast dir viel Mühe gegeben.
+  - 书：2b.UmdenPlandurchzuführenhabensievielMühegegeben.
+- A1 0.818 第314页 a1-043 ex1
+  - 表：Ist das dein Auto? – Ja, das ist meins.
+  - 书：IstdasdeinAutoschlüsselJadasistmeiner.
+- C1 0.820 第469页 c1-041 ex1
+  - 表：Er hat gestern einen Brief geschrieben.
+  - 书：ErhatkeineBriefegeschrieben
+- A1 0.821 第344页 a1-034 ex1
+  - 表：Ich trinke gern Kaffee.
+  - 书：IchtrinkegernTee.我喜欢喝茶
+- B2 0.821 第45页 b2-028 ex1
+  - 表：Mehrere Studenten fehlten heute.
+  - 书：=DreiStudentenfehlenheute.今天三位学生缺席
+- B1 0.824 第536页 b1-044 ex1
+  - 表：Irgendwer hat mich angerufen.
+  - 书：Ichhabeihrnichtgeschriebensondernsiehatmichangerufen.
+- B1 0.826 第298页 b1-037 ex2
+  - 表：Das, was du gesagt hast, stimmt.
+  - 书：Daswasdusagststimmtnt
+- B1 0.828 第140页 b1-013 ex2
+  - 表：Wenn ich Zeit hätte, käme ich mit.
+  - 书：WennichZeithättekämeichzuIhnen.
+- B1 0.830 第488页 b1-059 ex2
+  - 表：Worüber habt ihr gesprochen?
+  - 书：eWorüberhatermitdirgesprochen
+- A1 0.833 第290页 a1-032 ex1
+  - 表：Ich habe kein Geld.
+  - 书：IchhabekeinGeldbeimir.Pidabei
+- A2 0.833 第329页 a2-006 ex1
+  - 表：Ich kann Englisch und ein wenig Deutsch.
+  - 书：IchkannnureinwenigDeutsch.
+- B1 0.836 第518页 b1-039 ex1
+  - 表：Wo ist das Buch? – Es liegt auf dem Tisch.
+  - 书：DasBuchliegtaufdemTisch.
+- B1 0.837 第556页 b1-058 ex1
+  - 表：Ich freue mich darauf.
+  - 书：Ichfreuemichdaraufdassdukommst/dichwiederzusehen.
+- B2 0.837 第286页 b2-023 ex1
+  - 表：Sie kennen sich schon lange.
+  - 书：DieNachbarinhilftmiroft.Ichkennesieschonlange.
+- A1 0.839 第196页 a1-007 ex1
+  - 表：Ich wohne in Berlin.
+  - 书：MeineSchwestereinejungeÄrztinwohntinBerlin.
+- A1 0.839 第491页 a1-054 ex2
+  - 表：Er kommt heute nicht zur Schule.
+  - 书：ErkommtheutenichtzurSchuledenneristkrank.
+- A2 0.839 第653页 a2-036 ex2
+  - 表：Er hat nichts gesagt.
+  - 书：nichtsgesagt.
+- B1 0.840 第376页 b1-069 ex2
+  - 表：Wir gingen den Fluss entlang.
+  - 书：WirfuhrendenFlussentlang.
+- A2 0.848 第519页 a2-021 ex2
+  - 表：Wegen des Regens blieben wir zu Hause.
+  - 书：aWegendesWettersbleibenwirzuHause.
+- B1 0.848 第445页 b1-110 ex2
+  - 表：Da es regnete, blieben wir zu Hause.
+  - 书：aWennesregnetebliebenwirimmerzuHause.
+- C1 0.848 第519页 c1-023 ex1
+  - 表：Wegen des Regens blieben wir zu Hause.
+  - 书：aWegendesWettersbleibenwirzuHause.
+- A2 0.850 第494页 a2-046 ex1
+  - 表：Ich habe davon gehört.
+  - 书：Ichhabedasschongehört
+- B2 0.850 第494页 b2-036 ex1
+  - 表：Ich habe davon gehört.
+  - 书：Ichhabedasschongehört
+- B1 0.853 第527页 b1-089 ex1
+  - 表：Ich habe keine Zeit, ins Kino zu gehen.
+  - 书：IchhabekeineLustmitihminsKinozugehen.
+- B1 0.853 第445页 b1-102 ex1
+  - 表：Weil es regnete, blieben wir zu Hause.
+  - 书：aWennesregnetebliebenwirimmerzuHause.
+- C1 0.853 第445页 c1-023 ex2
+  - 表：Weil es regnete, blieben wir zu Hause.
+  - 书：aWennesregnetebliebenwirimmerzuHause.
+- A1 0.857 第485页 a1-044 ex1
+  - 表：Das Wetter ist heute schön.
+  - 书：DasWetteristschön.AE11.
+- B1 0.857 第631页 b1-011 ex2
+  - 表：Die Arbeit ist schon erledigt.
+  - 书：EvahatihreArbeitschonerledigt.
+- B1 0.857 第153页 b1-028 ex2
+  - 表：Können Sie mir bitte helfen?
+  - 书：KönntenSiemirhelfen
+- A1 0.864 第275页 a1-039 ex1
+  - 表：Heute ist der erste Mai.
+  - 书：HeuteistderersteMarz.Heuteistder1.Marz.今天是3月1日
+- B1 0.864 第479页 b1-028 ex1
+  - 表：Kannst du mir bitte helfen?
+  - 书：Kannstdumirnichthelfen
+- B1 0.864 第556页 b1-058 ex2
+  - 表：Er hat mir davon erzählt.
+  - 书：ErhatmirdavonerzahltdassergernMusikerwerdenwill/welcheMusik
+- A1 0.865 第307页 a1-023 ex2
+  - 表：Ich habe zwei Brüder.
+  - 书：IchhabezweiBriiderdereineistverheiratetderanderenochnicht.
+- A1 0.865 第322页 a1-054 ex1
+  - 表：Ich verstehe das nicht.
+  - 书：IchverstehenichtsvonMusik.
+- B1 0.872 第296页 b1-023 ex1
+  - 表：Was für ein Buch liest du?
+  - 书：WasfüreinBuchistdasIchweißauchnichtwasfüreinesdasist.
+- B1 0.872 第292页 b1-077 ex2
+  - 表：Was ist denn hier passiert?
+  - 书：WasistdennpassiertJ1<
+- A1 0.882 第141页 a1-021 ex1
+  - 表：Das Wasser ist kalt.
+  - 书：DasWasseristzukaltalsdassmandarinbadenkönnte.
+- A2 0.884 第153页 a2-016 ex2
+  - 表：Könnten Sie mir bitte helfen?
+  - 书：KönntenSiemirhelfen
+- B1 0.894 第277页 b1-001 ex1
+  - 表：Es regnet den ganzen Tag.
+  - 书：EsregnetedenganzenTag.FFJ.
+
+## 未命中（<0.70）
+- A2 0.389 第15页 a2-055 ex1：Wie schön ist dieser Garten!
+- B2 0.400 第310页 b2-027 ex2：Die Firma, welche er gründete, ist bekannt.
+- A2 0.409 第224页 a2-038 ex2：Wie sagt man das auf Deutsch?
+- B1 0.409 第409页 b1-022 ex2：Frische Brötchen schmecken besser.
+- B1 0.410 第16页 b1-047 ex2：Wenige Leute wissen das.
+- C2 0.412 第153页 c2-001 ex1：Der Minister, der, nachdem er zurückgetreten war, keine Ämter mehr inn
+- B1 0.413 第251页 b1-098 ex2：Komm früh, sonst bekommst du keinen Platz.
+- C1 0.413 第498页 c1-017 ex1：Draußen ist es kalt, drinnen ist es warm.
+- B2 0.419 第113页 b2-004 ex2：Der Antrag muss bis Freitag eingereicht werden.
+- B2 0.421 第66页 b2-037 ex1：Während des Unterrichts darf man nicht telefonieren.
+- C2 0.425 第255页 c2-007 ex1：Von den Ereignissen erschüttert, schwieg die Menge.
+- C1 0.426 第385页 c1-013 ex1：Der Kollege, dessen Auto kaputt ist, kommt zu spät.
+- C1 0.426 第470页 c1-021 ex1：Ohne Fleiß kein Preis.（无 AKK 名词）
+- B2 0.431 第16页 b2-029 ex1：Ich brauche keine Karten, aber er hat welche.
+- C2 0.431 第384页 c2-021 ex1：Nach Prüfung des Berichts durch die Kommission wurde er veröffentlicht
+- C1 0.434 第57页 c1-004 ex2：Die Probe wird bei 20 Grad aufbewahrt.
+- B2 0.438 第16页 b2-025 ex2：Derjenige, der zuerst kommt, bekommt den Preis.
+- C1 0.439 第525页 c1-011 ex2：Die Bücher, deren Autor berühmt ist, verkaufen sich gut.
+- C2 0.439 第209页 c2-012 ex1：Die von der Regierung beschlossenen neuen Maßnahmen sind umstritten.
+- B1 0.441 第288页 b1-030 ex2：Wegen meiner kannst du ruhig gehen.
+- C1 0.441 第87页 c1-008 ex2：Solche Fehler gehören korrigiert.
+- C2 0.442 第524页 c2-002 ex1：Zunächst wird das Problem dargestellt. Danach folgt die Lösung.
+- B2 0.444 第293页 b2-007 ex1：Der Sprecher sagte, die Lage sei ruhig.
+- B2 0.448 第588页 b2-053 ex2：Er weiß, worauf es ankommt.
+- C2 0.452 第418页 c2-021 ex2：Nachdem die Kommission den Bericht geprüft hatte, wurde er veröffentli
+- B1 0.455 第458页 b1-025 ex1：Ich finde diese Aufgabe sehr schwierig.
+- A2 0.459 第458页 a2-027 ex1：Meine Nummer ist null-eins-sieben-drei.
+- C2 0.459 第358页 c2-023 ex1：Die Ware ist innerhalb von 14 Tagen zurückzusenden.
+- B2 0.460 第458页 b2-061 ex1：Während mein Bruder gern liest, spielt meine Schwester lieber Sport.
+- A2 0.462 第16页 a2-031 ex1：Welcher Weg ist der kürzeste?
+- A2 0.464 第230页 a2-027 ex2：Die Nummer lautet drei-drei-doppel-null.
+- B1 0.464 第465页 b1-110 ex1：Ich komme nicht mit, weil ich keine Zeit habe.
+- B2 0.464 第155页 b2-001 ex1：Er brachte seine Meinung klar zum Ausdruck.
+- B1 0.468 第424页 b1-113 ex1：Ich spreche langsam, damit du mich verstehst.
+- C1 0.468 第230页 c1-043 ex1：Ein Mann kam herein. Der Mann trug einen Hut.
+- B1 0.469 第566页 b1-095 ex2：Beeil dich, sonst verpassen wir den Zug.
+- C1 0.469 第538页 c1-007 ex1：Um Fehler zu vermeiden, prüfen wir alles genau.
+- C1 0.469 第566页 c1-040 ex1：Beeil dich, sonst verpassen wir den Zug.
+- B1 0.471 第293页 b1-024 ex2：Sie arbeitet sehr schnell und genau.
+- B1 0.471 第330页 b1-042 ex2：Ich brauche keine Karten, er hat welche.
+- B1 0.473 第445页 b1-111 ex2：Falls du Zeit hast, komm doch vorbei!
+- B2 0.474 第632页 b2-056 ex2：Er hat mir geholfen, indem er das Auto reparierte.
+- B2 0.479 第363页 b2-015 ex1：Wir haben guten Kontakt mit unseren Kunden.
+- C2 0.479 第179页 c2-013 ex1：Da die Kosten stiegen, wurde das Projekt gestoppt.
+- A2 0.480 第269页 a2-030 ex1：Ich putze mir jeden Abend die Zähne.
+- B1 0.480 第293页 b1-101 ex1：Ich bin müde, aber ich arbeite weiter.
+- B1 0.485 第304页 b1-010 ex1：In der Sitzung wurde lange diskutiert.
+- C2 0.488 第281页 c2-006 ex1：Die Umweltverschmutzung ist ein globales Problem.
+- C1 0.489 第381页 c1-006 ex1：Von der Reise erschöpft, ging er sofort ins Bett.
+- C1 0.489 第389页 c1-017 ex2：Überall sieht man Touristen.
+- A2 0.490 第250页 a2-001 ex2：Wir stehen jeden Tag früh auf.
+- C2 0.490 第415页 c2-013 ex2：Weil die Kosten gestiegen sind, wurde das Projekt gestoppt.
+- C2 0.490 第85页 c2-015 ex2：Sie ist stolz auf ihre Leistung.
+- C2 0.491 第659页 c2-017 ex1：Als Anna Lisa traf, war sie sehr müde.（sie 指代不清）
+- C2 0.491 第414页 c2-023 ex2：Bitte vor Gebrauch gut schütteln!
+- B1 0.492 第263页 b1-119 ex1：Der Film, den wir gesehen haben, war super.
+- B2 0.492 第66页 b2-043 ex1：Sicher hat er das nicht absichtlich gemacht.
+- A2 0.493 第416页 a2-048 ex1：Wegen des Sturms wurde der Flug gestrichen.
+- B1 0.493 第383页 b1-062 ex1：Das Dorf, wo ich aufgewachsen bin, ist klein.
+- B2 0.493 第502页 b2-057 ex1：Man beschuldigte ihn, dass er das Geld gestohlen habe.
+- B1 0.494 第203页 b1-073 ex2：Zu diesem Zweck haben wir ein Treffen vereinbart.
+- C1 0.494 第219页 c1-006 ex2：Die in China hergestellten Autos sind günstig.
+- A1 0.500 第228页 a1-029 ex1：Der Mann kauft das Auto.
+- A2 0.500 第88页 a2-015 ex2：Das Problem wurde schnell gelöst.
+- B1 0.500 第183页 b1-002 ex2：Das Formular ist bis Freitag abzugeben.
+- B1 0.500 第57页 b1-066 ex2：Dem Bahnhof gegenüber liegt ein Hotel.
+- B1 0.500 第446页 b1-072 ex1：Bei gutem Wetter machen wir ein Picknick.
+- B1 0.500 第368页 b1-074 ex2：Ungeachtet der Probleme wurde das Projekt fortgesetzt.
+- B1 0.500 第556页 b1-112 ex2：Selbst wenn er kommt, hilft es uns nicht.
+- C1 0.500 第594页 c1-013 ex2：Die Firma, der wir vertrauen, ist zuverlässig.
+- C2 0.500 第487页 c2-016 ex2：Du kommst doch mit, nicht wahr?
+- B1 0.506 第477页 b1-104 ex2：Von der Arbeit müde, ging sie früh ins Bett.
+- B2 0.506 第256页 b2-062 ex1：Er erklärte die Aufgabe, wobei er auf die Tafel zeigte.
+- A2 0.507 第308页 a2-024 ex2：Am Wochenende schlafe ich lange.
+- C1 0.507 第440页 c1-021 ex2：Seit dem Umzug wohnt er in München.
+- B1 0.508 第535页 b1-116 ex1：Als ich Kind war, wohnte ich in München.
+- C2 0.508 第445页 c2-024 ex1：Wenn er nur kommen möchte, hülfe ich ihm gern.
+- B1 0.509 第121页 b1-009 ex1：Das Problem muss sofort gelöst werden.
+- B1 0.509 第565页 b1-016 ex2：Die Mannschaft spielt heute gut.
+- B1 0.509 第197页 b1-017 ex1：Ich trinke jeden Morgen ein Glas Milch.
+- B1 0.509 第16页 b1-035 ex1：Solche Probleme sind nicht neu.
+- B1 0.510 第86页 b1-050 ex1：Im Geschäft gibt es zweierlei Brot.
+- A1 0.512 第246页 a1-033 ex2：Wir lieben unsere Heimat.
+- A2 0.513 第256页 a2-023 ex1：Welchen Film möchtest du sehen?
+- B1 0.515 第471页 b1-049 ex2：Drei Viertel der Studenten waren da.
+- B1 0.515 第565页 b1-103 ex1：Ich komme nicht, weil ich keine Zeit habe.
+- B1 0.515 第67页 b1-114 ex2：Er sprach schnell, sodass ich ihn nicht verstand.
+- B2 0.515 第302页 b2-024 ex2：Wir wohnen im selben Haus.
+- B2 0.515 第35页 b2-033 ex1：Es hat stark geregnet, infolgedessen wurde die Straße gesperrt.
+- B2 0.515 第582页 b2-064 ex2：Er ist gesund, außer dass er oft müde ist.
+- B2 0.516 第179页 b2-004 ex1：Die Ergebnisse wurden sorgfältig analysiert.
+- C2 0.517 第194页 c2-004 ex1：Den Vortrag hat Professor Meier gehalten.
+- A2 0.519 第303页 a2-022 ex1：Dieser Kuchen schmeckt sehr gut.
+- A2 0.519 第351页 a2-037 ex1：Jeder Tag ist anders.
+- B1 0.520 第319页 b1-040 ex1：Es sind viele Gäste gekommen.
+- B1 0.520 第205页 b1-062 ex2：Der Grund, warum er ging, ist unklar.
+- B2 0.520 第421页 b2-040 ex2：Indem er viel übte, wurde er besser.
+- C1 0.520 第569页 c1-038 ex1：Das ist die Frage, ob wir das schaffen.
+- B1 0.521 第383页 b1-014 ex1：Er behauptet, er habe den Brief geschrieben.
+- C1 0.521 第582页 c1-024 ex1：Ich komme mit, weil ich Zeit habe.
+- A1 0.522 第434页 a1-055 ex1：Ich lerne seit einem Jahr Deutsch.
+- B1 0.522 第370页 b1-071 ex2：Aus Angst sagte er nichts.
+- B1 0.522 第397页 b1-074 ex1：Trotz des Regens fand das Fest statt.
+- B2 0.522 第431页 b2-017 ex2：Er wohnt in einem dunklen Zimmer.
+- B2 0.522 第638页 b2-065 ex1：Die Hoffnung, dass alles gut wird, hat er nicht aufgegeben.
+- B1 0.524 第389页 b1-063 ex1：Komm rein, die Tür ist offen!
+- C1 0.524 第658页 c1-031 ex2：Das ist abhängig von der Situation.
+- B1 0.525 第561页 b1-002 ex1：Ich habe heute noch viel zu erledigen.
+- C1 0.525 第419页 c1-044 ex2：Die Durchführung der Maßnahme erfolgt im Frühjahr.
+- A1 0.526 第538页 a1-030 ex2：Der Mann, den ich gestern traf, ist mein Lehrer.
+- B1 0.526 第177页 b1-016 ex1：Das Obst ist frisch.
+- B2 0.526 第293页 b2-038 ex1：Ich gehe ohne meinen Bruder ins Kino.
+- C2 0.526 第224页 c2-011 ex2：Laut Bericht soll es keine Verletzten geben.
+- A1 0.528 第155页 a1-041 ex2：Meine Eltern sind zu Hause. Sie lesen.
+- B2 0.528 第67页 b2-020 ex2：Er ist sich seiner Sache sicher.
+- A1 0.529 第350页 a1-008 ex1：Ich trinke jeden Morgen Kaffee.
+- B1 0.529 第425页 b1-097 ex1：Es war sehr spät, deshalb ging ich sofort nach Hause.
+- B1 0.530 第540页 b1-081 ex1：Er verließ den Raum, ohne ein Wort zu sagen.
+- C2 0.530 第153页 c2-011 ex1：Der Minister erklärte, die Reform sei notwendig.
+- B1 0.531 第323页 b1-107 ex2：Sie hat gesagt, dass sie morgen kommt.
+- B1 0.531 第445页 b1-117 ex2：Er ging dorthin, woher er gekommen war.
+- A1 0.533 第365页 a1-024 ex1：Das Auto des Vaters ist neu.
+- A2 0.533 第441页 a2-033 ex1：Der dort ist mein Bruder.
+- A2 0.533 第34页 a2-049 ex1：Innerhalb einer Woche bekommen Sie eine Antwort.
+- B1 0.533 第380页 b1-048 ex1：Die Tabletten sind je zwei Stück zu nehmen.
+- C2 0.533 第595页 c2-020 ex1：Er verstarb im Alter von 90 Jahren.
+- B1 0.536 第223页 b1-037 ex1：Wer zuletzt lacht, lacht am besten.
+- B2 0.536 第223页 b2-050 ex1：Wer zuletzt lacht, lacht am besten.
+- B1 0.537 第34页 b1-007 ex2：Er hat den Fluss übergesetzt.
+- B2 0.537 第49页 b2-009 ex1：Er sagte, sie kämen morgen.
+- A2 0.538 第109页 a2-013 ex1：Morgen werde ich dich anrufen.
+- A2 0.538 第195页 a2-038 ex1：In Deutschland trinkt man viel Bier.
+- B1 0.538 第479页 b1-094 ex2：Nicht nur die Kosten, sondern auch die Zeit spielen eine Rolle.
+- A1 0.540 第439页 a1-047 ex1：Das Geschenk ist für meinen Bruder.
+- A2 0.540 第390页 a2-043 ex2：Dieses Buch ist besser als das andere.
+- B2 0.540 第141页 b2-009 ex2：Ich würde das an deiner Stelle nicht machen.
+- C1 0.540 第427页 c1-034 ex1：Da es geregnet hatte, war die Straße nass.
+- C2 0.540 第663页 c2-014 ex1：Übrigens, hast du das Formular schon abgeschickt?
+- A2 0.541 第263页 a2-037 ex2：Jeder von uns muss helfen.
+- A2 0.541 第495页 a2-052 ex2：Ich rufe dich an, wenn ich angekommen bin.
+- B2 0.541 第327页 b2-024 ex1：Er hat denselben Fehler noch einmal gemacht.
+- C1 0.541 第442页 c1-045 ex1：Es dürfte sich um einen Irrtum handeln.
+- B1 0.542 第208页 b1-018 ex1：Die Liebe zur Musik verbindet uns.
+- B1 0.542 第415页 b1-067 ex1：Während der Ferien arbeite ich in einem Café.
+- B2 0.542 第206页 b2-015 ex2：Die Suche nach der Wahrheit dauert lange.
+- B2 0.542 第282页 b2-016 ex1：Vielen Dank für die Bitte um Hilfe.
+- B2 0.542 第556页 b2-049 ex1：Er sagte, dass er kommt, wenn er Zeit hat.
+- B1 0.543 第534页 b1-098 ex1：Beeil dich, und wir schaffen es noch.
+- C1 0.543 第445页 c1-005 ex2：Die den Plan ablehnenden Kollegen blieben zu Hause.
+- A1 0.545 第324页 a1-024 ex2：Ich gebe dem Kind ein Buch.
+- A2 0.545 第287页 a2-047 ex2：Er kommt öfter zu spät als früher.
+- B1 0.545 第329页 b1-021 ex1：Ich habe Goethes Werke gelesen.
+- B1 0.545 第293页 b1-064 ex2：Er war müde, trotzdem arbeitete er weiter.
+- B1 0.545 第434页 b1-082 ex2：Wir lernten zwei Jahre Deutsch.
+- B1 0.545 第415页 b1-087 ex1：Die schlafenden Kinder wurden nicht gestört.
+- B2 0.545 第385页 b2-058 ex1：Indem er täglich übte, verbesserte er sein Deutsch.
+- C2 0.548 第71页 c2-019 ex1：Es wird empfohlen, den Antrag frühzeitig zu stellen.
+- B1 0.549 第476页 b1-080 ex2：Er kommt keineswegs zu spät.
+- A1 0.550 第287页 a1-049 ex2：Ich hänge das Bild an die Wand.
+- C1 0.550 第113页 c1-004 ex1：Der Haushalt wurde vom Parlament verabschiedet.
+- A2 0.551 第120页 a2-014 ex2：Die Arbeit wird vom Lehrer korrigiert.
+- B2 0.551 第437页 b2-060 ex2：Je früher du kommst, desto besser.
+- A1 0.552 第453页 a1-056 ex1：Kommst du aus China?
+- B1 0.552 第119页 b1-006 ex1：Das reparierte Fahrrad steht vor der Tür.
+- B2 0.552 第565页 b2-041 ex1：Ich komme nicht, denn ich bin krank.
+- B2 0.552 第439页 b2-047 ex2：Bald regnete es, bald schien die Sonne.
+- B2 0.552 第413页 b2-048 ex2：Weil er müde war, ging er früh ins Bett.
+- B1 0.553 第35页 b1-007 ex1：Ich habe den Text übersetzt.
+- B2 0.553 第238页 b2-021 ex2：Sie ist stolz auf ihren Sohn.
+- C2 0.553 第519页 c2-025 ex1：Wegen dem Regen sind wir zu Hause geblieben.（口语第三格）
+- B1 0.554 第556页 b1-106 ex2：Wer das gesagt hat, bleibt unbekannt.
+- A2 0.556 第16页 a2-022 ex2：Solche Probleme kenne ich.
+- B1 0.556 第385页 b1-075 ex1：Infolge des Unfalls wurde die Straße gesperrt.
+- B1 0.556 第534页 b1-076 ex1：Ich bleibe zu Hause, denn ich bin krank.
+- B1 0.556 第234页 b1-095 ex1：Entweder du kommst mit, oder wir gehen ohne dich.
+- B1 0.556 第534页 b1-099 ex1：Ich bleibe zu Hause, denn ich bin krank.
+- B2 0.556 第341页 b2-034 ex2：Wie oft gehst du schwimmen?
+- C2 0.556 第320页 c2-006 ex2：Das ist eine leicht lösbare Aufgabe.
+- A2 0.558 第552页 a2-015 ex1：Die Brücke wird gerade gebaut.
+- A2 0.558 第302页 a2-042 ex1：Wir wohnen in einem alten Haus.
+- B1 0.558 第252页 b1-053 ex2：Alle Kinder freuten sich.
+- C2 0.558 第180页 c2-008 ex1：Der Antrag wurde abgelehnt.（客观）
+- A1 0.559 第196页 a1-002 ex1：Meine Schwester arbeitet in einem Krankenhaus.
+- A1 0.560 第431页 a1-015 ex1：Komm bitte her!
+- A2 0.560 第541页 a2-012 ex1：Nachdem wir angekommen waren, gingen wir essen.
+- A2 0.560 第293页 a2-053 ex1：Er ist müde, aber er arbeitet weiter.
+- B1 0.560 第431页 b1-056 ex1：Komm bitte her!
+- B2 0.561 第540页 b2-040 ex1：Er löste die Aufgabe mit großer Mühe.
+- B2 0.561 第521页 b2-046 ex1：Das Haus ist schön, nur dass es zu teuer ist.
+- C2 0.561 第61页 c2-005 ex1：Es könnte sein, dass sich die Lage ändert.
+- C2 0.561 第566页 c2-008 ex2：Ich hätte den Antrag nicht abgelehnt.（主观）
+- B1 0.562 第631页 b1-034 ex2：Selbst der Lehrer wusste die Antwort nicht.
+- B1 0.562 第350页 b1-055 ex1：Morgens trinke ich Kaffee.
+- B1 0.562 第356页 b1-079 ex1：Wahrscheinlich hat er den Zug verpasst.
+- B1 0.563 第77页 b1-093 ex1：Ich lerne Deutsch und mein Bruder lernt Englisch.
+- A1 0.564 第434页 a1-020 ex2：Das Mädchen lernt Deutsch.
+- B1 0.564 第271页 b1-018 ex2：Er hat eine große Hoffnung.
+- B1 0.564 第196页 b1-077 ex1：Komm doch mit ins Kino!
+- B2 0.566 第43页 b2-032 ex2：Wir treffen uns morgen um zehn Uhr.
+- B2 0.566 第477页 b2-058 ex2：Er half, ohne dass ich es wusste.
+- C1 0.566 第391页 c1-029 ex1：Das spielt eine wichtige Rolle.
+- B1 0.567 第577页 b1-115 ex2：Er arbeitet so fleißig, wie es nur möglich ist.
+- B2 0.567 第356页 b2-042 ex2：Wahrscheinlich hat er es vergessen.
+- C1 0.567 第559页 c1-012 ex2：Diesen Fragen müssen wir nachgehen.
+- B1 0.568 第220页 b1-001 ex2：In dieser Stadt gibt es viele Museen.
+- B1 0.568 第250页 b1-091 ex1：Herr Müller, unser Deutschlehrer, ist heute krank.
+- B2 0.568 第208页 b2-016 ex2：Der Unterschied zwischen den beiden ist groß.
+- A1 0.571 第269页 a1-001 ex1：Ich mache jeden Tag Sport.
+- A2 0.571 第648页 a2-005 ex2：Sie treffen sich jeden Freitag.
+- A2 0.571 第293页 a2-019 ex1：Annas Vater arbeitet in München.
+- A2 0.571 第362页 a2-028 ex1：Am ersten September beginnt die Schule.
+- A2 0.571 第423页 a2-051 ex1：Ich bleibe zu Hause, weil ich krank bin.
+- B1 0.571 第594页 b1-012 ex1：Die Straße wird gerade gebaut.
+- B1 0.571 第88页 b1-033 ex1：Jenes Problem ist schon gelöst.
+- B1 0.571 第470页 b1-036 ex1：Der Mann, der dort steht, ist mein Lehrer.
+- B1 0.571 第35页 b1-053 ex1：Mehrere Studenten haben sich verspätet.
+- B1 0.571 第423页 b1-076 ex2：Ich bleibe zu Hause, weil ich krank bin.
+- B1 0.571 第557页 b1-078 ex1：Hoffentlich kommt er pünktlich.
+- B1 0.571 第470页 b1-090 ex1：Der Mann, der dort steht, ist mein Lehrer.
+- B2 0.571 第527页 b2-013 ex2：Ich habe Lust auf ein Eis.
+- C1 0.571 第121页 c1-027 ex2：Das ist eine lösbare Aufgabe.
+- C1 0.571 第490页 c1-028 ex1：Er hilft seinem Bruder bei den Hausaufgaben.
+- C2 0.571 第519页 c2-025 ex2：Wegen des Regens sind wir zu Hause geblieben.（标准第二格）
+- B1 0.575 第113页 b1-008 ex1：Das Bild wurde von einem berühmten Maler gemalt.
+- B1 0.575 第632页 b1-026 ex2：Der Verwandte meiner Mutter wohnt in Wien.
+- B1 0.575 第275页 b1-070 ex2：Seit seinem Umzug ist er glücklicher.
+- C1 0.575 第628页 c1-020 ex1：Er hat die Arbeit sorgfältig und schnell erledigt.
+- C1 0.575 第142页 c1-025 ex1：Ich habe keine Zeit, aber die Zeit meines Bruders ist frei.
+- C1 0.575 第158页 c1-044 ex1：Nach der Ankunft des Zuges stiegen alle aus.
+- B1 0.576 第271页 b1-065 ex1：Der Kurs beginnt um neun Uhr am Montag.
+- B2 0.577 第595页 b2-035 ex1：Die Stadt, wo ich geboren bin, ist klein.
+- A2 0.578 第338页 a2-047 ex1：Am liebsten trinke ich Tee.
+- B2 0.578 第257页 b2-003 ex1：Man kennt ihn in der ganzen Stadt.
+- A2 0.579 第293页 a2-046 ex2：Woran arbeitest du gerade?
+- A2 0.579 第480页 a2-053 ex2：Ob er kommt, weiß ich nicht.
+- B1 0.579 第557页 b1-033 ex2：Jene Zeiten sind vorbei.
+- B1 0.579 第480页 b1-102 ex2：Ob er kommt, weiß ich nicht.
+- A2 0.580 第271页 a2-026 ex2：Acht geteilt durch zwei ergibt vier.
+- A1 0.581 第424页 a1-040 ex1：Ich sehe dich morgen.
+- A2 0.581 第270页 a2-026 ex1：Zwei plus drei ist fünf.
+- B1 0.581 第232页 b1-054 ex1：Hier ist mein Platz.
+- B2 0.581 第587页 b2-028 ex2：Mehrere waren mit dem Ergebnis unzufrieden.
+- B2 0.581 第81页 b2-042 ex1：Es ist wahrscheinlich, dass er kommt.
+- C1 0.581 第121页 c1-008 ex1：Das ist noch zu klären.
+- C2 0.581 第436页 c2-018 ex1：Der Satz, den ich gestern geschrieben habe, ist falsch.
+- A1 0.582 第140页 a1-012 ex1：Früher wohnten wir in einem Dorf.
+- A2 0.582 第377页 a2-018 ex2：Wir sprechen über das Problem.
+- B1 0.582 第362页 b1-050 ex2：Er hat allerlei Erfahrungen gesammelt.
+- B2 0.582 第536页 b2-041 ex2：Ich komme nicht, weil ich krank bin.
+- A1 0.583 第116页 a1-038 ex1：Was kostet das Buch?
+- A2 0.583 第434页 a2-034 ex2：Diese sind meine Freunde.
+- A2 0.583 第53页 a2-048 ex2：Mit dem Zug fahre ich nach Köln.
+- B1 0.583 第445页 b1-094 ex1：Er liest Zeitung und sie hört Musik.
+- B2 0.583 第583页 b2-048 ex1：Er ging, ohne ein Wort zu sagen.
+- A1 0.585 第324页 a1-029 ex2：Ich gebe der Frau ein Buch.
+- A2 0.585 第46页 a2-039 ex1：Jemand hat an der Tür geklopft.
+- C1 0.585 第445页 c1-033 ex1：Obwohl es regnete, gingen wir aus.
+- B1 0.586 第406页 b1-020 ex2：Das Thema des Vortrags war interessant.
+- B1 0.586 第557页 b1-109 ex2：Er hat mich daran erinnert, dass ich anrufen soll.
+- B1 0.588 第362页 b1-027 ex2：Von allen läuft er am schnellsten.
+- B1 0.588 第319页 b1-041 ex2：Alles Gute für dich!
+- B1 0.588 第398页 b1-052 ex2：Die Preise sind um das Dreifache gestiegen.
+- B1 0.588 第439页 b1-092 ex1：Die Sonne schien, der Wind wehte.
+- B2 0.588 第365页 b2-039 ex2：Auf diese Weise lernt man schnell.
+- B1 0.590 第444页 b1-099 ex2：Er kommt nicht, er hat nämlich keine Zeit.
+- B2 0.590 第141页 b2-059 ex1：Er tut so, als ob er alles wüsste.
+- C1 0.590 第279页 c1-003 ex1：Die Rechnung ist bis Freitag zu bezahlen.
+- A1 0.591 第269页 a1-002 ex2：Wir lesen jeden Abend ein Buch.
+- A1 0.591 第465页 a1-005 ex1：Er will heute Abend fernsehen.
+- B2 0.591 第330页 b2-029 ex2：Hast du Äpfel? – Ja, ich habe welche.
+- B1 0.592 第551页 b1-089 ex2：Es gibt viele Möglichkeiten, das Problem zu lösen.
+- B2 0.593 第488页 b2-036 ex2：Worüber hast du dich geärgert?
+- B2 0.593 第322页 b2-053 ex1：Ich verstehe, was du sagen willst.
+- C1 0.593 第652页 c1-030 ex1：Ich hoffe auf gutes Wetter.
+- B2 0.594 第152页 b2-014 ex1：Es gibt keinen Grund für diese Angst.
+- C1 0.594 第439页 c1-029 ex2：Er stellt die Entscheidung in Frage.
+- B1 0.595 第345页 b1-060 ex1：Wohin fährst du im Urlaub?
+- C1 0.595 第156页 c1-018 ex2：Wie groß ist Ihre Wohnung?
+- A2 0.596 第199页 a2-014 ex1：Der Lehrer korrigiert die Arbeit.
+- C1 0.596 第655页 c1-024 ex2：Ich habe Zeit, deshalb komme ich mit.
+- B1 0.597 第458页 b1-004 ex2：Es ist nicht leicht, eine neue Sprache zu lernen.
+- A1 0.600 第393页 a1-038 ex2：Das kostet zwölf Euro neunzig.
+- A2 0.600 第284页 a2-008 ex1：Ich hoffe, dich bald zu sehen.
+- A2 0.600 第530页 a2-044 ex2：Das Wetter wird immer kälter.
+- B1 0.600 第188页 b1-029 ex2：Wo ist das Buch? – Es liegt hier.
+- B1 0.600 第257页 b1-086 ex1：Wir wohnen in einem kleinen Haus.
+- B2 0.600 第38页 b2-011 ex2：Sie nannten ihn einen Helden.
+- B2 0.600 第328页 b2-025 ex1：Diejenigen, die Interesse haben, melden sich bitte.
+- B2 0.600 第336页 b2-044 ex1：Was habe ich nicht alles versucht!
+- B2 0.600 第201页 b2-045 ex1：Das ist nicht mein Fehler, sondern deiner.
+- B2 0.600 第495页 b2-052 ex2：Es macht Spaß, mit dir zu arbeiten.
+- B2 0.600 第86页 b2-064 ex1：Soweit ich weiß, ist die Firma geschlossen.
+- C2 0.600 第52页 c2-016 ex1：Hat er aufgehört zu rauchen?
+- A1 0.603 第632页 a1-017 ex1：Ich helfe meiner Mutter im Haushalt.
+- B1 0.603 第576页 b1-009 ex2：Die Rechnung konnte nicht bezahlt werden.
+- A1 0.605 第344页 a1-052 ex1：Ich trinke Tee und esse Kuchen.
+- B1 0.605 第663页 b1-025 ex2：Das macht mich sehr glücklich.
+- B1 0.605 第643页 b1-045 ex1：Jedermann kann das verstehen.
+- A2 0.606 第329页 a2-036 ex1：Ich habe etwas Interessantes gelesen.
+- B1 0.606 第329页 b1-026 ex1：Ich habe etwas Interessantes gelesen.
+- A1 0.607 第292页 a1-042 ex1：Wer ist das? – Das ist mein Bruder.
+- B1 0.607 第338页 b1-005 ex1：Die lachenden Kinder spielten im Hof.
+- B1 0.607 第353页 b1-006 ex2：Die bestellten Bücher sind angekommen.
+- B1 0.607 第301页 b1-087 ex2：Das gestern gekaufte Auto ist teuer.
+- A1 0.609 第148页 a1-015 ex2：Machen Sie bitte die Tür zu!
+- A1 0.609 第293页 a1-034 ex2：Er ist Lehrer von Beruf.
+- B1 0.609 第418页 b1-114 ex1：Es war so kalt, dass wir nicht ausgehen wollten.
+- B2 0.609 第107页 b2-037 ex2：Dank seiner Hilfe habe ich es geschafft.
+- C1 0.609 第320页 c1-016 ex1：Erstens habe ich keine Zeit, zweitens kein Geld.
+- C1 0.609 第592页 c1-045 ex2：Ich würde vorschlagen, dass wir noch warten.
+- A1 0.610 第226页 a1-045 ex2：Sie läuft nicht so schnell wie ich.
+- A1 0.610 第439页 a1-046 ex2：Manchmal gehe ich nach dem Essen spazieren.
+- A1 0.610 第140页 a1-050 ex2：Im Winter fahren wir in die Berge.
+- B1 0.610 第434页 b1-105 ex2：Dass er gelogen hat, ärgert mich.
+- B1 0.610 第215页 b1-117 ex1：Ich arbeite dort, wo andere Urlaub machen.
+- C1 0.610 第541页 c1-005 ex1：Der gestern in Berlin angekommene Zug hatte Verspätung.
+- A1 0.611 第569页 a1-056 ex2：Wann fängt der Film an?
+- B2 0.611 第501页 b2-063 ex1：Statt zu arbeiten, hat er den ganzen Tag ferngesehen.
+- A2 0.612 第522页 a2-017 ex1：Ich gebe meinem Bruder das Buch.
+- A2 0.612 第58页 a2-056 ex2：Sie will morgen früh aufstehen.
+- B2 0.612 第315页 b2-020 ex1：Ich bin mir dessen völlig bewusst.
+- B2 0.612 第152页 b2-067 ex2：Es gibt keine Zeit, das zu erklären.
+- C1 0.612 第519页 c1-010 ex2：Sie bleibt meine beste Freundin.
+- C1 0.612 第228页 c1-015 ex2：Meine Eltern sind älter als seine.
+- C2 0.612 第677页 c2-005 ex2：Hierbei ist zu beachten, dass …
+- B1 0.613 第345页 b1-101 ex2：Ich bin müde, deshalb arbeite ich nicht weiter.
+- B2 0.613 第652页 b2-021 ex1：Ich bin an Musik sehr interessiert.
+- A1 0.615 第287页 a1-028 ex2：Sie fährt mit dem Bus.
+- B1 0.615 第418页 b1-072 ex2：Ohne deine Hilfe hätte ich es nicht geschafft.
+- B2 0.615 第489页 b2-030 ex1：Es war spät, deshalb gingen wir nach Hause.
+- C1 0.615 第298页 c1-019 ex1：Warum bist du so spät gekommen?
+- C1 0.615 第321页 c1-030 ex2：Sie träumt von einer Weltreise.
+- A1 0.618 第648页 a1-011 ex1：Ich machte früher viel Sport.
+- B1 0.618 第123页 b1-015 ex1：In diesem Raum stehen zwanzig Stühle.
+- B1 0.618 第632页 b1-091 ex2：Ich habe meinen Bruder, den Arzt, angerufen.
+- B2 0.618 第343页 b2-022 ex1：Ich bin froh, dass du gekommen bist.
+- B2 0.618 第160页 b2-063 ex2：Statt dass er sich entschuldigte, ging er weg.
+- A1 0.619 第90页 a1-001 ex2：Er ging gestern ins Kino.
+- A2 0.619 第195页 a2-019 ex2：Die Schweiz liegt im Süden.
+- A2 0.619 第220页 a2-045 ex2：Im Winter ist es am kältesten.
+- B2 0.619 第120页 b2-006 ex1：Er bekam das Auto repariert.
+- B2 0.619 第349页 b2-030 ex2：Er war krank, folglich konnte er nicht kommen.
+- B1 0.620 第114页 b1-008 ex2：Der Bahnhof wurde durch den Brand zerstört.
+- A1 0.621 第151页 a1-025 ex2：Ich helfe der Frau.
+- A1 0.621 第532页 a1-053 ex1：Ich bin müde, aber ich gehe noch arbeiten.
+- C2 0.621 第458页 c2-009 ex1：Das ist ja klar.
+- B1 0.622 第224页 b1-020 ex1：Ich kenne den Deutschen gut.
+- B1 0.622 第323页 b1-044 ex2：Irgendjemand muss es wissen.
+- B1 0.622 第533页 b1-100 ex2：Er war müde, dennoch arbeitete er weiter.
+- A1 0.623 第299页 a1-025 ex1：Die Tasche der Frau ist rot.
+- A2 0.623 第293页 a2-031 ex2：Welche von den beiden gefällt dir?
+- B2 0.623 第476页 b2-027 ex1：Das Buch, welches ich gestern gekauft habe, ist interessant.
+- A1 0.625 第253页 a1-027 ex1：Ich sehe den Mann dort.
+- B1 0.625 第465页 b1-075 ex2：Zufolge der Meldung ist niemand verletzt.
+- B2 0.625 第382页 b2-001 ex2：Der Raum steht allen zur Verfügung.
+- B2 0.625 第439页 b2-022 ex2：Sie ist sich nicht sicher, ob sie kommen soll.
+- A1 0.627 第474页 a1-048 ex1：Ich fahre mit dem Fahrrad zur Arbeit.
+- B1 0.627 第527页 b1-036 ex2：Das Buch, das ich lese, ist spannend.
+- B1 0.627 第439页 b1-116 ex2：Nachdem er gegessen hatte, ging er schlafen.
+- B2 0.627 第122页 b2-013 ex1：Es gibt einen Mangel an Fachkräften.
+- B2 0.627 第68页 b2-023 ex2：Wir müssen auch an uns denken.
+- A1 0.629 第580页 a1-022 ex2：Die Kosten sind zu hoch.
+- B2 0.629 第229页 b2-060 ex1：Je mehr ich übe, desto besser werde ich.
+- B2 0.629 第597页 b2-068 ex2：Das im letzten Jahr gebaute Haus ist schon verkauft.
+- C1 0.629 第441页 c1-015 ex1：Das ist nicht mein Heft, sondern deins.
+- B1 0.630 第445页 b1-014 ex2：Wenn er gekommen wäre, hätten wir gewonnen.
+- B1 0.630 第62页 b1-040 ex2：Es wird heute viel gearbeitet.
+- B1 0.630 第474页 b1-096 ex2：Er kam nicht mit dem Auto, sondern mit dem Zug.
+- B2 0.630 第474页 b2-035 ex2：Das ist der Grund, warum ich gekommen bin.
+- B2 0.630 第396页 b2-055 ex2：Sie versucht, ihre Angst zu überwinden.
+- B2 0.630 第293页 b2-068 ex1：Die in Berlin lebenden Studenten kommen aus China.
+- C1 0.630 第344页 c1-039 ex2：Es war kalt, trotzdem gingen wir spazieren.
+- B1 0.632 第311页 b1-073 ex1：Ich mache Sport für meine Gesundheit.
+- B1 0.632 第427页 b1-097 ex2：Er hat nicht gelernt, also fällt er durch.
+- B1 0.632 第562页 b1-112 ex1：Obwohl es regnete, gingen wir spazieren.
+- B1 0.633 第123页 b1-046 ex2：Manches Problem lässt sich leicht lösen.
+- A2 0.634 第470页 a2-025 ex2：Nur einer von uns war dort.
+- A2 0.634 第253页 a2-032 ex2：Was für Filme siehst du gern?
+- B1 0.634 第557页 b1-107 ex1：Ich glaube, dass er Recht hat.
+- A1 0.636 第534页 a1-053 ex2：Ich bleibe zu Hause, denn es regnet stark.
+- A2 0.636 第338页 a2-041 ex1：Ein junger Mann wartet draußen.
+- B1 0.636 第513页 b1-012 ex2：Die Straße ist schon gebaut.
+- B1 0.636 第248页 b1-019 ex2：Die Band spielt heute Abend.
+- B1 0.636 第85页 b1-119 ex2：Das ist die Frau, deren Mann Arzt ist.
+- B2 0.636 第145页 b2-008 ex2：Wenn ich das früher gewusst hätte!
+- B2 0.636 第448页 b2-043 ex2：Er hat das sicher nicht gewusst.
+- A1 0.638 第590页 a1-048 ex2：Seit zwei Jahren wohne ich in Berlin.
+- B1 0.638 第325页 b1-045 ex2：Das ist jedermanns Sache.
+- C1 0.639 第643页 c1-001 ex1：Er erklärte, er habe den Vertrag nicht unterschrieben.
+- B1 0.640 第488页 b1-061 ex1：Wann beginnt die Vorlesung?
+- B1 0.641 第344页 b1-100 ex1：Es war sehr kalt, trotzdem gingen wir spazieren.
+- B2 0.641 第306页 b2-026 ex2：Die einen wollen ans Meer, die anderen in die Berge.
+- B2 0.642 第547页 b2-007 ex2：Er behauptet, er habe nichts gewusst.
+- B1 0.643 第123页 b1-003 ex1：Das Problem lässt sich leicht lösen.
+- C1 0.643 第525页 c1-022 ex1：Die Katze sitzt unter dem Tisch.
+- C1 0.644 第392页 c1-003 ex2：Der Text lässt sich leicht übersetzen.
+- A1 0.645 第286页 a1-011 ex2：Er kam zu spät zur Schule.
+- B1 0.645 第80页 b1-049 ex1：Ich habe ein Drittel des Kuchens gegessen.
+- B1 0.646 第228页 b1-052 ex1：Dieses Zimmer ist doppelt so groß wie meines.
+- C1 0.646 第307页 c1-014 ex1：Ich habe dem einen geholfen, dem anderen nicht.
+- A1 0.647 第374页 a1-009 ex1：Ich habe zwei Stunden gelernt.
+- B1 0.647 第293页 b1-059 ex1：Woran denkst du gerade?
+- B2 0.647 第379页 b2-014 ex2：Das ist ein gutes Mittel gegen Kopfschmerzen.
+- B2 0.647 第432页 b2-034 ex1：Warum kommst du so spät?
+- B2 0.648 第458页 b2-052 ex1：Es ist nicht leicht, eine Sprache zu lernen.
+- A2 0.649 第141页 a2-044 ex1：Sie spricht besser Deutsch als ich.
+- B1 0.649 第499页 b1-043 ex2：Einige waren nicht einverstanden.
+- B1 0.649 第171页 b1-063 ex2：Stell die Tasche dahin!
+- B1 0.649 第555页 b1-078 ex2：Angeblich ist die Firma verkauft worden.
+- C2 0.650 第123页 c2-022 ex1：Der Schlüssel öffnet die Tür.
+- B2 0.651 第195页 b2-018 ex1：Der Junge ist zehn Jahre alt.
+- A2 0.652 第606页 a2-001 ex1：Er studiert Maschinenbau in Aachen.
+- B1 0.652 第341页 b1-057 ex1：Leider habe ich keine Zeit.
+- B2 0.653 第88页 b2-005 ex1：Das Problem ist leicht zu lösen.
+- A2 0.654 第43页 a2-018 ex1：Ich warte auf meinen Freund.
+- B1 0.654 第633页 b1-084 ex1：Ich warte auf meinen Bruder.
+- B1 0.654 第404页 b1-096 ex1：Das Hotel ist teuer, aber sehr schön.
+- C1 0.654 第525页 c1-022 ex2：Die Katze läuft unter den Tisch.
+- C2 0.654 第536页 c2-004 ex2：Es war Anna, die mich angerufen hat.
+- A1 0.655 第525页 a1-049 ex1：Die Katze schläft unter dem Tisch.
+- A1 0.655 第361页 a1-050 ex1：Am Montag habe ich einen Termin.
+- A2 0.655 第199页 a2-017 ex2：Er schenkt ihr Blumen.
+- A2 0.655 第498页 a2-040 ex1：Der neue Lehrer ist sehr freundlich.
+- B1 0.655 第630页 b1-041 ex1：Alle meine Freunde waren da.
+- B2 0.655 第528页 b2-050 ex2：Was du gesagt hast, ist wichtig.
+- B1 0.656 第376页 b1-066 ex1：Die Straße entlang stehen viele Bäume.
+- B1 0.656 第428页 b1-115 ex1：Das Wetter ist besser, als wir erwartet hatten.
+- C1 0.657 第515页 c1-036 ex1：Es ist noch unklar, ob er teilnimmt.
+- A2 0.658 第62页 a2-012 ex2：Der Zug war schon abgefahren, als ich kam.
+- A2 0.658 第443页 a2-049 ex2：Dank seiner Hilfe habe ich die Prüfung bestanden.
+- B1 0.658 第443页 b1-068 ex1：Dank seiner Hilfe habe ich die Prüfung bestanden.
+- B1 0.659 第415页 b1-067 ex2：Trotz des schlechten Wetters gingen wir spazieren.
+- A1 0.667 第580页 a1-008 ex2：Morgen fahre ich nach Hamburg.
+- A1 0.667 第380页 a1-042 ex2：Was machst du am Wochenende?
+- A1 0.667 第160页 a1-057 ex2：Entschuldigen Sie bitte!
+- A2 0.667 第433页 a2-006 ex2：Ich muss jetzt nach Hause.
+- A2 0.667 第559页 a2-007 ex1：Du musst nicht kommen.
+- A2 0.667 第145页 a2-011 ex1：Ich besuche meine Tante am Sonntag.
+- A2 0.667 第190页 a2-020 ex1：Ich kenne den Studenten gut.
+- A2 0.667 第338页 a2-028 ex2：Sie wohnt im zweiten Stock.
+- B1 0.667 第518页 b1-029 ex1：Wo ist der Schlüssel? – Er liegt auf dem Tisch.
+- B1 0.667 第293页 b1-032 ex1：Sie kommt aus Korea.
+- B1 0.667 第544页 b1-038 ex1：Es ist wichtig, jeden Tag zu üben.
+- B1 0.667 第329页 b1-047 ex1：Ich habe heute viel zu tun.
+- B1 0.667 第293页 b1-082 ex1：Sie arbeitet in einer Bank.
+- B1 0.667 第344页 b1-092 ex2：Ich trinke Kaffee, Tee, Wasser.
+- B1 0.667 第106页 b1-103 ex2：Er sagt, dass er müde ist.
+- B2 0.667 第426页 b2-008 ex1：Wenn ich reich wäre, würde ich um die Welt reisen.
+- B2 0.667 第142页 b2-032 ex1：Heute habe ich leider keine Zeit.
+- B2 0.667 第535页 b2-046 ex2：Er ist zwar jung, aber sehr erfahren.
+- B2 0.667 第578页 b2-059 ex2：Sie sieht aus, als wäre sie krank.
+- C1 0.667 第225页 c1-026 ex1：Das ist ja interessant!
+- B2 0.674 第479页 b2-047 ex1：Zuerst haben wir gegessen, dann sind wir spazieren gegangen.
+- A2 0.676 第232页 a2-045 ex1：Er ist der beste Schüler der Klasse.
+- A1 0.678 第491页 a1-022 ex1：Meine Eltern wohnen in Nanjing.
+- B2 0.678 第330页 b2-026 ex1：Der eine liest, der andere schreibt.
+- A2 0.679 第188页 a2-021 ex1：Das ist das Haus meiner Großeltern.
+- A2 0.679 第656页 a2-041 ex2：Meine neue Wohnung ist sehr groß.
+- B1 0.679 第306页 b1-035 ex2：Ich habe noch nie solch ein Haus gesehen.
+- B1 0.679 第631页 b1-090 ex2：Die Firma, bei der ich arbeite, ist groß.
+- A2 0.680 第397页 a2-010 ex1：Ich habe das Buch gelesen.
+- B2 0.680 第374页 b2-006 ex2：Sie erhielt den Preis verliehen.
+- A1 0.681 第383页 a1-018 ex2：Im Sommer fahren wir ans Meer.
+- A2 0.681 第152页 a2-011 ex2：Er versteht die Frage nicht.
+- B1 0.681 第229页 b1-031 ex2：Das ist das Auto ihrer Schwester.
+- B1 0.681 第188页 b1-088 ex1：Das Auto meines Vaters ist alt.
+- C1 0.681 第488页 c1-019 ex2：Wieso hast du das nicht gesagt?
+- A1 0.682 第374页 a1-027 ex2：Wir gehen durch den Park.
+- A1 0.682 第580页 a1-055 ex2：Morgen fahre ich nach Köln.
+- B1 0.682 第274页 b1-048 ex2：Er kommt alle zwei Wochen.
+- C1 0.682 第37页 c1-010 ex1：Er wird nächstes Jahr Arzt.
+- B1 0.683 第425页 b1-046 ex1：Manche Leute glauben das.
+- C1 0.683 第61页 c1-002 ex2：Sie soll sehr reich sein.
+- A2 0.684 第425页 a2-003 ex2：Wir warten auf den Bus.
+- B2 0.684 第425页 b2-010 ex1：Wir warten auf den Bus.
+- B2 0.684 第653页 b2-045 ex2：Er hat nie nichts gesagt.（口语强调）
+- C2 0.684 第424页 c2-010 ex1：Er muss zu Hause sein.
+- B2 0.686 第85页 b2-017 ex1：Das ist ein teures Auto.
+- C1 0.686 第556页 c1-042 ex2：Weißt du, wann er kommt?
+- A1 0.687 第247页 a1-007 ex2：Er arbeitet bei einer Firma in Shanghai.
+- A1 0.688 第124页 a1-044 ex2：Die Suppe wird kalt.
+- A2 0.688 第36页 a2-008 ex2：Er behauptet, das Buch gelesen zu haben.
+- B2 0.689 第36页 b2-002 ex1：Bis Freitag werde ich das Buch gelesen haben.
+- A1 0.690 第151页 a1-028 ex1：Ich helfe dem Kind.
+- A2 0.690 第493页 a2-025 ex1：Wir kommen zu dritt.
+- C2 0.690 第461页 c2-009 ex2：Das ist halt so.
+- A1 0.691 第269页 a1-013 ex1：Ich stehe jeden Tag um sechs Uhr auf.
+- A1 0.691 第199页 a1-018 ex1：Der Lehrer erklärt die Grammatik.
+- A1 0.692 第116页 a1-035 ex2：Das Buch kostet einundzwanzig Euro.
+- A2 0.692 第585页 a2-010 ex2：Er hat in Berlin studiert.
+- C1 0.692 第140页 c1-039 ex1：Es war kalt, aber wir gingen spazieren.
+- B1 0.693 第445页 b1-064 ex1：Es regnete stark, deshalb blieben wir zu Hause.
+- A1 0.694 第481页 a1-052 ex2：Er ist nicht Lehrer, sondern Arzt.
+- A2 0.694 第196页 a2-002 ex1：Sie liest jeden Abend einen Roman.
+- B1 0.694 第481页 b1-093 ex2：Er ist nicht Lehrer, sondern Arzt.
+- B2 0.694 第655页 b2-018 ex2：Das ist die Sache nicht wert.
+- A1 0.696 第271页 a1-013 ex2：Wann fängt der Unterricht an?
+- A1 0.696 第271页 a1-037 ex2：Der Kurs beginnt um zehn Uhr.
+- A2 0.696 第253页 a2-043 ex1：Mein Bruder ist älter als ich.
+- B1 0.696 第435页 b1-118 ex1：Das Wichtigste ist, dass wir gesund bleiben.
+- B1 0.697 第576页 b1-113 ex2：Ich stehe früh auf, um den Zug zu erreichen.
+- A1 0.698 第439页 a1-030 ex1：Die Sonne scheint heute.
+- A2 0.698 第257页 a2-032 ex1：Was für ein Haus möchten Sie kaufen?
+- B2 0.698 第525页 b2-010 ex2：Er erinnert sich gern an seine Kindheit.
+- C2 0.698 第437页 c2-003 ex2：Je früher, desto besser.
+- B1 0.699 第465页 b1-055 ex2：Glücklicherweise war niemand verletzt.
